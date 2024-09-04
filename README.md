@@ -1,21 +1,23 @@
-# Introduction to C++ Programming and Unreal
+# C++ Programming for Unreal Game Development Specialization
 
 ## By Dr. Tim "Dr. T" Chamillard, Associate Professor from  University of Colorado System at Coursera
 
-The course is a part of specialization that aimes to teach some basics of development vidio games by C++ and Unreal Engine. The Autor suggest to use Visual Studio (VS) and UE editor with doxygen as a easier way to generate HTML help documentation
+This specialization consists of 4 courses that could help with access point to video game development
 
-### Module 1
-
+### [Course 1](/Course_1_Introduction/Introduction.md)
 
 Basic of IDE and: how to start work with VS and UE editor. First console application. 
 
 ### Module 2
 
+*work in progress*
 
 ### Module 3
 
+*work in progress*
 
 ### Module 4
 
+*work in progress*
 
-### Module 5
+More info about specialization could be found [here](https://www.coursera.org/specializations/cplusplusunrealgamedevelopment)
