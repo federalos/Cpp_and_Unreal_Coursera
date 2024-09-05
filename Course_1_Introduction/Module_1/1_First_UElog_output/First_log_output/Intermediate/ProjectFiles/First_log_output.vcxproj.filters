@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\First_log_output.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\First_log_output.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\First_log_outputEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\First_log_output">
+      <UniqueIdentifier>{CCCEF865-68D3-33F5-8B40-2B6198747FDC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\First_log_output\First_log_output.Build.cs">
+      <Filter>Source\First_log_output</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\First_log_output\First_log_output.cpp">
+      <Filter>Source\First_log_output</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\First_log_output\First_log_output.h">
+      <Filter>Source\First_log_output</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\First_log_output\PrintFavoriteGames.cpp">
+      <Filter>Source\First_log_output</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\First_log_output\PrintFavoriteGames.h">
+      <Filter>Source\First_log_output</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

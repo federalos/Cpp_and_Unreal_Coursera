@@ -1,0 +1,4 @@
+﻿  ProgrammingAssignment2.cpp
+D:\Notes\Allmind\Cpp_and_Unreal_Coursera\Course_1_Introduction\Module_2\1_Distance\solution\ProgrammingAssignment2\ProgrammingAssignment2.cpp(42,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Notes\Allmind\Cpp_and_Unreal_Coursera\Course_1_Introduction\Module_2\1_Distance\solution\ProgrammingAssignment2\ProgrammingAssignment2.cpp(43,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  ProgrammingAssignment2.vcxproj -> D:\Notes\Allmind\Cpp_and_Unreal_Coursera\Course_1_Introduction\Module_2\1_Distance\solution\Debug\ProgrammingAssignment2.exe

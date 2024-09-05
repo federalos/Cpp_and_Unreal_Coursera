@@ -1,0 +1,51 @@
+"D:\Notes\Allmind\Cpp_and_Unreal_Coursera\Course_1_Introduction\Module 1\1_First_UElog_output\First_log_output\Intermediate\Build\Win64\UnrealEditor\Inc\First_log_output\UHT\First_log_output.init.gen.cpp"
+/FI"D:\Notes\Allmind\Cpp_and_Unreal_Coursera\Course_1_Introduction\Module 1\1_First_UElog_output\First_log_output\Intermediate\Build\Win64\x64\First_log_outputEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/FI"D:\Notes\Allmind\Cpp_and_Unreal_Coursera\Course_1_Introduction\Module 1\1_First_UElog_output\First_log_output\Intermediate\Build\Win64\x64\UnrealEditor\Development\First_log_output\Definitions.First_log_output.h"
+/Yu"D:\Notes\Allmind\Cpp_and_Unreal_Coursera\Course_1_Introduction\Module 1\1_First_UElog_output\First_log_output\Intermediate\Build\Win64\x64\First_log_outputEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/Fp"D:\Notes\Allmind\Cpp_and_Unreal_Coursera\Course_1_Introduction\Module 1\1_First_UElog_output\First_log_output\Intermediate\Build\Win64\x64\First_log_outputEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
+/Fo"D:\Notes\Allmind\Cpp_and_Unreal_Coursera\Course_1_Introduction\Module 1\1_First_UElog_output\First_log_output\Intermediate\Build\Win64\x64\UnrealEditor\Development\First_log_output\First_log_output.init.gen.cpp.obj"
+/sourceDependencies "D:\Notes\Allmind\Cpp_and_Unreal_Coursera\Course_1_Introduction\Module 1\1_First_UElog_output\First_log_output\Intermediate\Build\Win64\x64\UnrealEditor\Development\First_log_output\First_log_output.init.gen.cpp.dep.json"
+@"D:\Notes\Allmind\Cpp_and_Unreal_Coursera\Course_1_Introduction\Module 1\1_First_UElog_output\First_log_output\Intermediate\Build\Win64\x64\UnrealEditor\Development\First_log_output\First_log_output.Shared.rsp"
+/Zc:inline
+/nologo
+/Oi
+/FC
+/c
+/Gw
+/Gy
+/utf-8
+/wd4819
+/DSAL_NO_ATTRIBUTE_DECLARATIONS=1
+/permissive-
+/Zc:strictStrings-
+/Zc:__cplusplus
+/D_CRT_STDIO_LEGACY_WIDE_SPECIFIERS=1
+/D_SILENCE_STDEXT_HASH_DEPRECATION_WARNINGS=1
+/D_WINDLL
+/D_DISABLE_EXTENDED_ALIGNED_STORAGE
+/Ob2
+/d2ExtendedWarningInfo
+/Ox
+/Ot
+/GF
+/errorReport:prompt
+/EHsc
+/DPLATFORM_EXCEPTIONS_DISABLED=0
+/Z7
+/MD
+/bigobj
+/fp:fast
+/Zo
+/Zp8
+/we4456
+/we4458
+/we4459
+/we4668
+/wd4244
+/wd4838
+/TP
+/GR-
+/W4
+/std:c++20
+/Zc:preprocessor
+/wd5054

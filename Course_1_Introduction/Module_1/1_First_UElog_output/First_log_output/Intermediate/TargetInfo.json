@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "First_log_output",
+			"Path": "..\\Source\\First_log_output.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "First_log_outputEditor",
+			"Path": "..\\Source\\First_log_outputEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

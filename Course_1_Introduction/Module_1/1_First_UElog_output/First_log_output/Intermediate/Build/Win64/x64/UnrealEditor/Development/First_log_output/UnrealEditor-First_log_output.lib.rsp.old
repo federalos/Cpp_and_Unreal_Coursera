@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-First_log_output.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Notes\Allmind\Cpp_and_Unreal_Coursera\Course_1_Introduction\Module 1\1_First_UElog_output\First_log_output\Intermediate\Build\Win64\x64\First_log_outputEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\Notes\Allmind\Cpp_and_Unreal_Coursera\Course_1_Introduction\Module 1\1_First_UElog_output\First_log_output\Intermediate\Build\Win64\x64\UnrealEditor\Development\First_log_output\First_log_output.cpp.obj"
+"D:\Notes\Allmind\Cpp_and_Unreal_Coursera\Course_1_Introduction\Module 1\1_First_UElog_output\First_log_output\Intermediate\Build\Win64\x64\UnrealEditor\Development\First_log_output\Default.rc2.res"
+/OUT:"D:\Notes\Allmind\Cpp_and_Unreal_Coursera\Course_1_Introduction\Module 1\1_First_UElog_output\First_log_output\Intermediate\Build\Win64\x64\UnrealEditor\Development\First_log_output\UnrealEditor-First_log_output.lib"

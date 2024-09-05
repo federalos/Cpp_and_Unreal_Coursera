@@ -2,14 +2,15 @@
 
 ## By Dr. Tim "Dr. T" Chamillard, Associate Professor from  University of Colorado System at Coursera
 
-The course is a part of specialization that aimes to teach some basics of development vidio games by C++ and Unreal Engine. The Autor suggest to use Visual Studio (VS) and UE editor with doxygen as a easier way to generate HTML help documentation
+The course is a part of specialization that aims to teach some basics of development video games by C++ and Unreal Engine. The Author suggest to use Visual Studio (VS) and UE editor with doxygen as a easier way to generate HTML help documentation
 
 ### Module 1
 
+Basic of IDE and: how to start work with VS and UE editor. [First messages into log output in UE editor](/Course_1_Introduction/Module%201/First_UElog_output.md).
 
-Basic of IDE and: how to start work with VS and UE editor. First console application. 
 
 ### Module 2
+Then we talked about data [types and variables](/Course_1_Introduction/Module_2/Data_Types.md)
 
 
 ### Module 3

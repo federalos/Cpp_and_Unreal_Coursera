@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\notes\\allmind\\cpp_and_unreal_coursera\\course_1_introduction\\module 1\\1_first_uelog_output\\first_log_output\\source\\first_log_output\\printfavoritegames.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\notes\\allmind\\cpp_and_unreal_coursera\\course_1_introduction\\module 1\\1_first_uelog_output\\first_log_output\\intermediate\\build\\win64\\x64\\first_log_outputeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\notes\\allmind\\cpp_and_unreal_coursera\\course_1_introduction\\module 1\\1_first_uelog_output\\first_log_output\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\first_log_output\\definitions.first_log_output.h",
+            "d:\\notes\\allmind\\cpp_and_unreal_coursera\\course_1_introduction\\module 1\\1_first_uelog_output\\first_log_output\\source\\first_log_output\\printfavoritegames.h",
+            "d:\\notes\\allmind\\cpp_and_unreal_coursera\\course_1_introduction\\module 1\\1_first_uelog_output\\first_log_output\\intermediate\\build\\win64\\unrealeditor\\inc\\first_log_output\\uht\\printfavoritegames.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
