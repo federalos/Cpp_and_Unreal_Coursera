@@ -38,9 +38,9 @@ $number = (-1)^{sign} * Mantissa * ( 2^{Exponent})$
 
 |**Data type**     |**Memory required in bytes**|**Interpretation**|**Range**                  |
 |------------------|----------------------------|------------------|---------------------------|
-|float             |4                           |Signed single precision floating point: 23 bits of Mantissa, 8 bits of exponent and 1 bit for sign| ${3.4*10^{-38}}$  to  ${3.4*10^{38}}$ positive and negative values|
-|double            |8                           |Signed single precision floating point: 52 bits of Mantissa, 11 bits of exponent and 1 bit for sign| ${1.7*10^{-308}}$  to  ${1.7*10^{308}}$ positive and negative values        |
-|long double       |8                           |Signed single precision floating point: 52 bits of Mantissa, 11 bits of exponent and 1 bit for sign| ${1.7*10^{-308}}$  to  ${1.7*10^{308}}$ positive and negative values        |
+|float             |4                           |Signed single precision floating point: 23 bits of Mantissa, 8 bits of exponent and 1 bit for sign| $3.4*10^{-38}$  to  $3.4*10^{38}$ positive and negative values|
+|double            |8                           |Signed single precision floating point: 52 bits of Mantissa, 11 bits of exponent and 1 bit for sign| $1.7*10^{-308}$  to  $1.7*10^{308}$ positive and negative values        |
+|long double       |8                           |Signed single precision floating point: 52 bits of Mantissa, 11 bits of exponent and 1 bit for sign| $1.7*10^{-308}$  to  $1.7*10^{308}$ positive and negative values        |
 
 There is some trick do mentioned:
 If we would like to divide two integer numbers, but expecting to get an floating point result, we should use `TypeCast`. It is an instrument in C++ that helps to compiler to understand, that one of variables should be interpreter as different data type. Here is an example of problem:
