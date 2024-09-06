@@ -6,17 +6,21 @@ The course is a part of specialization that aims to teach some basics of develop
 
 ### Module 1
 
-Basic of IDE and: how to start work with VS and UE editor. [First messages into log output in UE editor](/Course_1_Introduction/Module%201/First_UElog_output.md).
+Basic of IDE and: how to start work with VS and UE editor. [First messages into log output in UE editor](/Course_1_Introduction/Module_1/First_UElog_output.md).
 
 
 ### Module 2
+
 Then we talked about data [types and variables](/Course_1_Introduction/Module_2/Data_Types.md)
 
 
 ### Module 3
 
+[Classes and Objects](/Course_1_Introduction/Module_3/Classes_and_Objects.md) in C++ and UE.
 
 ### Module 4
 
 
 ### Module 5
+
+The course you can find [here](https://www.coursera.org/learn/introductionprogrammingunreal?specialization=cplusplusunrealgamedevelopment)
