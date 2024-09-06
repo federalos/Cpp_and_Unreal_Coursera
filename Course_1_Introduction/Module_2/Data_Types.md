@@ -34,13 +34,13 @@ The floating type can be interpreted as image below:
 ![alt text](0067-Floating-Point_Representation_Feature_Image.webp)
 So the first bit tells only about the sign of value. Next 8 bits tells the amount of number that will be after the dot. And the rest of bits (23) tells the number, that storage here. We can write the formula for this calculation:
 
-$ number = (-1)^{sign} * Mantissa * ( 2^{Exponent})$
+$number = (-1)^{sign} * Mantissa * ( 2^{Exponent})$
 
 |**Data type**     |**Memory required in bytes**|**Interpretation**|**Range**                  |
 |------------------|----------------------------|------------------|---------------------------|
-|float             |4                           |Signed single precision floating point: 23 bits of Mantissa, 8 bits of exponent and 1 bit for sign|$3.4*10^{-38}$  to  $3.4*10^{38}$ positive and negative values|
-|double            |8                           |Signed single precision floating point: 52 bits of Mantissa, 11 bits of exponent and 1 bit for sign|$1.7*10^{-308}$  to  $1.7*10^{308}$ positive and negative values        |
-|long double       |8                           |Signed single precision floating point: 52 bits of Mantissa, 11 bits of exponent and 1 bit for sign|$1.7*10^{-308}$  to  $1.7*10^{308}$ positive and negative values        |
+|float             |4                           |Signed single precision floating point: 23 bits of Mantissa, 8 bits of exponent and 1 bit for sign| $3.4*10^{-38}$  to  $3.4*10^{38}$ positive and negative values|
+|double            |8                           |Signed single precision floating point: 52 bits of Mantissa, 11 bits of exponent and 1 bit for sign| $1.7*10^{-308}$  to  $1.7*10^{308}$ positive and negative values        |
+|long double       |8                           |Signed single precision floating point: 52 bits of Mantissa, 11 bits of exponent and 1 bit for sign| $1.7*10^{-308}$  to  $1.7*10^{308}$ positive and negative values        |
 
 There is some trick do mentioned:
 If we would like to divide two integer numbers, but expecting to get an floating point result, we should use `TypeCast`. It is an instrument in C++ that helps to compiler to understand, that one of variables should be interpreter as different data type. Here is an example of problem:
