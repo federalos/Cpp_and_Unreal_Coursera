@@ -1,0 +1,23 @@
+var NAVTREEINDEX0 =
+{
+"_die_8h_source.html":[1,0,0,0],
+"_random_8h_source.html":[1,0,0,1],
+"annotated.html":[0,0],
+"classes.html":[0,1],
+"classexercise8_1_1_die.html":[0,0,0,0],
+"classexercise8_1_1_die.html#a11be72e6ae493601c1459c362af88e6b":[0,0,0,0,2],
+"classexercise8_1_1_die.html#a9953d9e821f3ea04801602954848708b":[0,0,0,0,4],
+"classexercise8_1_1_die.html#aa5d982349a2834dc05314e71555f9208":[0,0,0,0,1],
+"classexercise8_1_1_die.html#abe2b343f1e522600125c01d8e992af98":[0,0,0,0,0],
+"classexercise8_1_1_die.html#ac8f5782e35d073f1d0d946b46587ca7d":[0,0,0,0,3],
+"classexercise8_1_1_random.html":[0,0,0,1],
+"classexercise8_1_1_random.html#a254ce418c7e5ff4999585968ab433845":[0,0,0,1,0],
+"classexercise8_1_1_random.html#a314f3184bf7bc18a57622f167ce03161":[0,0,0,1,1],
+"dir_fa9228e71b117c4e900bade24bf2e239.html":[1,0,0],
+"files.html":[1,0],
+"functions.html":[0,2,0],
+"functions_func.html":[0,2,1],
+"index.html":[],
+"pages.html":[],
+"":[0,0,0]
+};
