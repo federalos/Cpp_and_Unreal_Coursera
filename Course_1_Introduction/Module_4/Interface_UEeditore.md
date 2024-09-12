@@ -39,4 +39,8 @@ Good naming rule is:
       - T_NameObj_D - diffuse or specular Texture of NameObject
       - T_NameObj_N - texture that specifies a normal map for the mesh
 
-Blueprint is a prefabricated entity. In other words, an entity we have configured to behave the way we want it to, then saved as a blueprint.
+A blueprint is a prefabricated entity—an entity we have configured to behave the way we want it to and then saved as a blueprint. We can spawn several actors that refer to blueprint(or prefab). If you change some properties for the blueprint, all entities will update their properties according to the blueprint.
+
+Some exercises:
+- [Move That Actor](/Course_1_Introduction/Module_4/1_Move_that_Actor/Move_that_Actor.md)
+- [More Unreal Practice](/Course_1_Introduction/Module_4/2_More_Practice/More_Practice.md)
