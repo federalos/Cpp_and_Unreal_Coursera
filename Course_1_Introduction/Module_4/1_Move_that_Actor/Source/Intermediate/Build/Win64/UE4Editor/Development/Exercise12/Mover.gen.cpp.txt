@@ -1,0 +1,5 @@
+C:\Users\timch\Documents\Unreal Projects\Exercise12\Intermediate\Build\Win64\UE4Editor\Development\Exercise12\Definitions.Exercise12.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\timch\Documents\Unreal Projects\Exercise12\Source\Exercise12/Mover.h
+C:\Users\timch\Documents\Unreal Projects\Exercise12\Intermediate\Build\Win64\UE4Editor\Inc\Exercise12\Mover.generated.h

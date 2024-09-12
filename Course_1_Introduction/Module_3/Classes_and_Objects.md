@@ -47,5 +47,5 @@ To draw the class in block-diagrams you can use UML (Unified Modeling Language).
 
 Some extra exercises:
 - [Roll the Dice](/Course_1_Introduction/Module_3/1_Roll_the_Dice/Roll_the_Dice.md)
-- [Look at the Cards](/Course_1_Introduction/Module_3/2_Look_at_the_Card/Look_at_the_Card.md)-
+- [Look at the Cards](/Course_1_Introduction/Module_3/2_Look_at_the_Card/Look_at_the_Card.md)
 - [Homework to this module: Nothing Like Blackjack](/Course_1_Introduction/Module_3/3_Nothing_Like_Blackjack/Nothing_Like_Blackjack.md)

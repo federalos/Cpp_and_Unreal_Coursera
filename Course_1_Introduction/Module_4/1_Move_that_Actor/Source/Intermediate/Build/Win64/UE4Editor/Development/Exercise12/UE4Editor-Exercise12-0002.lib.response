@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Exercise12-0002.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\timch\Documents\Unreal Projects\Exercise12\Intermediate\Build\Win64\Exercise12Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\timch\Documents\Unreal Projects\Exercise12\Intermediate\Build\Win64\UE4Editor\Development\Exercise12\Exercise12.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\Exercise12\Intermediate\Build\Win64\UE4Editor\Development\Exercise12\Exercise12GameModeBase.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\Exercise12\Intermediate\Build\Win64\UE4Editor\Development\Exercise12\Mover.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\Exercise12\Intermediate\Build\Win64\UE4Editor\Development\Exercise12\Exercise12.init.gen.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\Exercise12\Intermediate\Build\Win64\UE4Editor\Development\Exercise12\Exercise12GameModeBase.gen.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\Exercise12\Intermediate\Build\Win64\UE4Editor\Development\Exercise12\Mover.gen.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\Exercise12\Intermediate\Build\Win64\UE4Editor\Development\Exercise12\Default.rc2.res"
+/OUT:"C:\Users\timch\Documents\Unreal Projects\Exercise12\Intermediate\Build\Win64\UE4Editor\Development\Exercise12\UE4Editor-Exercise12-0002.lib"
+/INCLUDE:IMPLEMENT_MODULE_Exercise12

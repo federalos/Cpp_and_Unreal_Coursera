@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Exercise12.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Exercise12.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Exercise12Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Exercise12">
+      <UniqueIdentifier>{3188FBCC-1665-32C8-95E9-C869DE3E717D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Exercise12\Exercise12.Build.cs">
+      <Filter>Source\Exercise12</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Exercise12\Exercise12.cpp">
+      <Filter>Source\Exercise12</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Exercise12\Exercise12.h">
+      <Filter>Source\Exercise12</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Exercise12\Exercise12GameModeBase.cpp">
+      <Filter>Source\Exercise12</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Exercise12\Exercise12GameModeBase.h">
+      <Filter>Source\Exercise12</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Exercise12\Mover.cpp">
+      <Filter>Source\Exercise12</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Exercise12\Mover.h">
+      <Filter>Source\Exercise12</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
