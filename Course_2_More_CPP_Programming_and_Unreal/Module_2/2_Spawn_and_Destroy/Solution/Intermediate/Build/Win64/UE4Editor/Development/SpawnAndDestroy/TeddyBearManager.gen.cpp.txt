@@ -1,0 +1,7 @@
+C:\Users\timch\Documents\Unreal Projects\SpawnAndDestroy\Intermediate\Build\Win64\UE4Editor\Development\SpawnAndDestroy\Definitions.SpawnAndDestroy.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\timch\Documents\Unreal Projects\SpawnAndDestroy\Source\SpawnAndDestroy/TeddyBearManager.h
+C:\Users\timch\Documents\Unreal Projects\SpawnAndDestroy\Source\SpawnAndDestroy\TeddyBear.h
+C:\Users\timch\Documents\Unreal Projects\SpawnAndDestroy\Intermediate\Build\Win64\UE4Editor\Inc\SpawnAndDestroy\TeddyBear.generated.h
+C:\Users\timch\Documents\Unreal Projects\SpawnAndDestroy\Intermediate\Build\Win64\UE4Editor\Inc\SpawnAndDestroy\TeddyBearManager.generated.h

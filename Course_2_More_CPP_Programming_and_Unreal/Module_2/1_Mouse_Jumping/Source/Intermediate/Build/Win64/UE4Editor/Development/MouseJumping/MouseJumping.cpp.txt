@@ -1,0 +1,2 @@
+C:\Users\timch\Documents\Unreal Projects\MouseJumping\Intermediate\Build\Win64\UE4Editor\Development\MouseJumping\Definitions.MouseJumping.h
+C:\Users\timch\Documents\Unreal Projects\MouseJumping\Source\MouseJumping\MouseJumping.h

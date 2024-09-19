@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Notes\\Allmind\\Cpp_and_Unreal_Coursera\\Course_2_More_CPP_Programming_and_Unreal\\Module_1\\1_Shrink_and_Grow\\Solution\\Shrink_and_Grow\\Source\\Shrink_and_Grow\\Shrink_and_Grow.Build.cs",
+		"D:\\Notes\\Allmind\\Cpp_and_Unreal_Coursera\\Course_2_More_CPP_Programming_and_Unreal\\Module_1\\1_Shrink_and_Grow\\Solution\\Shrink_and_Grow\\Source\\Shrink_and_Grow.Target.cs",
+		"D:\\Notes\\Allmind\\Cpp_and_Unreal_Coursera\\Course_2_More_CPP_Programming_and_Unreal\\Module_1\\1_Shrink_and_Grow\\Solution\\Shrink_and_Grow\\Source\\Shrink_and_GrowEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SpawnAndDestroy",
+			"Path": "C:\\Users\\timch\\Documents\\Unreal Projects\\SpawnAndDestroy\\Source\\SpawnAndDestroy.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SpawnAndDestroyEditor",
+			"Path": "C:\\Users\\timch\\Documents\\Unreal Projects\\SpawnAndDestroy\\Source\\SpawnAndDestroyEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

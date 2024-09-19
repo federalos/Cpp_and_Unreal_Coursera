@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "RandomDestruction",
+			"Path": "C:\\Users\\timch\\Documents\\Unreal Projects\\RandomDestruction\\Source\\RandomDestruction.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "RandomDestructionEditor",
+			"Path": "C:\\Users\\timch\\Documents\\Unreal Projects\\RandomDestruction\\Source\\RandomDestructionEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

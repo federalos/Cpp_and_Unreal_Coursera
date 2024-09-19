@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\MouseJumping.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{3B48A983-29E7-457C-BC22-5527CFF16862}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MouseJumping.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MouseJumpingEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{AFDA5FA3-DA83-4364-91E7-AF1B76E05F77}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\MouseJumping">
+      <UniqueIdentifier>{741B7945-3DE5-4CC8-B268-E7EDA267697A}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MouseJumping\MinerPawn.cpp">
+      <Filter>Source\MouseJumping</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MouseJumping\MinerPawn.h">
+      <Filter>Source\MouseJumping</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MouseJumping\MinerPlayerController.cpp">
+      <Filter>Source\MouseJumping</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MouseJumping\MinerPlayerController.h">
+      <Filter>Source\MouseJumping</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\MouseJumping\MouseJumping.Build.cs">
+      <Filter>Source\MouseJumping</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\MouseJumping\MouseJumping.cpp">
+      <Filter>Source\MouseJumping</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MouseJumping\MouseJumping.h">
+      <Filter>Source\MouseJumping</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MouseJumping\MouseJumpingGameModeBase.cpp">
+      <Filter>Source\MouseJumping</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MouseJumping\MouseJumpingGameModeBase.h">
+      <Filter>Source\MouseJumping</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\notes\\allmind\\cpp_and_unreal_coursera\\course_1_introduction\\module_4\\2_more_practice\\more_practice\\source\\more_practice\\private\\s_mover_r.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\notes\\allmind\\cpp_and_unreal_coursera\\course_1_introduction\\module_4\\2_more_practice\\more_practice\\intermediate\\build\\win64\\x64\\more_practiceeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\notes\\allmind\\cpp_and_unreal_coursera\\course_1_introduction\\module_4\\2_more_practice\\more_practice\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\more_practice\\definitions.more_practice.h",
+            "d:\\notes\\allmind\\cpp_and_unreal_coursera\\course_1_introduction\\module_4\\2_more_practice\\more_practice\\source\\more_practice\\private\\s_mover_r.h",
+            "d:\\notes\\allmind\\cpp_and_unreal_coursera\\course_1_introduction\\module_4\\2_more_practice\\more_practice\\intermediate\\build\\win64\\unrealeditor\\inc\\more_practice\\uht\\s_mover_r.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

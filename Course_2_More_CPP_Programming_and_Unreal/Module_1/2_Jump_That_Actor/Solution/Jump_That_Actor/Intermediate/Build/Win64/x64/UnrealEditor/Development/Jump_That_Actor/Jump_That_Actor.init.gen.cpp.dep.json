@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\notes\\allmind\\cpp_and_unreal_coursera\\course_2_more_cpp_programming_and_unreal\\module_1\\2_jump_that_actor\\solution\\jump_that_actor\\intermediate\\build\\win64\\unrealeditor\\inc\\jump_that_actor\\uht\\jump_that_actor.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\notes\\allmind\\cpp_and_unreal_coursera\\course_2_more_cpp_programming_and_unreal\\module_1\\2_jump_that_actor\\solution\\jump_that_actor\\intermediate\\build\\win64\\x64\\jump_that_actoreditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\notes\\allmind\\cpp_and_unreal_coursera\\course_2_more_cpp_programming_and_unreal\\module_1\\2_jump_that_actor\\solution\\jump_that_actor\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\jump_that_actor\\definitions.jump_that_actor.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,2 @@
+C:\Users\timch\Documents\Unreal Projects\Exercise12\Intermediate\Build\Win64\UE4Editor\Development\Exercise12\Definitions.Exercise12.h
+C:\Users\timch\Documents\Unreal Projects\Exercise12\Source\Exercise12\Exercise12.h

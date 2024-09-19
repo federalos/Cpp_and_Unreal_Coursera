@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\FinallyADrivingGame.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{D6D18472-BF62-4004-B7E6-7EE9F120587A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FinallyADrivingGame.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FinallyADrivingGameEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{B61261AE-CB84-441A-9880-F3BE48D3923D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\FinallyADrivingGame">
+      <UniqueIdentifier>{CF61A651-5CC6-41DC-A488-7FD458DDD142}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FinallyADrivingGame\FinallyADrivingGame.Build.cs">
+      <Filter>Source\FinallyADrivingGame</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\FinallyADrivingGame\FinallyADrivingGame.cpp">
+      <Filter>Source\FinallyADrivingGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FinallyADrivingGame\FinallyADrivingGame.h">
+      <Filter>Source\FinallyADrivingGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FinallyADrivingGame\FinallyADrivingGameGameModeBase.cpp">
+      <Filter>Source\FinallyADrivingGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FinallyADrivingGame\FinallyADrivingGameGameModeBase.h">
+      <Filter>Source\FinallyADrivingGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FinallyADrivingGame\MyPawn.cpp">
+      <Filter>Source\FinallyADrivingGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FinallyADrivingGame\MyPawn.h">
+      <Filter>Source\FinallyADrivingGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FinallyADrivingGame\MyPlayerController.cpp">
+      <Filter>Source\FinallyADrivingGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FinallyADrivingGame\MyPlayerController.h">
+      <Filter>Source\FinallyADrivingGame</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

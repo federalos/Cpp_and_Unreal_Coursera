@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Shrink_and_Grow",
+			"Path": "..\\Source\\Shrink_and_Grow.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Shrink_and_GrowEditor",
+			"Path": "..\\Source\\Shrink_and_GrowEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

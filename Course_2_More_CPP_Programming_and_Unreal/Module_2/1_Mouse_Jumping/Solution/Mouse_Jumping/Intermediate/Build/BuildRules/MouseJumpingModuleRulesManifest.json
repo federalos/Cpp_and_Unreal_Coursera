@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\timch\\Documents\\Unreal Projects\\MouseJumping\\Source\\MouseJumping\\MouseJumping.Build.cs",
+		"C:\\Users\\timch\\Documents\\Unreal Projects\\MouseJumping\\Source\\MouseJumping.Target.cs",
+		"C:\\Users\\timch\\Documents\\Unreal Projects\\MouseJumping\\Source\\MouseJumpingEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.1"
+}

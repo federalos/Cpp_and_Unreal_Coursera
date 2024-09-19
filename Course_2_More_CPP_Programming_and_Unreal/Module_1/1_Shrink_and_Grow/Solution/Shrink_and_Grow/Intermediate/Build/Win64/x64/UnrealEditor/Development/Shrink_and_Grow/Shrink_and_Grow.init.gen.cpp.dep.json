@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\notes\\allmind\\cpp_and_unreal_coursera\\course_2_more_cpp_programming_and_unreal\\module_1\\1_shrink_and_grow\\solution\\shrink_and_grow\\intermediate\\build\\win64\\unrealeditor\\inc\\shrink_and_grow\\uht\\shrink_and_grow.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\notes\\allmind\\cpp_and_unreal_coursera\\course_2_more_cpp_programming_and_unreal\\module_1\\1_shrink_and_grow\\solution\\shrink_and_grow\\intermediate\\build\\win64\\x64\\shrink_and_groweditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\notes\\allmind\\cpp_and_unreal_coursera\\course_2_more_cpp_programming_and_unreal\\module_1\\1_shrink_and_grow\\solution\\shrink_and_grow\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\shrink_and_grow\\definitions.shrink_and_grow.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

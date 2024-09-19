@@ -1,0 +1,20 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-FinallyADrivingGame-0009.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\timch\Documents\Unreal Projects\FinallyADrivingGame\Intermediate\Build\Win64\FinallyADrivingGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\timch\Documents\Unreal Projects\FinallyADrivingGame\Intermediate\Build\Win64\UE4Editor\Development\FinallyADrivingGame\FinallyADrivingGame.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\FinallyADrivingGame\Intermediate\Build\Win64\UE4Editor\Development\FinallyADrivingGame\FinallyADrivingGameGameModeBase.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\FinallyADrivingGame\Intermediate\Build\Win64\UE4Editor\Development\FinallyADrivingGame\MyPawn.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\FinallyADrivingGame\Intermediate\Build\Win64\UE4Editor\Development\FinallyADrivingGame\MyPlayerController.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\FinallyADrivingGame\Intermediate\Build\Win64\UE4Editor\Development\FinallyADrivingGame\FinallyADrivingGame.init.gen.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\FinallyADrivingGame\Intermediate\Build\Win64\UE4Editor\Development\FinallyADrivingGame\FinallyADrivingGameGameModeBase.gen.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\FinallyADrivingGame\Intermediate\Build\Win64\UE4Editor\Development\FinallyADrivingGame\MyPawn.gen.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\FinallyADrivingGame\Intermediate\Build\Win64\UE4Editor\Development\FinallyADrivingGame\MyPlayerController.gen.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\FinallyADrivingGame\Intermediate\Build\Win64\UE4Editor\Development\FinallyADrivingGame\Default.rc2.res"
+/OUT:"C:\Users\timch\Documents\Unreal Projects\FinallyADrivingGame\Intermediate\Build\Win64\UE4Editor\Development\FinallyADrivingGame\UE4Editor-FinallyADrivingGame-0009.lib"
+/INCLUDE:IMPLEMENT_MODULE_FinallyADrivingGame

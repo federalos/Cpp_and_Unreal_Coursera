@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Notes/Allmind/Cpp_and_Unreal_Coursera/Course_2_More_CPP_Programming_and_Unreal/Module_1/2_Jump_That_Actor/Solution/Jump_That_Actor/Content/Maps/Map0.umap",
+				"D:/Notes/Allmind/Cpp_and_Unreal_Coursera/Course_2_More_CPP_Programming_and_Unreal/Module_1/2_Jump_That_Actor/Solution/Jump_That_Actor/Content/Materials/M_Grean_Teddy_Bear_Physics.uasset",
+				"D:/Notes/Allmind/Cpp_and_Unreal_Coursera/Course_2_More_CPP_Programming_and_Unreal/Module_1/2_Jump_That_Actor/Solution/Jump_That_Actor/Content/Blueprints/BP_Jumper.uasset",
+				"D:/Notes/Allmind/Cpp_and_Unreal_Coursera/Course_2_More_CPP_Programming_and_Unreal/Module_1/2_Jump_That_Actor/Solution/Jump_That_Actor/Content/Arts/M_Green_Teddy_Bear.uasset",
+				"D:/Notes/Allmind/Cpp_and_Unreal_Coursera/Course_2_More_CPP_Programming_and_Unreal/Module_1/2_Jump_That_Actor/Solution/Jump_That_Actor/Content/Arts/SM_Green_Teddy_Bear.uasset",
+				"D:/Notes/Allmind/Cpp_and_Unreal_Coursera/Course_2_More_CPP_Programming_and_Unreal/Module_1/2_Jump_That_Actor/Solution/Jump_That_Actor/Content/Arts/T_Green_Teddy_Bear_D.uasset",
+				"D:/Notes/Allmind/Cpp_and_Unreal_Coursera/Course_2_More_CPP_Programming_and_Unreal/Module_1/2_Jump_That_Actor/Solution/Jump_That_Actor/Content/Arts/T_Green_Teddy_Bear_N.uasset"
+			]
+		}
+	]
+}

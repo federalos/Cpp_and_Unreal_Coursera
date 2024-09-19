@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Jump_That_Actor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Notes\Allmind\Cpp_and_Unreal_Coursera\Course_2_More_CPP_Programming_and_Unreal\Module_1\2_Jump_That_Actor\Solution\Jump_That_Actor\Intermediate\Build\Win64\x64\Jump_That_ActorEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\Notes\Allmind\Cpp_and_Unreal_Coursera\Course_2_More_CPP_Programming_and_Unreal\Module_1\2_Jump_That_Actor\Solution\Jump_That_Actor\Intermediate\Build\Win64\x64\UnrealEditor\Development\Jump_That_Actor\Jumper.gen.cpp.obj"
+"D:\Notes\Allmind\Cpp_and_Unreal_Coursera\Course_2_More_CPP_Programming_and_Unreal\Module_1\2_Jump_That_Actor\Solution\Jump_That_Actor\Intermediate\Build\Win64\x64\UnrealEditor\Development\Jump_That_Actor\Jump_That_Actor.init.gen.cpp.obj"
+"D:\Notes\Allmind\Cpp_and_Unreal_Coursera\Course_2_More_CPP_Programming_and_Unreal\Module_1\2_Jump_That_Actor\Solution\Jump_That_Actor\Intermediate\Build\Win64\x64\UnrealEditor\Development\Jump_That_Actor\Jumper.cpp.obj"
+"D:\Notes\Allmind\Cpp_and_Unreal_Coursera\Course_2_More_CPP_Programming_and_Unreal\Module_1\2_Jump_That_Actor\Solution\Jump_That_Actor\Intermediate\Build\Win64\x64\UnrealEditor\Development\Jump_That_Actor\Jump_That_Actor.cpp.obj"
+"D:\Notes\Allmind\Cpp_and_Unreal_Coursera\Course_2_More_CPP_Programming_and_Unreal\Module_1\2_Jump_That_Actor\Solution\Jump_That_Actor\Intermediate\Build\Win64\x64\UnrealEditor\Development\Jump_That_Actor\Default.rc2.res"
+/OUT:"D:\Notes\Allmind\Cpp_and_Unreal_Coursera\Course_2_More_CPP_Programming_and_Unreal\Module_1\2_Jump_That_Actor\Solution\Jump_That_Actor\Intermediate\Build\Win64\x64\UnrealEditor\Development\Jump_That_Actor\UnrealEditor-Jump_That_Actor.lib"

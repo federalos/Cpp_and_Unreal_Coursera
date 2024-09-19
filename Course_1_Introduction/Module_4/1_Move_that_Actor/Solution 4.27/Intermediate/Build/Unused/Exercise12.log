@@ -1,0 +1,10 @@
+﻿  Building Exercise12Editor...
+  Using Visual Studio 2022 14.41.34120 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 3 actions with 8 processes...
+    [1/3] UE4Editor-Exercise12-0006.lib
+       Creating library D:\Notes\Allmind\Cpp_and_Unreal_Coursera\Course_1_Introduction\Module_4\1_Move_that_Actor\Solution 4.27\Intermediate\Build\Win64\UE4Editor\Development\Exercise12\UE4Editor-Exercise12-0006.lib and object D:\Notes\Allmind\Cpp_and_Unreal_Coursera\Course_1_Introduction\Module_4\1_Move_that_Actor\Solution 4.27\Intermediate\Build\Win64\UE4Editor\Development\Exercise12\UE4Editor-Exercise12-0006.exp
+    [2/3] UE4Editor-Exercise12-0006.dll
+       Creating library D:\Notes\Allmind\Cpp_and_Unreal_Coursera\Course_1_Introduction\Module_4\1_Move_that_Actor\Solution 4.27\Intermediate\Build\Win64\UE4Editor\Development\Exercise12\UE4Editor-Exercise12-0006.suppressed.lib and object D:\Notes\Allmind\Cpp_and_Unreal_Coursera\Course_1_Introduction\Module_4\1_Move_that_Actor\Solution 4.27\Intermediate\Build\Win64\UE4Editor\Development\Exercise12\UE4Editor-Exercise12-0006.suppressed.exp
+    [3/3] Exercise12Editor.target
+  Total time in Parallel executor: 1,00 seconds
+  Total execution time: 2,00 seconds

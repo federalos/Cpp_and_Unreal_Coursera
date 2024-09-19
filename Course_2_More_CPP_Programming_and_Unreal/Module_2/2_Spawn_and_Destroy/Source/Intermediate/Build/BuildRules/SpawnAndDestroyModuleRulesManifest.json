@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\timch\\Documents\\Unreal Projects\\SpawnAndDestroy\\Source\\SpawnAndDestroy\\SpawnAndDestroy.Build.cs",
+		"C:\\Users\\timch\\Documents\\Unreal Projects\\SpawnAndDestroy\\Source\\SpawnAndDestroy.Target.cs",
+		"C:\\Users\\timch\\Documents\\Unreal Projects\\SpawnAndDestroy\\Source\\SpawnAndDestroyEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.1"
+}

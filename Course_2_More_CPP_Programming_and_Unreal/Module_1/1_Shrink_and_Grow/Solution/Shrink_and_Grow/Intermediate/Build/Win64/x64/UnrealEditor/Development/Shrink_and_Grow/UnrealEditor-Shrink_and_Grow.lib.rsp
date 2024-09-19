@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Shrink_and_Grow.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Notes\Allmind\Cpp_and_Unreal_Coursera\Course_2_More_CPP_Programming_and_Unreal\Module_1\1_Shrink_and_Grow\Solution\Shrink_and_Grow\Intermediate\Build\Win64\x64\Shrink_and_GrowEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\Notes\Allmind\Cpp_and_Unreal_Coursera\Course_2_More_CPP_Programming_and_Unreal\Module_1\1_Shrink_and_Grow\Solution\Shrink_and_Grow\Intermediate\Build\Win64\x64\UnrealEditor\Development\Shrink_and_Grow\Shrink_and_Grow.init.gen.cpp.obj"
+"D:\Notes\Allmind\Cpp_and_Unreal_Coursera\Course_2_More_CPP_Programming_and_Unreal\Module_1\1_Shrink_and_Grow\Solution\Shrink_and_Grow\Intermediate\Build\Win64\x64\UnrealEditor\Development\Shrink_and_Grow\S_Resize.gen.cpp.obj"
+"D:\Notes\Allmind\Cpp_and_Unreal_Coursera\Course_2_More_CPP_Programming_and_Unreal\Module_1\1_Shrink_and_Grow\Solution\Shrink_and_Grow\Intermediate\Build\Win64\x64\UnrealEditor\Development\Shrink_and_Grow\Shrink_and_Grow.cpp.obj"
+"D:\Notes\Allmind\Cpp_and_Unreal_Coursera\Course_2_More_CPP_Programming_and_Unreal\Module_1\1_Shrink_and_Grow\Solution\Shrink_and_Grow\Intermediate\Build\Win64\x64\UnrealEditor\Development\Shrink_and_Grow\S_Resize.cpp.obj"
+"D:\Notes\Allmind\Cpp_and_Unreal_Coursera\Course_2_More_CPP_Programming_and_Unreal\Module_1\1_Shrink_and_Grow\Solution\Shrink_and_Grow\Intermediate\Build\Win64\x64\UnrealEditor\Development\Shrink_and_Grow\Default.rc2.res"
+/OUT:"D:\Notes\Allmind\Cpp_and_Unreal_Coursera\Course_2_More_CPP_Programming_and_Unreal\Module_1\1_Shrink_and_Grow\Solution\Shrink_and_Grow\Intermediate\Build\Win64\x64\UnrealEditor\Development\Shrink_and_Grow\UnrealEditor-Shrink_and_Grow.lib"

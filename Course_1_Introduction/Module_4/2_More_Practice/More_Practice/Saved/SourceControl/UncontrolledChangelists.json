@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Notes/Allmind/Cpp_and_Unreal_Coursera/Course_1_Introduction/Module_4/2_More_Practice/More_Practice/Content/Materials/M_Floor.uasset",
+				"D:/Notes/Allmind/Cpp_and_Unreal_Coursera/Course_1_Introduction/Module_4/2_More_Practice/More_Practice/Content/Materials/M_Wall.uasset",
+				"D:/Notes/Allmind/Cpp_and_Unreal_Coursera/Course_1_Introduction/Module_4/2_More_Practice/More_Practice/Content/Materials/M_Object.uasset",
+				"D:/Notes/Allmind/Cpp_and_Unreal_Coursera/Course_1_Introduction/Module_4/2_More_Practice/More_Practice/Content/Maps/Map0.umap",
+				"D:/Notes/Allmind/Cpp_and_Unreal_Coursera/Course_1_Introduction/Module_4/2_More_Practice/More_Practice/Content/Blueprints/BP_Mover_L.uasset",
+				"D:/Notes/Allmind/Cpp_and_Unreal_Coursera/Course_1_Introduction/Module_4/2_More_Practice/More_Practice/Content/Blueprints/BP_Mover_R.uasset",
+				"D:/Notes/Allmind/Cpp_and_Unreal_Coursera/Course_1_Introduction/Module_4/2_More_Practice/More_Practice/Content/Blueprints/BP_Camera.uasset",
+				"D:/Notes/Allmind/Cpp_and_Unreal_Coursera/Course_1_Introduction/Module_4/2_More_Practice/More_Practice/Content/Arts/M_Green_Teddy_Bear.uasset",
+				"D:/Notes/Allmind/Cpp_and_Unreal_Coursera/Course_1_Introduction/Module_4/2_More_Practice/More_Practice/Content/Arts/M_Purple_Teddy_Bear.uasset",
+				"D:/Notes/Allmind/Cpp_and_Unreal_Coursera/Course_1_Introduction/Module_4/2_More_Practice/More_Practice/Content/Arts/M_Yellow_Teddy_Bear.uasset",
+				"D:/Notes/Allmind/Cpp_and_Unreal_Coursera/Course_1_Introduction/Module_4/2_More_Practice/More_Practice/Content/Arts/SM_Green_Teddy_Bear.uasset",
+				"D:/Notes/Allmind/Cpp_and_Unreal_Coursera/Course_1_Introduction/Module_4/2_More_Practice/More_Practice/Content/Arts/SM_Purple_Teddy_Bear.uasset",
+				"D:/Notes/Allmind/Cpp_and_Unreal_Coursera/Course_1_Introduction/Module_4/2_More_Practice/More_Practice/Content/Arts/SM_Yellow_Teddy_Bear.uasset",
+				"D:/Notes/Allmind/Cpp_and_Unreal_Coursera/Course_1_Introduction/Module_4/2_More_Practice/More_Practice/Content/Arts/T_Green_Teddy_Bear_D.uasset",
+				"D:/Notes/Allmind/Cpp_and_Unreal_Coursera/Course_1_Introduction/Module_4/2_More_Practice/More_Practice/Content/Arts/T_Green_Teddy_Bear_N.uasset",
+				"D:/Notes/Allmind/Cpp_and_Unreal_Coursera/Course_1_Introduction/Module_4/2_More_Practice/More_Practice/Content/Arts/T_Purple_Teddy_Bear_D.uasset",
+				"D:/Notes/Allmind/Cpp_and_Unreal_Coursera/Course_1_Introduction/Module_4/2_More_Practice/More_Practice/Content/Arts/T_Purple_Teddy_Bear_N.uasset",
+				"D:/Notes/Allmind/Cpp_and_Unreal_Coursera/Course_1_Introduction/Module_4/2_More_Practice/More_Practice/Content/Arts/T_Yellow_Teddy_Bear_D.uasset",
+				"D:/Notes/Allmind/Cpp_and_Unreal_Coursera/Course_1_Introduction/Module_4/2_More_Practice/More_Practice/Content/Arts/T_Yellow_Teddy_Bear_N.uasset"
+			]
+		}
+	]
+}

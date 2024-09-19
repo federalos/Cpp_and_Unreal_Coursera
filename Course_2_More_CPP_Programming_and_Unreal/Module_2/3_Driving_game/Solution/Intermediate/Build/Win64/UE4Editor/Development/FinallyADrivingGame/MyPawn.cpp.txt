@@ -1,0 +1,3 @@
+C:\Users\timch\Documents\Unreal Projects\FinallyADrivingGame\Intermediate\Build\Win64\UE4Editor\Development\FinallyADrivingGame\Definitions.FinallyADrivingGame.h
+C:\Users\timch\Documents\Unreal Projects\FinallyADrivingGame\Source\FinallyADrivingGame\MyPawn.h
+C:\Users\timch\Documents\Unreal Projects\FinallyADrivingGame\Intermediate\Build\Win64\UE4Editor\Inc\FinallyADrivingGame\MyPawn.generated.h

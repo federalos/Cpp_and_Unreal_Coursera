@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\SpawnAndDestroy.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{FC7B98B3-6CDA-49C5-A6B8-44C288447DDD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SpawnAndDestroy.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SpawnAndDestroyEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{9C0234B2-48CA-4A8A-9E72-E4AC506D0004}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGameplayTags.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\SpawnAndDestroy">
+      <UniqueIdentifier>{8596300F-BAF2-403E-89C4-D47A76D9B73B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SpawnAndDestroy\SpawnAndDestroy.Build.cs">
+      <Filter>Source\SpawnAndDestroy</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\SpawnAndDestroy\SpawnAndDestroy.cpp">
+      <Filter>Source\SpawnAndDestroy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpawnAndDestroy\SpawnAndDestroy.h">
+      <Filter>Source\SpawnAndDestroy</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SpawnAndDestroy\SpawnAndDestroyGameModeBase.cpp">
+      <Filter>Source\SpawnAndDestroy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpawnAndDestroy\SpawnAndDestroyGameModeBase.h">
+      <Filter>Source\SpawnAndDestroy</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SpawnAndDestroy\TeddyBear.cpp">
+      <Filter>Source\SpawnAndDestroy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpawnAndDestroy\TeddyBear.h">
+      <Filter>Source\SpawnAndDestroy</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SpawnAndDestroy\TeddyBearManager.cpp">
+      <Filter>Source\SpawnAndDestroy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpawnAndDestroy\TeddyBearManager.h">
+      <Filter>Source\SpawnAndDestroy</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <None Include="..\..\Exercise12.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+      <UniqueIdentifier>{EC0BEEFF-3E8C-4546-AD4A-019B9302DD37}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Exercise12.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+      <UniqueIdentifier>{20D09C33-048C-4DD1-8571-EBB09F3A52A1}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,7 +24,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Exercise12">
-      <UniqueIdentifier>{3188FBCC-1665-32C8-95E9-C869DE3E717D}</UniqueIdentifier>
+      <UniqueIdentifier>{0BAB3143-F9D5-4A3E-9EE8-5A1568693970}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Exercise12\Exercise12.Build.cs">
       <Filter>Source\Exercise12</Filter>

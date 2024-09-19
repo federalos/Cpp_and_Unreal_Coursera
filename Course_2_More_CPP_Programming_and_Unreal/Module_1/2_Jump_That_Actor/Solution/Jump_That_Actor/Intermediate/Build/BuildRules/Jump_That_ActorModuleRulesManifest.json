@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Notes\\Allmind\\Cpp_and_Unreal_Coursera\\Course_2_More_CPP_Programming_and_Unreal\\Module_1\\2_Jump_That_Actor\\Solution\\Jump_That_Actor\\Source\\Jump_That_Actor\\Jump_That_Actor.Build.cs",
+		"D:\\Notes\\Allmind\\Cpp_and_Unreal_Coursera\\Course_2_More_CPP_Programming_and_Unreal\\Module_1\\2_Jump_That_Actor\\Solution\\Jump_That_Actor\\Source\\Jump_That_Actor.Target.cs",
+		"D:\\Notes\\Allmind\\Cpp_and_Unreal_Coursera\\Course_2_More_CPP_Programming_and_Unreal\\Module_1\\2_Jump_That_Actor\\Solution\\Jump_That_Actor\\Source\\Jump_That_ActorEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\timch\\Documents\\Unreal Projects\\FinallyADrivingGame\\Source\\FinallyADrivingGame\\FinallyADrivingGame.Build.cs",
+		"C:\\Users\\timch\\Documents\\Unreal Projects\\FinallyADrivingGame\\Source\\FinallyADrivingGame.Target.cs",
+		"C:\\Users\\timch\\Documents\\Unreal Projects\\FinallyADrivingGame\\Source\\FinallyADrivingGameEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.1"
+}

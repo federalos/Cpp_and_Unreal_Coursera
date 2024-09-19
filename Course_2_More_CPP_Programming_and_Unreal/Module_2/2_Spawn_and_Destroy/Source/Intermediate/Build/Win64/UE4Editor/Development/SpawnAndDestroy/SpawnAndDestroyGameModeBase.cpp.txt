@@ -1,0 +1,7 @@
+C:\Users\timch\Documents\Unreal Projects\SpawnAndDestroy\Intermediate\Build\Win64\UE4Editor\Development\SpawnAndDestroy\Definitions.SpawnAndDestroy.h
+C:\Users\timch\Documents\Unreal Projects\SpawnAndDestroy\Source\SpawnAndDestroy\SpawnAndDestroyGameModeBase.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\timch\Documents\Unreal Projects\SpawnAndDestroy\Intermediate\Build\Win64\UE4Editor\Inc\SpawnAndDestroy\SpawnAndDestroyGameModeBase.generated.h

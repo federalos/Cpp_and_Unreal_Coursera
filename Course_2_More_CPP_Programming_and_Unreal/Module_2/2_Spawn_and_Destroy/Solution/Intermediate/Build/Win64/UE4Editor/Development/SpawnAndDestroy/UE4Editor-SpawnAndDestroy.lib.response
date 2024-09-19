@@ -1,0 +1,20 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SpawnAndDestroy.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\timch\Documents\Unreal Projects\SpawnAndDestroy\Intermediate\Build\Win64\SpawnAndDestroyEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\timch\Documents\Unreal Projects\SpawnAndDestroy\Intermediate\Build\Win64\UE4Editor\Development\SpawnAndDestroy\SpawnAndDestroy.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\SpawnAndDestroy\Intermediate\Build\Win64\UE4Editor\Development\SpawnAndDestroy\SpawnAndDestroyGameModeBase.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\SpawnAndDestroy\Intermediate\Build\Win64\UE4Editor\Development\SpawnAndDestroy\TeddyBear.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\SpawnAndDestroy\Intermediate\Build\Win64\UE4Editor\Development\SpawnAndDestroy\TeddyBearManager.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\SpawnAndDestroy\Intermediate\Build\Win64\UE4Editor\Development\SpawnAndDestroy\SpawnAndDestroy.init.gen.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\SpawnAndDestroy\Intermediate\Build\Win64\UE4Editor\Development\SpawnAndDestroy\SpawnAndDestroyGameModeBase.gen.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\SpawnAndDestroy\Intermediate\Build\Win64\UE4Editor\Development\SpawnAndDestroy\TeddyBear.gen.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\SpawnAndDestroy\Intermediate\Build\Win64\UE4Editor\Development\SpawnAndDestroy\TeddyBearManager.gen.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\SpawnAndDestroy\Intermediate\Build\Win64\UE4Editor\Development\SpawnAndDestroy\Default.rc2.res"
+/OUT:"C:\Users\timch\Documents\Unreal Projects\SpawnAndDestroy\Intermediate\Build\Win64\UE4Editor\Development\SpawnAndDestroy\UE4Editor-SpawnAndDestroy.lib"
+/INCLUDE:IMPLEMENT_MODULE_SpawnAndDestroy

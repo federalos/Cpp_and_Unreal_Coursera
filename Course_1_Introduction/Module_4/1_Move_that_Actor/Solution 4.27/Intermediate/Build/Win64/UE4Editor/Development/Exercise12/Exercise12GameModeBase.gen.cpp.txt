@@ -1,0 +1,9 @@
+D:\Notes\Allmind\Cpp_and_Unreal_Coursera\Course_1_Introduction\Module_4\1_Move_that_Actor\Solution 4.27\Intermediate\Build\Win64\UE4Editor\Development\Exercise12\Definitions.Exercise12.h
+D:\EGS\Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\EGS\Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Notes\Allmind\Cpp_and_Unreal_Coursera\Course_1_Introduction\Module_4\1_Move_that_Actor\Solution 4.27\Source\Exercise12/Exercise12GameModeBase.h
+D:\EGS\Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\EGS\Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\EGS\Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\EGS\Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\Notes\Allmind\Cpp_and_Unreal_Coursera\Course_1_Introduction\Module_4\1_Move_that_Actor\Solution 4.27\Intermediate\Build\Win64\UE4Editor\Inc\Exercise12\Exercise12GameModeBase.generated.h

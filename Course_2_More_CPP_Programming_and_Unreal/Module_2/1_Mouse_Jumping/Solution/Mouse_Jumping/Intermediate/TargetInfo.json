@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MouseJumping",
+			"Path": "C:\\Users\\timch\\Documents\\Unreal Projects\\MouseJumping\\Source\\MouseJumping.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MouseJumpingEditor",
+			"Path": "C:\\Users\\timch\\Documents\\Unreal Projects\\MouseJumping\\Source\\MouseJumpingEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

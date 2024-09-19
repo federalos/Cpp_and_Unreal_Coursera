@@ -1,0 +1,86 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+#include "UObject/GeneratedCppIncludes.h"
+#include "Exercise12/Mover.h"
+#ifdef _MSC_VER
+#pragma warning (push)
+#pragma warning (disable : 4883)
+#endif
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+void EmptyLinkFunctionForGeneratedCodeMover() {}
+// Cross Module References
+	EXERCISE12_API UClass* Z_Construct_UClass_AMover_NoRegister();
+	EXERCISE12_API UClass* Z_Construct_UClass_AMover();
+	ENGINE_API UClass* Z_Construct_UClass_AActor();
+	UPackage* Z_Construct_UPackage__Script_Exercise12();
+// End Cross Module References
+	void AMover::StaticRegisterNativesAMover()
+	{
+	}
+	UClass* Z_Construct_UClass_AMover_NoRegister()
+	{
+		return AMover::StaticClass();
+	}
+	struct Z_Construct_UClass_AMover_Statics
+	{
+		static UObject* (*const DependentSingletons[])();
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam Class_MetaDataParams[];
+#endif
+		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
+		static const UE4CodeGen_Private::FClassParams ClassParams;
+	};
+	UObject* (*const Z_Construct_UClass_AMover_Statics::DependentSingletons[])() = {
+		(UObject* (*)())Z_Construct_UClass_AActor,
+		(UObject* (*)())Z_Construct_UPackage__Script_Exercise12,
+	};
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AMover_Statics::Class_MetaDataParams[] = {
+		{ "Comment", "/**\n * A mover\n*/" },
+		{ "IncludePath", "Mover.h" },
+		{ "ModuleRelativePath", "Mover.h" },
+		{ "ToolTip", "A mover" },
+	};
+#endif
+	const FCppClassTypeInfoStatic Z_Construct_UClass_AMover_Statics::StaticCppClassTypeInfo = {
+		TCppClassTypeTraits<AMover>::IsAbstract,
+	};
+	const UE4CodeGen_Private::FClassParams Z_Construct_UClass_AMover_Statics::ClassParams = {
+		&AMover::StaticClass,
+		"Engine",
+		&StaticCppClassTypeInfo,
+		DependentSingletons,
+		nullptr,
+		nullptr,
+		nullptr,
+		UE_ARRAY_COUNT(DependentSingletons),
+		0,
+		0,
+		0,
+		0x009000A4u,
+		METADATA_PARAMS(Z_Construct_UClass_AMover_Statics::Class_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UClass_AMover_Statics::Class_MetaDataParams))
+	};
+	UClass* Z_Construct_UClass_AMover()
+	{
+		static UClass* OuterClass = nullptr;
+		if (!OuterClass)
+		{
+			UE4CodeGen_Private::ConstructUClass(OuterClass, Z_Construct_UClass_AMover_Statics::ClassParams);
+		}
+		return OuterClass;
+	}
+	IMPLEMENT_CLASS(AMover, 837027997);
+	template<> EXERCISE12_API UClass* StaticClass<AMover>()
+	{
+		return AMover::StaticClass();
+	}
+	static FCompiledInDefer Z_CompiledInDefer_UClass_AMover(Z_Construct_UClass_AMover, &AMover::StaticClass, TEXT("/Script/Exercise12"), TEXT("AMover"), false, nullptr, nullptr, nullptr);
+	DEFINE_VTABLE_PTR_HELPER_CTOR(AMover);
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+#ifdef _MSC_VER
+#pragma warning (pop)
+#endif

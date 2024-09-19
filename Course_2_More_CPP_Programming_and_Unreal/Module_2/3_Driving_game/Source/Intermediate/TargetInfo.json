@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FinallyADrivingGame",
+			"Path": "C:\\Users\\timch\\Documents\\Unreal Projects\\FinallyADrivingGame\\Source\\FinallyADrivingGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FinallyADrivingGameEditor",
+			"Path": "C:\\Users\\timch\\Documents\\Unreal Projects\\FinallyADrivingGame\\Source\\FinallyADrivingGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

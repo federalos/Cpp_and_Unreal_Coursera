@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\RandomDestruction.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{C9AD85B0-FDDF-4797-B87A-6E01D4D43BF7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\RandomDestruction.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\RandomDestructionEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{9A7295EE-5F5B-44F5-A21F-39295B9E53A6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\RandomDestruction">
+      <UniqueIdentifier>{994C8B49-9133-4E0F-8F5E-0A4FCFBADA02}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\RandomDestruction\Destroyer.cpp">
+      <Filter>Source\RandomDestruction</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RandomDestruction\Destroyer.h">
+      <Filter>Source\RandomDestruction</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\RandomDestruction\RandomDestruction.Build.cs">
+      <Filter>Source\RandomDestruction</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\RandomDestruction\RandomDestruction.cpp">
+      <Filter>Source\RandomDestruction</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RandomDestruction\RandomDestruction.h">
+      <Filter>Source\RandomDestruction</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\RandomDestruction\RandomDestructionGameModeBase.cpp">
+      <Filter>Source\RandomDestruction</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RandomDestruction\RandomDestructionGameModeBase.h">
+      <Filter>Source\RandomDestruction</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\RandomDestruction\TeddyBear.cpp">
+      <Filter>Source\RandomDestruction</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RandomDestruction\TeddyBear.h">
+      <Filter>Source\RandomDestruction</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\RandomDestruction\TeddyBearSpawner.cpp">
+      <Filter>Source\RandomDestruction</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RandomDestruction\TeddyBearSpawner.h">
+      <Filter>Source\RandomDestruction</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

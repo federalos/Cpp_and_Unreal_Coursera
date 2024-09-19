@@ -1,0 +1,2 @@
+C:\Users\timch\Documents\Unreal Projects\SpawnAndDestroy\Intermediate\Build\Win64\UE4Editor\Development\SpawnAndDestroy\Definitions.SpawnAndDestroy.h
+C:\Users\timch\Documents\Unreal Projects\SpawnAndDestroy\Source\SpawnAndDestroy\SpawnAndDestroy.h

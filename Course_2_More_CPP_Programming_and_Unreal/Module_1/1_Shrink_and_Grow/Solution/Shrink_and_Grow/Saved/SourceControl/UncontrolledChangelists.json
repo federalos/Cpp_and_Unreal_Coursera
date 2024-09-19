@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Notes/Allmind/Cpp_and_Unreal_Coursera/Course_2_More_CPP_Programming_and_Unreal/Module_1/1_Shrink_and_Grow/Solution/Shrink_and_Grow/Content/Maps/Map0.umap",
+				"D:/Notes/Allmind/Cpp_and_Unreal_Coursera/Course_2_More_CPP_Programming_and_Unreal/Module_1/1_Shrink_and_Grow/Solution/Shrink_and_Grow/Content/Blueprints/BP_OrthoCamera.uasset",
+				"D:/Notes/Allmind/Cpp_and_Unreal_Coursera/Course_2_More_CPP_Programming_and_Unreal/Module_1/1_Shrink_and_Grow/Solution/Shrink_and_Grow/Content/Blueprints/BP_Object.uasset",
+				"D:/Notes/Allmind/Cpp_and_Unreal_Coursera/Course_2_More_CPP_Programming_and_Unreal/Module_1/1_Shrink_and_Grow/Solution/Shrink_and_Grow/Content/Arts/M_Green_Teddy_Bear.uasset",
+				"D:/Notes/Allmind/Cpp_and_Unreal_Coursera/Course_2_More_CPP_Programming_and_Unreal/Module_1/1_Shrink_and_Grow/Solution/Shrink_and_Grow/Content/Arts/SM_Green_Teddy_Bear.uasset",
+				"D:/Notes/Allmind/Cpp_and_Unreal_Coursera/Course_2_More_CPP_Programming_and_Unreal/Module_1/1_Shrink_and_Grow/Solution/Shrink_and_Grow/Content/Arts/T_Green_Teddy_Bear_D.uasset",
+				"D:/Notes/Allmind/Cpp_and_Unreal_Coursera/Course_2_More_CPP_Programming_and_Unreal/Module_1/1_Shrink_and_Grow/Solution/Shrink_and_Grow/Content/Arts/T_Green_Teddy_Bear_N.uasset"
+			]
+		}
+	]
+}

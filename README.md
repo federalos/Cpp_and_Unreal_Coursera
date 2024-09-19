@@ -6,11 +6,13 @@ This specialization consists of 4 courses that could help with access point to v
 
 ### [Course 1: Introduction to C++ Programming and Unreal](/Course_1_Introduction/Introduction.md)
 
-Basic of IDE and: how to start work with VS and UE editor. First console application. 
+Basic of IDE and: how to start work with VS and UE editor. First console application. First Unreal Engine project. 
 
-### Course 2: More C++ Programming and Unreal
+That has to be mentioned that course is build on UE4. But nowadays it's relevant to use 5th version of the Engine. So I tried to build projects on UE5 instead of UE4.
 
-*work in progress*
+### [Course 2: More C++ Programming and Unreal](/Course_2_More_CPP_Programming_and_Unreal/More_Unreal.md)
+
+*In progress*
 
 ### Course 3: C++ Class Development
 
