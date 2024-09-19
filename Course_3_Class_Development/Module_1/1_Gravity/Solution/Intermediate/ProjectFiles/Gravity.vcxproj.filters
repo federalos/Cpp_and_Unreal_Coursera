@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Gravity.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{42A83101-FE94-4426-A4BE-B4F70A436FC5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Gravity.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\GravityEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{3510808E-5DBB-45CF-AF10-68B7B4EFF92F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Gravity">
+      <UniqueIdentifier>{B13057D0-2575-4CC5-9B46-47DB65CBCB39}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Gravity\Apple.cpp">
+      <Filter>Source\Gravity</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Gravity\Apple.h">
+      <Filter>Source\Gravity</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Gravity\Gravity.Build.cs">
+      <Filter>Source\Gravity</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Gravity\Gravity.cpp">
+      <Filter>Source\Gravity</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Gravity\Gravity.h">
+      <Filter>Source\Gravity</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Gravity\GravityGameModeBase.cpp">
+      <Filter>Source\Gravity</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Gravity\GravityGameModeBase.h">
+      <Filter>Source\Gravity</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Gravity\Newton.cpp">
+      <Filter>Source\Gravity</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Gravity\Newton.h">
+      <Filter>Source\Gravity</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

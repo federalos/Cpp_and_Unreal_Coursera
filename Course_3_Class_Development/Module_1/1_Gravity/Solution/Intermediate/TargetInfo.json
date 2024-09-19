@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Gravity",
+			"Path": "C:\\Users\\timch\\Documents\\Unreal Projects\\Gravity\\Source\\Gravity.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GravityEditor",
+			"Path": "C:\\Users\\timch\\Documents\\Unreal Projects\\Gravity\\Source\\GravityEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

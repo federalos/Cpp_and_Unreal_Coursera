@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\timch\\Documents\\Unreal Projects\\Gravity\\Source\\Gravity\\Gravity.Build.cs",
+		"C:\\Users\\timch\\Documents\\Unreal Projects\\Gravity\\Source\\Gravity.Target.cs",
+		"C:\\Users\\timch\\Documents\\Unreal Projects\\Gravity\\Source\\GravityEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}

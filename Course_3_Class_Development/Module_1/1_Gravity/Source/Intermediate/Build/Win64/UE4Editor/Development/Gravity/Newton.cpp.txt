@@ -1,0 +1,5 @@
+C:\Users\timch\Documents\Unreal Projects\Gravity\Intermediate\Build\Win64\UE4Editor\Development\Gravity\Definitions.Gravity.h
+C:\Users\timch\Documents\Unreal Projects\Gravity\Source\Gravity\Newton.h
+C:\Users\timch\Documents\Unreal Projects\Gravity\Intermediate\Build\Win64\UE4Editor\Inc\Gravity\Newton.generated.h
+C:\Users\timch\Documents\Unreal Projects\Gravity\Source\Gravity\Apple.h
+C:\Users\timch\Documents\Unreal Projects\Gravity\Intermediate\Build\Win64\UE4Editor\Inc\Gravity\Apple.generated.h

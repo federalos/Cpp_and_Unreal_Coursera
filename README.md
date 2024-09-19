@@ -12,15 +12,16 @@ That has to be mentioned that course is build on UE4. But nowadays it's relevant
 
 ### [Course 2: More C++ Programming and Unreal](/Course_2_More_CPP_Programming_and_Unreal/More_Unreal.md)
 
-*In progress*
+Another basic concept of C++ coding and UE such as: loops, Pawn Possession, Timer and Frames. 
 
-### Course 3: C++ Class Development
+### [Course 3: C++ Class Development](/Course_3_Class_Development/Class_Development.md)
 
-*work in progress*
+*in progress*
 
 ### Course 4: Intermediate Object-Oriented Programming for Unreal Games
 
-*work in progress*
+*pending*
 
 
-More info about specialization could be found [here](https://www.coursera.org/specializations/cplusplusunrealgamedevelopment)
+
+# More info about specialization could be found [here](https://www.coursera.org/specializations/cplusplusunrealgamedevelopment)
