@@ -40,6 +40,14 @@ Let's try to describe the die as a class:
 - **Behavior**: roll. Accessed through a methods
 - **Identity**: instantiation
 
+### TODO
+- Class
+- Fields
+- Methods
+- Constructor
+- Destructor
+- Public
+- Private
 
 
 ## Tasks:
