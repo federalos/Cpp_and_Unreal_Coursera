@@ -1,0 +1,5 @@
+C:\Users\timch\Documents\Unreal Projects\UnrealDataTable\Intermediate\Build\Win64\UE4Editor\Development\UnrealDataTable\Definitions.UnrealDataTable.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\timch\Documents\Unreal Projects\UnrealDataTable\Source\UnrealDataTable/TeddyBearPlayerController.h
+C:\Users\timch\Documents\Unreal Projects\UnrealDataTable\Intermediate\Build\Win64\UE4Editor\Inc\UnrealDataTable\TeddyBearPlayerController.generated.h

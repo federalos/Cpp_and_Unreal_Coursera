@@ -1,8 +1,7 @@
 # C++ Programming for Unreal Game Development Specialization
-
 ## By Dr. Tim "Dr. T" Chamillard, Associate Professor from  University of Colorado System at Coursera
 
-This specialization consists of 4 courses that could help with access point to video game development
+This specialization consists of 4 courses that could help with access point to video game development. More info about specialization is [here](https://www.coursera.org/specializations/cplusplusunrealgamedevelopment)
 
 ### [Course 1: Introduction to C++ Programming and Unreal](/Course_1_Introduction/Introduction.md)
 
@@ -18,10 +17,6 @@ Another basic concept of C++ coding and UE such as: loops, Pawn Possession, Time
 
 Abstractions, Class and class components (Fields, Accessors, Methods Constructors, Destructors). Function. Pointers in C++ and Unreal. Sound effects in UE.
 
-### Course 4: Intermediate Object-Oriented Programming for Unreal Games
+### [Course 4: Intermediate Object-Oriented Programming for Unreal Games](/Course_4_OOP_for_Unreal/OOP_for_Unreal.md)
 
 *in progress*
-
-
-
-# More info about specialization could be found [here](https://www.coursera.org/specializations/cplusplusunrealgamedevelopment)

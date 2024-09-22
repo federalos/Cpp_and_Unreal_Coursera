@@ -1,0 +1,24 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-UnrealDataTable.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\timch\Documents\Unreal Projects\UnrealDataTable\Intermediate\Build\Win64\UnrealDataTableEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\timch\Documents\Unreal Projects\UnrealDataTable\Intermediate\Build\Win64\UE4Editor\Development\UnrealDataTable\ConfigurationDataActor.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\UnrealDataTable\Intermediate\Build\Win64\UE4Editor\Development\UnrealDataTable\ScreenConstants.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\UnrealDataTable\Intermediate\Build\Win64\UE4Editor\Development\UnrealDataTable\TeddyBearPawn.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\UnrealDataTable\Intermediate\Build\Win64\UE4Editor\Development\UnrealDataTable\TeddyBearPlayerController.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\UnrealDataTable\Intermediate\Build\Win64\UE4Editor\Development\UnrealDataTable\UnrealDataTable.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\UnrealDataTable\Intermediate\Build\Win64\UE4Editor\Development\UnrealDataTable\UnrealDataTableGameModeBase.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\UnrealDataTable\Intermediate\Build\Win64\UE4Editor\Development\UnrealDataTable\ConfigurationDataActor.gen.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\UnrealDataTable\Intermediate\Build\Win64\UE4Editor\Development\UnrealDataTable\ConfigurationDataStruct.gen.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\UnrealDataTable\Intermediate\Build\Win64\UE4Editor\Development\UnrealDataTable\TeddyBearPawn.gen.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\UnrealDataTable\Intermediate\Build\Win64\UE4Editor\Development\UnrealDataTable\TeddyBearPlayerController.gen.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\UnrealDataTable\Intermediate\Build\Win64\UE4Editor\Development\UnrealDataTable\UnrealDataTable.init.gen.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\UnrealDataTable\Intermediate\Build\Win64\UE4Editor\Development\UnrealDataTable\UnrealDataTableGameModeBase.gen.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\UnrealDataTable\Intermediate\Build\Win64\UE4Editor\Development\UnrealDataTable\Default.rc2.res"
+/OUT:"C:\Users\timch\Documents\Unreal Projects\UnrealDataTable\Intermediate\Build\Win64\UE4Editor\Development\UnrealDataTable\UE4Editor-UnrealDataTable.lib"
+/INCLUDE:IMPLEMENT_MODULE_UnrealDataTable

@@ -1,6 +1,7 @@
-# More C++ Programming and Unreal
-
+# Course 2. More C++ Programming and Unreal
 ## By Dr. Tim "Dr. T" Chamillard, Associate Professor from  University of Colorado System at Coursera
+
+More info about the course is [here](https://www.coursera.org/learn/more-programming-unreal/home/info).
 
 ### [Module 1](/Course_2_More_CPP_Programming_and_Unreal/Module_1/Module_1.md)
 Basics of logic and timers

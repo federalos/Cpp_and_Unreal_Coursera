@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\timch\\Documents\\Unreal Projects\\UnrealDataTable\\Source\\UnrealDataTable\\UnrealDataTable.Build.cs",
+		"C:\\Users\\timch\\Documents\\Unreal Projects\\UnrealDataTable\\Source\\UnrealDataTable.Target.cs",
+		"C:\\Users\\timch\\Documents\\Unreal Projects\\UnrealDataTable\\Source\\UnrealDataTableEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}

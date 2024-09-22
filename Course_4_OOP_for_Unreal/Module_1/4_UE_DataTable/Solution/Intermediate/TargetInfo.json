@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UnrealDataTable",
+			"Path": "C:\\Users\\timch\\Documents\\Unreal Projects\\UnrealDataTable\\Source\\UnrealDataTable.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UnrealDataTableEditor",
+			"Path": "C:\\Users\\timch\\Documents\\Unreal Projects\\UnrealDataTable\\Source\\UnrealDataTableEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

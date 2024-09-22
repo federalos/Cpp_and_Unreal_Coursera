@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UnrealDataTable.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{0B41DD74-6B86-4504-967D-4C139C540F73}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UnrealDataTable.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UnrealDataTableEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\ConfigurationData.csv" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{3644125D-D725-4B42-B1E6-D968E29B46AC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\UnrealDataTable">
+      <UniqueIdentifier>{7104FE28-C673-49C8-A7B6-356BB4677A8D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UnrealDataTable\ConfigurationDataActor.cpp">
+      <Filter>Source\UnrealDataTable</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealDataTable\ConfigurationDataActor.h">
+      <Filter>Source\UnrealDataTable</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UnrealDataTable\ConfigurationDataStruct.h">
+      <Filter>Source\UnrealDataTable</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UnrealDataTable\ScreenConstants.cpp">
+      <Filter>Source\UnrealDataTable</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealDataTable\ScreenConstants.h">
+      <Filter>Source\UnrealDataTable</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UnrealDataTable\TeddyBearPawn.cpp">
+      <Filter>Source\UnrealDataTable</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealDataTable\TeddyBearPawn.h">
+      <Filter>Source\UnrealDataTable</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UnrealDataTable\TeddyBearPlayerController.cpp">
+      <Filter>Source\UnrealDataTable</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealDataTable\TeddyBearPlayerController.h">
+      <Filter>Source\UnrealDataTable</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\UnrealDataTable\UnrealDataTable.Build.cs">
+      <Filter>Source\UnrealDataTable</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UnrealDataTable\UnrealDataTable.cpp">
+      <Filter>Source\UnrealDataTable</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealDataTable\UnrealDataTable.h">
+      <Filter>Source\UnrealDataTable</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UnrealDataTable\UnrealDataTableGameModeBase.cpp">
+      <Filter>Source\UnrealDataTable</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealDataTable\UnrealDataTableGameModeBase.h">
+      <Filter>Source\UnrealDataTable</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

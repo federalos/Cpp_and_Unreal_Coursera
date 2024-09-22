@@ -1,0 +1,4 @@
+C:\Users\timch\Documents\Unreal Projects\UnrealDataTable\Intermediate\Build\Win64\UE4Editor\Development\UnrealDataTable\Definitions.UnrealDataTable.h
+C:\Users\timch\Documents\Unreal Projects\UnrealDataTable\Source\UnrealDataTable\TeddyBearPawn.h
+C:\Users\timch\Documents\Unreal Projects\UnrealDataTable\Intermediate\Build\Win64\UE4Editor\Inc\UnrealDataTable\TeddyBearPawn.generated.h
+C:\Users\timch\Documents\Unreal Projects\UnrealDataTable\Source\UnrealDataTable\ScreenConstants.h
