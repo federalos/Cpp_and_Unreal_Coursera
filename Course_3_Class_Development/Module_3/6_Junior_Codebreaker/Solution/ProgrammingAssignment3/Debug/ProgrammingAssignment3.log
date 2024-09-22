@@ -1,0 +1,4 @@
+﻿  ProgrammingAssignment3.cpp
+D:\Notes\Allmind\Cpp_and_Unreal_Coursera\Course_3_Class_Development\Module_3\6_Junior_Codebreaker\Solution\ProgrammingAssignment3\ProgrammingAssignment3.cpp(34,41): warning C4018: '<': signed/unsigned mismatch
+D:\Notes\Allmind\Cpp_and_Unreal_Coursera\Course_3_Class_Development\Module_3\6_Junior_Codebreaker\Solution\ProgrammingAssignment3\ProgrammingAssignment3.cpp(43,39): warning C4018: '<': signed/unsigned mismatch
+  ProgrammingAssignment3.vcxproj -> D:\Notes\Allmind\Cpp_and_Unreal_Coursera\Course_3_Class_Development\Module_3\6_Junior_Codebreaker\Solution\Debug\ProgrammingAssignment3.exe

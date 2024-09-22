@@ -16,11 +16,11 @@ Another basic concept of C++ coding and UE such as: loops, Pawn Possession, Time
 
 ### [Course 3: C++ Class Development](/Course_3_Class_Development/Class_Development.md)
 
-*in progress*
+Abstractions, Class and class components (Fields, Accessors, Methods Constructors, Destructors). Function. Pointers in C++ and Unreal. Sound effects in UE.
 
 ### Course 4: Intermediate Object-Oriented Programming for Unreal Games
 
-*pending*
+*in progress*
 
 
 

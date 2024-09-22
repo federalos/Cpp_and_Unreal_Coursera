@@ -27,4 +27,5 @@ Add code to the Newton BeginPlay and OnOverlapBegin functions as indicated in th
 
 Place your Newton Blueprint near the bottom of the world (but still visible on the screen) directly below the apple. Run the game and watch the Apple disappear and the Newton health increase when the Apple hits the Newton.
 
+### Solution
 [Here](/Course_3_Class_Development/Module_1/1_Gravity/Solution/Gravity.uproject) you can find an solution-project of task on UE4 (*.uproject).

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TheRunaway.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{749DB639-44E1-4744-853E-62D0543B9E28}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TheRunaway.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TheRunawayEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{A546DF5C-6836-4B6D-8052-F4CC7A59F124}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TheRunaway">
+      <UniqueIdentifier>{3E217218-1EBB-434A-AE04-53AF6AE840E0}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TheRunaway\HunterPawn.cpp">
+      <Filter>Source\TheRunaway</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheRunaway\HunterPawn.h">
+      <Filter>Source\TheRunaway</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheRunaway\HunterPlayerController.cpp">
+      <Filter>Source\TheRunaway</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheRunaway\HunterPlayerController.h">
+      <Filter>Source\TheRunaway</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheRunaway\ScreenConstants.cpp">
+      <Filter>Source\TheRunaway</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheRunaway\ScreenConstants.h">
+      <Filter>Source\TheRunaway</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\TheRunaway\TheRunaway.Build.cs">
+      <Filter>Source\TheRunaway</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TheRunaway\TheRunaway.cpp">
+      <Filter>Source\TheRunaway</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheRunaway\TheRunaway.h">
+      <Filter>Source\TheRunaway</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheRunaway\TheRunawayGameModeBase.cpp">
+      <Filter>Source\TheRunaway</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheRunaway\TheRunawayGameModeBase.h">
+      <Filter>Source\TheRunaway</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

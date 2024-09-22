@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TheRunaway",
+			"Path": "C:\\Users\\timch\\Documents\\Unreal Projects\\TheRunaway\\Source\\TheRunaway.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TheRunawayEditor",
+			"Path": "C:\\Users\\timch\\Documents\\Unreal Projects\\TheRunaway\\Source\\TheRunawayEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
