@@ -1,0 +1,16 @@
+﻿  Creating makefile for MoveItEditor (game project files are newer)
+  Parsing headers for MoveItEditor
+    Running UnrealHeaderTool "C:\Users\timch\Documents\Unreal Projects\MoveIt\MoveIt.uproject" "C:\Users\timch\Documents\Unreal Projects\MoveIt\Intermediate\Build\Win64\MoveItEditor\Development\MoveItEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\timch\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  Reflection code generated for MoveItEditor in 5.0056472 seconds
+  Building MoveItEditor...
+  Using Visual Studio 2019 14.29.30133 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 5 actions with 8 processes...
+    [1/5] BallActor.gen.cpp
+    [2/5] BallActor.cpp
+    [3/5] UE4Editor-MoveIt-0010.lib
+       Creating library C:\Users\timch\Documents\Unreal Projects\MoveIt\Intermediate\Build\Win64\UE4Editor\Development\MoveIt\UE4Editor-MoveIt-0010.lib and object C:\Users\timch\Documents\Unreal Projects\MoveIt\Intermediate\Build\Win64\UE4Editor\Development\MoveIt\UE4Editor-MoveIt-0010.exp
+    [4/5] UE4Editor-MoveIt-0010.dll
+       Creating library C:\Users\timch\Documents\Unreal Projects\MoveIt\Intermediate\Build\Win64\UE4Editor\Development\MoveIt\UE4Editor-MoveIt-0010.suppressed.lib and object C:\Users\timch\Documents\Unreal Projects\MoveIt\Intermediate\Build\Win64\UE4Editor\Development\MoveIt\UE4Editor-MoveIt-0010.suppressed.exp
+    [5/5] MoveItEditor.target
+  Total time in Parallel executor: 3.06 seconds
+  Total execution time: 11.37 seconds

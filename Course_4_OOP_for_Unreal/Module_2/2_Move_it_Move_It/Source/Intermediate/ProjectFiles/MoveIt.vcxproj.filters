@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\MoveIt.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{EB90A881-18AA-4A37-A042-A4A39A4963C3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MoveIt.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MoveItEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{2F8AF4EE-9E52-4827-B0E6-421ABDC74084}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\MoveIt">
+      <UniqueIdentifier>{F4ED2993-D7CA-4644-97F3-7D14E67DA38E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MoveIt\BallActor.cpp">
+      <Filter>Source\MoveIt</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MoveIt\BallActor.h">
+      <Filter>Source\MoveIt</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\MoveIt\MoveIt.Build.cs">
+      <Filter>Source\MoveIt</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\MoveIt\MoveIt.cpp">
+      <Filter>Source\MoveIt</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MoveIt\MoveIt.h">
+      <Filter>Source\MoveIt</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MoveIt\MoveItGameModeBase.cpp">
+      <Filter>Source\MoveIt</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MoveIt\MoveItGameModeBase.h">
+      <Filter>Source\MoveIt</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

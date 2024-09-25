@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MoveIt",
+			"Path": "C:\\Users\\timch\\Documents\\Unreal Projects\\MoveIt\\Source\\MoveIt.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MoveItEditor",
+			"Path": "C:\\Users\\timch\\Documents\\Unreal Projects\\MoveIt\\Source\\MoveItEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

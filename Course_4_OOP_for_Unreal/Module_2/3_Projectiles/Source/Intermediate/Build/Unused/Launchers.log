@@ -1,0 +1,18 @@
+﻿  Creating makefile for LaunchersEditor (game project files are newer)
+  Parsing headers for LaunchersEditor
+    Running UnrealHeaderTool "C:\Users\timch\Documents\Unreal Projects\Launchers\Launchers.uproject" "C:\Users\timch\Documents\Unreal Projects\Launchers\Intermediate\Build\Win64\LaunchersEditor\Development\LaunchersEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\timch\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  Reflection code generated for LaunchersEditor in 5.7118261 seconds
+  Building LaunchersEditor...
+  Using Visual Studio 2019 14.29.30133 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 7 actions with 8 processes...
+    [1/7] ChainsawLauncherActor.cpp
+    [2/7] ChainsawLauncherActor.gen.cpp
+    [3/7] LauncherActor.cpp
+    [4/7] LauncherActor.gen.cpp
+    [5/7] UE4Editor-Launchers-0011.lib
+       Creating library C:\Users\timch\Documents\Unreal Projects\Launchers\Intermediate\Build\Win64\UE4Editor\Development\Launchers\UE4Editor-Launchers-0011.lib and object C:\Users\timch\Documents\Unreal Projects\Launchers\Intermediate\Build\Win64\UE4Editor\Development\Launchers\UE4Editor-Launchers-0011.exp
+    [6/7] UE4Editor-Launchers-0011.dll
+       Creating library C:\Users\timch\Documents\Unreal Projects\Launchers\Intermediate\Build\Win64\UE4Editor\Development\Launchers\UE4Editor-Launchers-0011.suppressed.lib and object C:\Users\timch\Documents\Unreal Projects\Launchers\Intermediate\Build\Win64\UE4Editor\Development\Launchers\UE4Editor-Launchers-0011.suppressed.exp
+    [7/7] LaunchersEditor.target
+  Total time in Parallel executor: 3.27 seconds
+  Total execution time: 12.19 seconds

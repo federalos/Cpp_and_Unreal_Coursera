@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Launchers.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{31C5FD60-9AB2-4A8F-A66A-03A7B654C35E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Launchers.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\LaunchersEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{04B55F98-C401-4342-81AE-821412EFDBF9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Launchers">
+      <UniqueIdentifier>{85F9CD77-9A8C-4AB5-8606-7F27FEAC4639}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Launchers\ChainsawLauncherActor.cpp">
+      <Filter>Source\Launchers</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Launchers\ChainsawLauncherActor.h">
+      <Filter>Source\Launchers</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Launchers\ChainsawProjectileActor.cpp">
+      <Filter>Source\Launchers</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Launchers\ChainsawProjectileActor.h">
+      <Filter>Source\Launchers</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Launchers\LauncherActor.cpp">
+      <Filter>Source\Launchers</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Launchers\LauncherActor.h">
+      <Filter>Source\Launchers</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Launchers\Launchers.Build.cs">
+      <Filter>Source\Launchers</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Launchers\Launchers.cpp">
+      <Filter>Source\Launchers</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Launchers\Launchers.h">
+      <Filter>Source\Launchers</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Launchers\LaunchersGameModeBase.cpp">
+      <Filter>Source\Launchers</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Launchers\LaunchersGameModeBase.h">
+      <Filter>Source\Launchers</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Launchers\ProjectileActor.cpp">
+      <Filter>Source\Launchers</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Launchers\ProjectileActor.h">
+      <Filter>Source\Launchers</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

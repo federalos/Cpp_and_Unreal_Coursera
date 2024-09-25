@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MoveIt.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\timch\Documents\Unreal Projects\MoveIt\Intermediate\Build\Win64\MoveItEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\timch\Documents\Unreal Projects\MoveIt\Intermediate\Build\Win64\UE4Editor\Development\MoveIt\MoveIt.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\MoveIt\Intermediate\Build\Win64\UE4Editor\Development\MoveIt\MoveItGameModeBase.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\MoveIt\Intermediate\Build\Win64\UE4Editor\Development\MoveIt\MoveIt.init.gen.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\MoveIt\Intermediate\Build\Win64\UE4Editor\Development\MoveIt\MoveItGameModeBase.gen.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\MoveIt\Intermediate\Build\Win64\UE4Editor\Development\MoveIt\Default.rc2.res"
+/OUT:"C:\Users\timch\Documents\Unreal Projects\MoveIt\Intermediate\Build\Win64\UE4Editor\Development\MoveIt\UE4Editor-MoveIt.lib"
+/INCLUDE:IMPLEMENT_MODULE_MoveIt

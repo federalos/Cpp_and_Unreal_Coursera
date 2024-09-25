@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Launchers",
+			"Path": "C:\\Users\\timch\\Documents\\Unreal Projects\\Launchers\\Source\\Launchers.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "LaunchersEditor",
+			"Path": "C:\\Users\\timch\\Documents\\Unreal Projects\\Launchers\\Source\\LaunchersEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

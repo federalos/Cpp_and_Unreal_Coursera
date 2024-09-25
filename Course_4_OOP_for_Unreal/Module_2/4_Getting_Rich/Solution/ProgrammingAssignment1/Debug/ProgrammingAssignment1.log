@@ -1,0 +1,3 @@
+﻿  MutualFund.cpp
+D:\Notes\Allmind\Cpp_and_Unreal_Coursera\Course_4_OOP_for_Unreal\Module_2\4_Getting_Rich\Solution\ProgrammingAssignment1\MutualFund.cpp(38,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  ProgrammingAssignment1.vcxproj -> D:\Notes\Allmind\Cpp_and_Unreal_Coursera\Course_4_OOP_for_Unreal\Module_2\4_Getting_Rich\Solution\Debug\ProgrammingAssignment1.exe

@@ -1,0 +1,32 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Launchers-1328.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\timch\Documents\Unreal Projects\Launchers\Intermediate\Build\Win64\LaunchersEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\timch\Documents\Unreal Projects\Launchers\Intermediate\Build\Win64\UE4Editor\Development\Launchers\ChainsawLauncherActor.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\Launchers\Intermediate\Build\Win64\UE4Editor\Development\Launchers\ChainsawProjectileActor.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\Launchers\Intermediate\Build\Win64\UE4Editor\Development\Launchers\LauncherActor.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\Launchers\Intermediate\Build\Win64\UE4Editor\Development\Launchers\Launchers.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\Launchers\Intermediate\Build\Win64\UE4Editor\Development\Launchers\LaunchersGameModeBase.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\Launchers\Intermediate\Build\Win64\UE4Editor\Development\Launchers\PirateLauncherActor.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\Launchers\Intermediate\Build\Win64\UE4Editor\Development\Launchers\PirateProjectileActor.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\Launchers\Intermediate\Build\Win64\UE4Editor\Development\Launchers\ProjectileActor.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\Launchers\Intermediate\Build\Win64\UE4Editor\Development\Launchers\ZombieLauncherActor.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\Launchers\Intermediate\Build\Win64\UE4Editor\Development\Launchers\ZombieProjectileActor.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\Launchers\Intermediate\Build\Win64\UE4Editor\Development\Launchers\ChainsawLauncherActor.gen.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\Launchers\Intermediate\Build\Win64\UE4Editor\Development\Launchers\ChainsawProjectileActor.gen.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\Launchers\Intermediate\Build\Win64\UE4Editor\Development\Launchers\LauncherActor.gen.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\Launchers\Intermediate\Build\Win64\UE4Editor\Development\Launchers\Launchers.init.gen.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\Launchers\Intermediate\Build\Win64\UE4Editor\Development\Launchers\LaunchersGameModeBase.gen.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\Launchers\Intermediate\Build\Win64\UE4Editor\Development\Launchers\PirateLauncherActor.gen.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\Launchers\Intermediate\Build\Win64\UE4Editor\Development\Launchers\PirateProjectileActor.gen.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\Launchers\Intermediate\Build\Win64\UE4Editor\Development\Launchers\ProjectileActor.gen.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\Launchers\Intermediate\Build\Win64\UE4Editor\Development\Launchers\ZombieLauncherActor.gen.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\Launchers\Intermediate\Build\Win64\UE4Editor\Development\Launchers\ZombieProjectileActor.gen.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\Launchers\Intermediate\Build\Win64\UE4Editor\Development\Launchers\Default.rc2.res"
+/OUT:"C:\Users\timch\Documents\Unreal Projects\Launchers\Intermediate\Build\Win64\UE4Editor\Development\Launchers\UE4Editor-Launchers-1328.lib"
+/INCLUDE:IMPLEMENT_MODULE_Launchers

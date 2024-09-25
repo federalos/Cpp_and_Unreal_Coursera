@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\timch\\Documents\\Unreal Projects\\Launchers\\Source\\Launchers\\Launchers.Build.cs",
+		"C:\\Users\\timch\\Documents\\Unreal Projects\\Launchers\\Source\\Launchers.Target.cs",
+		"C:\\Users\\timch\\Documents\\Unreal Projects\\Launchers\\Source\\LaunchersEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}
