@@ -19,4 +19,4 @@ Abstractions, Class and class components (Fields, Accessors, Methods Constructor
 
 ### [Course 4: Intermediate Object-Oriented Programming for Unreal Games](/Course_4_OOP_for_Unreal/OOP_for_Unreal.md)
 
-*in progress*
+For with files. Exception handlers. CSV files. Configuration files in UE. Inheritance and Polymorphism. Event handling and menus in UE. Buttons. The Event Manager. 
