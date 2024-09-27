@@ -1,0 +1,2 @@
+C:\Users\timch\Documents\Unreal Projects\FeedTheTeddies\Intermediate\Build\Win64\UE4Editor\Development\FeedTheTeddies\Definitions.FeedTheTeddies.h
+C:\Users\timch\Documents\Unreal Projects\FeedTheTeddies\Source\FeedTheTeddies\FeedTheTeddies.h

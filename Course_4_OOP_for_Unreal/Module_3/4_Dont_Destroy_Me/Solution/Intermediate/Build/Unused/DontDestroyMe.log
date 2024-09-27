@@ -1,0 +1,22 @@
+﻿  Invalidating makefile for DontDestroyMeEditor (DontDestroyMe.Build.cs modified)
+  Parsing headers for DontDestroyMeEditor
+    Running UnrealHeaderTool "C:\Users\timch\Documents\Unreal Projects\DontDestroyMe\DontDestroyMe.uproject" "C:\Users\timch\Documents\Unreal Projects\DontDestroyMe\Intermediate\Build\Win64\DontDestroyMeEditor\Development\DontDestroyMeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\timch\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  Reflection code generated for DontDestroyMeEditor in 4.1552144 seconds
+  Building DontDestroyMeEditor...
+  Using Visual Studio 2019 14.29.30133 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 11 actions with 8 processes...
+    [1/11] TeddyBearPawn.cpp
+    [2/11] DontDestroyMe.cpp
+    [3/11] TeddyBearPlayerController.cpp
+    [4/11] DontDestroyMe.init.gen.cpp
+    [5/11] TeddyBearPlayerController.gen.cpp
+    [6/11] TeddyBearPawn.gen.cpp
+    [7/11] DontDestroyMeGameModeBase.cpp
+    [8/11] DontDestroyMeGameModeBase.gen.cpp
+    [9/11] UE4Editor-DontDestroyMe-0002.lib
+       Creating library C:\Users\timch\Documents\Unreal Projects\DontDestroyMe\Intermediate\Build\Win64\UE4Editor\Development\DontDestroyMe\UE4Editor-DontDestroyMe-0002.lib and object C:\Users\timch\Documents\Unreal Projects\DontDestroyMe\Intermediate\Build\Win64\UE4Editor\Development\DontDestroyMe\UE4Editor-DontDestroyMe-0002.exp
+    [10/11] UE4Editor-DontDestroyMe-0002.dll
+       Creating library C:\Users\timch\Documents\Unreal Projects\DontDestroyMe\Intermediate\Build\Win64\UE4Editor\Development\DontDestroyMe\UE4Editor-DontDestroyMe-0002.suppressed.lib and object C:\Users\timch\Documents\Unreal Projects\DontDestroyMe\Intermediate\Build\Win64\UE4Editor\Development\DontDestroyMe\UE4Editor-DontDestroyMe-0002.suppressed.exp
+    [11/11] DontDestroyMeEditor.target
+  Total time in Parallel executor: 4.85 seconds
+  Total execution time: 11.55 seconds

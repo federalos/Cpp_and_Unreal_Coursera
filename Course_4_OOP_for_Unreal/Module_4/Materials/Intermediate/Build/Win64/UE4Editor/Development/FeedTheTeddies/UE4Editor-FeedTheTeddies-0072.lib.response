@@ -1,0 +1,41 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-FeedTheTeddies-0072.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\timch\Documents\Unreal Projects\FeedTheTeddies\Intermediate\Build\Win64\FeedTheTeddiesEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\timch\Documents\Unreal Projects\FeedTheTeddies\Intermediate\Build\Win64\UE4Editor\Development\FeedTheTeddies\BurgerPawn.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\FeedTheTeddies\Intermediate\Build\Win64\UE4Editor\Development\FeedTheTeddies\BurgerPlayerController.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\FeedTheTeddies\Intermediate\Build\Win64\UE4Editor\Development\FeedTheTeddies\ConfigurationDataActor.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\FeedTheTeddies\Intermediate\Build\Win64\UE4Editor\Development\FeedTheTeddies\DelegateDeclarations.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\FeedTheTeddies\Intermediate\Build\Win64\UE4Editor\Development\FeedTheTeddies\EventManagerActor.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\FeedTheTeddies\Intermediate\Build\Win64\UE4Editor\Development\FeedTheTeddies\FeedTheTeddies.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\FeedTheTeddies\Intermediate\Build\Win64\UE4Editor\Development\FeedTheTeddies\FeedTheTeddiesGameModeBase.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\FeedTheTeddies\Intermediate\Build\Win64\UE4Editor\Development\FeedTheTeddies\FeedTheTeddiesSaveGame.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\FeedTheTeddies\Intermediate\Build\Win64\UE4Editor\Development\FeedTheTeddies\FriesActor.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\FeedTheTeddies\Intermediate\Build\Win64\UE4Editor\Development\FeedTheTeddies\MainMenuActor.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\FeedTheTeddies\Intermediate\Build\Win64\UE4Editor\Development\FeedTheTeddies\ScreenConstants.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\FeedTheTeddies\Intermediate\Build\Win64\UE4Editor\Development\FeedTheTeddies\TeddyBearActor.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\FeedTheTeddies\Intermediate\Build\Win64\UE4Editor\Development\FeedTheTeddies\TeddyBearProjectileActor.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\FeedTheTeddies\Intermediate\Build\Win64\UE4Editor\Development\FeedTheTeddies\TeddyBearSpawnerActor.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\FeedTheTeddies\Intermediate\Build\Win64\UE4Editor\Development\FeedTheTeddies\BurgerPawn.gen.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\FeedTheTeddies\Intermediate\Build\Win64\UE4Editor\Development\FeedTheTeddies\BurgerPlayerController.gen.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\FeedTheTeddies\Intermediate\Build\Win64\UE4Editor\Development\FeedTheTeddies\ConfigurationDataActor.gen.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\FeedTheTeddies\Intermediate\Build\Win64\UE4Editor\Development\FeedTheTeddies\ConfigurationDataStruct.gen.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\FeedTheTeddies\Intermediate\Build\Win64\UE4Editor\Development\FeedTheTeddies\DelegateDeclarations.gen.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\FeedTheTeddies\Intermediate\Build\Win64\UE4Editor\Development\FeedTheTeddies\EventManagerActor.gen.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\FeedTheTeddies\Intermediate\Build\Win64\UE4Editor\Development\FeedTheTeddies\EventName.gen.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\FeedTheTeddies\Intermediate\Build\Win64\UE4Editor\Development\FeedTheTeddies\FeedTheTeddies.init.gen.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\FeedTheTeddies\Intermediate\Build\Win64\UE4Editor\Development\FeedTheTeddies\FeedTheTeddiesGameModeBase.gen.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\FeedTheTeddies\Intermediate\Build\Win64\UE4Editor\Development\FeedTheTeddies\FeedTheTeddiesSaveGame.gen.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\FeedTheTeddies\Intermediate\Build\Win64\UE4Editor\Development\FeedTheTeddies\FriesActor.gen.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\FeedTheTeddies\Intermediate\Build\Win64\UE4Editor\Development\FeedTheTeddies\MainMenuActor.gen.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\FeedTheTeddies\Intermediate\Build\Win64\UE4Editor\Development\FeedTheTeddies\TeddyBearActor.gen.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\FeedTheTeddies\Intermediate\Build\Win64\UE4Editor\Development\FeedTheTeddies\TeddyBearProjectileActor.gen.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\FeedTheTeddies\Intermediate\Build\Win64\UE4Editor\Development\FeedTheTeddies\TeddyBearSpawnerActor.gen.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\FeedTheTeddies\Intermediate\Build\Win64\UE4Editor\Development\FeedTheTeddies\Default.rc2.res"
+/OUT:"C:\Users\timch\Documents\Unreal Projects\FeedTheTeddies\Intermediate\Build\Win64\UE4Editor\Development\FeedTheTeddies\UE4Editor-FeedTheTeddies-0072.lib"
+/INCLUDE:IMPLEMENT_MODULE_FeedTheTeddies

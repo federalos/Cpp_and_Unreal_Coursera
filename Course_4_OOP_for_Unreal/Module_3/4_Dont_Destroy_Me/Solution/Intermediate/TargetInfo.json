@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "DontDestroyMe",
+			"Path": "C:\\Users\\timch\\Documents\\Unreal Projects\\DontDestroyMe\\Source\\DontDestroyMe.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DontDestroyMeEditor",
+			"Path": "C:\\Users\\timch\\Documents\\Unreal Projects\\DontDestroyMe\\Source\\DontDestroyMeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

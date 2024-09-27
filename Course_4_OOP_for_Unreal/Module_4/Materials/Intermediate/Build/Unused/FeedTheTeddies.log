@@ -1,0 +1,20 @@
+﻿  Parsing headers for FeedTheTeddiesEditor
+    Running UnrealHeaderTool "C:\Users\timch\Documents\Unreal Projects\FeedTheTeddies\FeedTheTeddies.uproject" "C:\Users\timch\Documents\Unreal Projects\FeedTheTeddies\Intermediate\Build\Win64\FeedTheTeddiesEditor\Development\FeedTheTeddiesEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\timch\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  Reflection code generated for FeedTheTeddiesEditor in 4.3222645 seconds
+  Building FeedTheTeddiesEditor...
+  Using Visual Studio 2019 14.29.30133 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 10 actions with 8 processes...
+    [1/10] FeedTheTeddies.init.gen.cpp
+    [2/10] TeddyBearSpawnerActor.gen.cpp
+    [3/10] TeddyBearProjectileActor.gen.cpp
+    [4/10] TeddyBearActor.gen.cpp
+    [5/10] TeddyBearSpawnerActor.cpp
+    [6/10] TeddyBearProjectileActor.cpp
+    [7/10] TeddyBearActor.cpp
+    [8/10] UE4Editor-FeedTheTeddies-0107.lib
+       Creating library C:\Users\timch\Documents\Unreal Projects\FeedTheTeddies\Intermediate\Build\Win64\UE4Editor\Development\FeedTheTeddies\UE4Editor-FeedTheTeddies-0107.lib and object C:\Users\timch\Documents\Unreal Projects\FeedTheTeddies\Intermediate\Build\Win64\UE4Editor\Development\FeedTheTeddies\UE4Editor-FeedTheTeddies-0107.exp
+    [9/10] UE4Editor-FeedTheTeddies-0107.dll
+       Creating library C:\Users\timch\Documents\Unreal Projects\FeedTheTeddies\Intermediate\Build\Win64\UE4Editor\Development\FeedTheTeddies\UE4Editor-FeedTheTeddies-0107.suppressed.lib and object C:\Users\timch\Documents\Unreal Projects\FeedTheTeddies\Intermediate\Build\Win64\UE4Editor\Development\FeedTheTeddies\UE4Editor-FeedTheTeddies-0107.suppressed.exp
+    [10/10] FeedTheTeddiesEditor.target
+  Total time in Parallel executor: 3.65 seconds
+  Total execution time: 8.85 seconds

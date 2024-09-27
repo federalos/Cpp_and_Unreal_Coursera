@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\DontDestroyMe.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{C0AD9AE4-FB73-4B20-B13F-8F7B484B657B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DontDestroyMe.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\DontDestroyMeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{9D1AEBE6-A780-4EAE-A135-3B92DEC305D5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\DontDestroyMe">
+      <UniqueIdentifier>{0DC0E1FF-12A6-4240-96DF-BA84D8B2B0D3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DontDestroyMe\DontDestroyMe.Build.cs">
+      <Filter>Source\DontDestroyMe</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\DontDestroyMe\DontDestroyMe.cpp">
+      <Filter>Source\DontDestroyMe</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DontDestroyMe\DontDestroyMe.h">
+      <Filter>Source\DontDestroyMe</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DontDestroyMe\DontDestroyMeGameModeBase.cpp">
+      <Filter>Source\DontDestroyMe</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DontDestroyMe\DontDestroyMeGameModeBase.h">
+      <Filter>Source\DontDestroyMe</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DontDestroyMe\TeddyBearPawn.cpp">
+      <Filter>Source\DontDestroyMe</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DontDestroyMe\TeddyBearPawn.h">
+      <Filter>Source\DontDestroyMe</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DontDestroyMe\TeddyBearPlayerController.cpp">
+      <Filter>Source\DontDestroyMe</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DontDestroyMe\TeddyBearPlayerController.h">
+      <Filter>Source\DontDestroyMe</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

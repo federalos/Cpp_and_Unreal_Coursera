@@ -1,0 +1,20 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-DontDestroyMe-0003.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\timch\Documents\Unreal Projects\DontDestroyMe\Intermediate\Build\Win64\DontDestroyMeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\timch\Documents\Unreal Projects\DontDestroyMe\Intermediate\Build\Win64\UE4Editor\Development\DontDestroyMe\DontDestroyMe.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\DontDestroyMe\Intermediate\Build\Win64\UE4Editor\Development\DontDestroyMe\DontDestroyMeGameModeBase.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\DontDestroyMe\Intermediate\Build\Win64\UE4Editor\Development\DontDestroyMe\TeddyBearPawn.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\DontDestroyMe\Intermediate\Build\Win64\UE4Editor\Development\DontDestroyMe\TeddyBearPlayerController.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\DontDestroyMe\Intermediate\Build\Win64\UE4Editor\Development\DontDestroyMe\DontDestroyMe.init.gen.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\DontDestroyMe\Intermediate\Build\Win64\UE4Editor\Development\DontDestroyMe\DontDestroyMeGameModeBase.gen.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\DontDestroyMe\Intermediate\Build\Win64\UE4Editor\Development\DontDestroyMe\TeddyBearPawn.gen.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\DontDestroyMe\Intermediate\Build\Win64\UE4Editor\Development\DontDestroyMe\TeddyBearPlayerController.gen.cpp.obj"
+"C:\Users\timch\Documents\Unreal Projects\DontDestroyMe\Intermediate\Build\Win64\UE4Editor\Development\DontDestroyMe\Default.rc2.res"
+/OUT:"C:\Users\timch\Documents\Unreal Projects\DontDestroyMe\Intermediate\Build\Win64\UE4Editor\Development\DontDestroyMe\UE4Editor-DontDestroyMe-0003.lib"
+/INCLUDE:IMPLEMENT_MODULE_DontDestroyMe

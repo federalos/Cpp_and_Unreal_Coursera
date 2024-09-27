@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\timch\\Documents\\Unreal Projects\\FeedTheTeddies\\Source\\FeedTheTeddies\\FeedTheTeddies.Build.cs",
+		"C:\\Users\\timch\\Documents\\Unreal Projects\\FeedTheTeddies\\Source\\FeedTheTeddies.Target.cs",
+		"C:\\Users\\timch\\Documents\\Unreal Projects\\FeedTheTeddies\\Source\\FeedTheTeddiesEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}

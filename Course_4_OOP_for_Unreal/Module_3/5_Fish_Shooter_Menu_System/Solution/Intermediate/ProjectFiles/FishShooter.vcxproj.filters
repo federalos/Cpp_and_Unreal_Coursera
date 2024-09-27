@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\FishShooter.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F7622CA5-9FE8-47B9-99C1-9AD767EDD5DC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FishShooter.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FishShooterEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\ConfigurationData.csv" />
+    <None Include="..\..\ConfigurationData.xlsx" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{F9B1CBA9-B765-468E-9729-901DFFFFA9DA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGameplayTags.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\FishShooter">
+      <UniqueIdentifier>{7B61AF40-0C25-4FBC-B678-8123406D12E2}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\FishShooter\ConfigurationDataActor.cpp">
+      <Filter>Source\FishShooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FishShooter\ConfigurationDataActor.h">
+      <Filter>Source\FishShooter</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\FishShooter\ConfigurationDataStruct.h">
+      <Filter>Source\FishShooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FishShooter\FishPawn.cpp">
+      <Filter>Source\FishShooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FishShooter\FishPawn.h">
+      <Filter>Source\FishShooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FishShooter\FishPlayerController.cpp">
+      <Filter>Source\FishShooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FishShooter\FishPlayerController.h">
+      <Filter>Source\FishShooter</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\FishShooter\FishShooter.Build.cs">
+      <Filter>Source\FishShooter</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\FishShooter\FishShooter.cpp">
+      <Filter>Source\FishShooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FishShooter\FishShooter.h">
+      <Filter>Source\FishShooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FishShooter\FishShooterGameModeBase.cpp">
+      <Filter>Source\FishShooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FishShooter\FishShooterGameModeBase.h">
+      <Filter>Source\FishShooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FishShooter\FishShooterSaveGame.cpp">
+      <Filter>Source\FishShooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FishShooter\FishShooterSaveGame.h">
+      <Filter>Source\FishShooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FishShooter\GameHUD.cpp">
+      <Filter>Source\FishShooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FishShooter\GameHUD.h">
+      <Filter>Source\FishShooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FishShooter\ScreenConstants.cpp">
+      <Filter>Source\FishShooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FishShooter\ScreenConstants.h">
+      <Filter>Source\FishShooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FishShooter\TeddyBear.cpp">
+      <Filter>Source\FishShooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FishShooter\TeddyBear.h">
+      <Filter>Source\FishShooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FishShooter\TeddyBearSpawner.cpp">
+      <Filter>Source\FishShooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FishShooter\TeddyBearSpawner.h">
+      <Filter>Source\FishShooter</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

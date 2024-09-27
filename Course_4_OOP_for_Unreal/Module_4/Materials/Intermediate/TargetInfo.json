@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FeedTheTeddies",
+			"Path": "C:\\Users\\timch\\Documents\\Unreal Projects\\FeedTheTeddies\\Source\\FeedTheTeddies.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FeedTheTeddiesEditor",
+			"Path": "C:\\Users\\timch\\Documents\\Unreal Projects\\FeedTheTeddies\\Source\\FeedTheTeddiesEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

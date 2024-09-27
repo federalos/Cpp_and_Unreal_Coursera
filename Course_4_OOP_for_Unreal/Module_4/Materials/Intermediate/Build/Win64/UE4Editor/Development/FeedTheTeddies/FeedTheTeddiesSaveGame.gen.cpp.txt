@@ -1,0 +1,7 @@
+C:\Users\timch\Documents\Unreal Projects\FeedTheTeddies\Intermediate\Build\Win64\UE4Editor\Development\FeedTheTeddies\Definitions.FeedTheTeddies.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\timch\Documents\Unreal Projects\FeedTheTeddies\Source\FeedTheTeddies/FeedTheTeddiesSaveGame.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/SaveGame.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SaveGame.generated.h
+C:\Users\timch\Documents\Unreal Projects\FeedTheTeddies\Intermediate\Build\Win64\UE4Editor\Inc\FeedTheTeddies\FeedTheTeddiesSaveGame.generated.h

@@ -1,0 +1,1553 @@
+﻿Log file open, 09/15/21 20:11:38
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: FeedTheTeddies
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.224248
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/timch/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-7820HK CPU @ 2.90GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/timch/Documents/Unreal Projects/FeedTheTeddies/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.09.16-02.11.38:610][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.09.16-02.11.38:610][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.09.16-02.11.38:610][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/timch/Documents/Unreal Projects/FeedTheTeddies/Saved/Config/Windows/Engine.ini]
+[2021.09.16-02.11.38:610][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.09.16-02.11.38:610][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/timch/Documents/Unreal Projects/FeedTheTeddies/Saved/Config/Windows/Engine.ini]
+[2021.09.16-02.11.38:610][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/timch/Documents/Unreal Projects/FeedTheTeddies/Saved/Config/Windows/Engine.ini]
+[2021.09.16-02.11.38:610][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.09.16-02.11.38:610][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.09.16-02.11.38:610][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.09.16-02.11.38:610][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.09.16-02.11.38:610][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.09.16-02.11.38:610][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.09.16-02.11.38:610][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.09.16-02.11.38:610][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.09.16-02.11.38:610][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.09.16-02.11.38:610][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.09.16-02.11.38:610][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.09.16-02.11.38:610][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.09.16-02.11.38:610][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.09.16-02.11.38:610][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.09.16-02.11.38:610][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/timch/Documents/Unreal Projects/FeedTheTeddies/Saved/Config/Windows/Engine.ini]
+[2021.09.16-02.11.38:610][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.09.16-02.11.38:610][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.09.16-02.11.38:610][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.09.16-02.11.38:610][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.09.16-02.11.38:610][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.09.16-02.11.38:610][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.09.16-02.11.38:610][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.09.16-02.11.38:610][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.09.16-02.11.38:610][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.09.16-02.11.38:610][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.09.16-02.11.38:611][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.09.16-02.11.38:611][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.09.16-02.11.38:611][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.09.16-02.11.38:611][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.09.16-02.11.38:611][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/timch/Documents/Unreal Projects/FeedTheTeddies/Saved/Config/Windows/Engine.ini]
+[2021.09.16-02.11.38:611][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/timch/Documents/Unreal Projects/FeedTheTeddies/Saved/Config/Windows/Engine.ini]
+[2021.09.16-02.11.38:623][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/timch/Documents/Unreal Projects/FeedTheTeddies/Saved/Config/Windows/Scalability.ini]
+[2021.09.16-02.11.38:623][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.09.16-02.11.38:623][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.09.16-02.11.38:623][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/timch/Documents/Unreal Projects/FeedTheTeddies/Saved/Config/Windows/Scalability.ini]
+[2021.09.16-02.11.38:623][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.09.16-02.11.38:623][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/timch/Documents/Unreal Projects/FeedTheTeddies/Saved/Config/Windows/Scalability.ini]
+[2021.09.16-02.11.38:623][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.09.16-02.11.38:623][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.09.16-02.11.38:623][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.09.16-02.11.38:623][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.09.16-02.11.38:623][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.09.16-02.11.38:623][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.09.16-02.11.38:623][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.09.16-02.11.38:623][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.09.16-02.11.38:623][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.09.16-02.11.38:623][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.09.16-02.11.38:623][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.09.16-02.11.38:623][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.09.16-02.11.38:623][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.09.16-02.11.38:623][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.09.16-02.11.38:623][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.09.16-02.11.38:623][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.09.16-02.11.38:623][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.09.16-02.11.38:623][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.09.16-02.11.38:623][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/timch/Documents/Unreal Projects/FeedTheTeddies/Saved/Config/Windows/Scalability.ini]
+[2021.09.16-02.11.38:623][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.09.16-02.11.38:623][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.09.16-02.11.38:623][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.09.16-02.11.38:623][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.09.16-02.11.38:623][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.09.16-02.11.38:623][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.09.16-02.11.38:623][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.09.16-02.11.38:623][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.09.16-02.11.38:623][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.09.16-02.11.38:623][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.09.16-02.11.38:623][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.09.16-02.11.38:623][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.09.16-02.11.38:623][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.09.16-02.11.38:623][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.09.16-02.11.38:623][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.09.16-02.11.38:623][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.09.16-02.11.38:623][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.09.16-02.11.38:623][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.09.16-02.11.38:623][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.09.16-02.11.38:623][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.09.16-02.11.38:623][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.09.16-02.11.38:623][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.09.16-02.11.38:623][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.09.16-02.11.38:623][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.09.16-02.11.38:624][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.09.16-02.11.38:624][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.09.16-02.11.38:624][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.09.16-02.11.38:624][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.09.16-02.11.38:624][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.09.16-02.11.38:624][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.09.16-02.11.38:624][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/timch/Documents/Unreal Projects/FeedTheTeddies/Saved/Config/Windows/Scalability.ini]
+[2021.09.16-02.11.38:624][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.09.16-02.11.38:624][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.09.16-02.11.38:624][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.09.16-02.11.38:624][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.09.16-02.11.38:624][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.09.16-02.11.38:624][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.09.16-02.11.38:624][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.09.16-02.11.38:624][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.09.16-02.11.38:624][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.09.16-02.11.38:624][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/timch/Documents/Unreal Projects/FeedTheTeddies/Saved/Config/Windows/Scalability.ini]
+[2021.09.16-02.11.38:624][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.09.16-02.11.38:624][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.09.16-02.11.38:624][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.09.16-02.11.38:624][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.09.16-02.11.38:624][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.09.16-02.11.38:624][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.09.16-02.11.38:624][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.09.16-02.11.38:624][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.09.16-02.11.38:624][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.09.16-02.11.38:624][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.09.16-02.11.38:624][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.09.16-02.11.38:624][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.09.16-02.11.38:624][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.09.16-02.11.38:624][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.09.16-02.11.38:624][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.09.16-02.11.38:624][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.09.16-02.11.38:624][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.09.16-02.11.38:624][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.09.16-02.11.38:624][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.09.16-02.11.38:624][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.09.16-02.11.38:624][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.09.16-02.11.38:624][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.09.16-02.11.38:624][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.09.16-02.11.38:624][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.09.16-02.11.38:624][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.09.16-02.11.38:624][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.09.16-02.11.38:624][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.09.16-02.11.38:624][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/timch/Documents/Unreal Projects/FeedTheTeddies/Saved/Config/Windows/Scalability.ini]
+[2021.09.16-02.11.38:624][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.09.16-02.11.38:624][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.09.16-02.11.38:624][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/timch/Documents/Unreal Projects/FeedTheTeddies/Saved/Config/Windows/Scalability.ini]
+[2021.09.16-02.11.38:624][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.09.16-02.11.38:624][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.09.16-02.11.38:624][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.09.16-02.11.38:624][  0]LogInit: Selected Device Profile: [Windows]
+[2021.09.16-02.11.38:624][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.09.16-02.11.38:624][  0]LogHAL: Display: Platform has ~ 64 GB [68677255168 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.09.16-02.11.38:624][  0]LogInit: Going up to parent DeviceProfile []
+[2021.09.16-02.11.38:624][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/timch/Documents/Unreal Projects/FeedTheTeddies/Saved/Config/Windows/Scalability.ini]
+[2021.09.16-02.11.38:624][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.09.16-02.11.38:624][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.09.16-02.11.38:624][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/timch/Documents/Unreal Projects/FeedTheTeddies/Saved/Config/Windows/Scalability.ini]
+[2021.09.16-02.11.38:624][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.09.16-02.11.38:624][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/timch/Documents/Unreal Projects/FeedTheTeddies/Saved/Config/Windows/Scalability.ini]
+[2021.09.16-02.11.38:624][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.09.16-02.11.38:624][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.09.16-02.11.38:624][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.09.16-02.11.38:624][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/timch/Documents/Unreal Projects/FeedTheTeddies/Saved/Config/Windows/Scalability.ini]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/timch/Documents/Unreal Projects/FeedTheTeddies/Saved/Config/Windows/Scalability.ini]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/timch/Documents/Unreal Projects/FeedTheTeddies/Saved/Config/Windows/Scalability.ini]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.09.16-02.11.38:625][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.09.16-02.11.38:626][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.09.16-02.11.38:626][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.09.16-02.11.38:626][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.09.16-02.11.38:626][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.09.16-02.11.38:626][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.09.16-02.11.38:626][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.09.16-02.11.38:626][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.09.16-02.11.38:626][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.09.16-02.11.38:626][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.09.16-02.11.38:626][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.09.16-02.11.38:626][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.09.16-02.11.38:626][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.09.16-02.11.38:626][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/timch/Documents/Unreal Projects/FeedTheTeddies/Saved/Config/Windows/Scalability.ini]
+[2021.09.16-02.11.38:626][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.09.16-02.11.38:626][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.09.16-02.11.38:626][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/timch/Documents/Unreal Projects/FeedTheTeddies/Saved/Config/Windows/Scalability.ini]
+[2021.09.16-02.11.38:626][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.09.16-02.11.38:626][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.09.16-02.11.38:626][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.09.16-02.11.38:626][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.09.16-02.11.38:627][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.09.16-02.11.38:627][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.09.16-02.11.38:627][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.09.16-02.11.38:627][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/timch/Documents/Unreal Projects/FeedTheTeddies/Saved/Config/Windows/Engine.ini]
+[2021.09.16-02.11.38:627][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/timch/Documents/Unreal Projects/FeedTheTeddies/Saved/Config/Windows/Editor.ini]
+[2021.09.16-02.11.38:627][  0]LogInit: Computer: MSI
+[2021.09.16-02.11.38:627][  0]LogInit: User: timch
+[2021.09.16-02.11.38:627][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.09.16-02.11.38:627][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.09.16-02.11.38:627][  0]LogMemory: Memory total: Physical=64.0GB (64GB approx)
+[2021.09.16-02.11.38:627][  0]LogMemory: Platform Memory Stats for Windows
+[2021.09.16-02.11.38:627][  0]LogMemory: Process Physical Memory: 130.00 MB used, 130.00 MB peak
+[2021.09.16-02.11.38:627][  0]LogMemory: Process Virtual Memory: 110.88 MB used, 110.88 MB peak
+[2021.09.16-02.11.38:627][  0]LogMemory: Physical Memory: 17450.02 MB used,  48045.71 MB free, 65495.73 MB total
+[2021.09.16-02.11.38:627][  0]LogMemory: Virtual Memory: 134164240.00 MB used,  53486.38 MB free, 134217728.00 MB total
+[2021.09.16-02.11.39:555][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.09.16-02.11.39:583][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.09.16-02.11.39:584][  0]LogInit: Using OS detected language (en-US).
+[2021.09.16-02.11.39:585][  0]LogInit: Using OS detected locale (en-US).
+[2021.09.16-02.11.39:591][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.09.16-02.11.39:789][  0]LogInit: Setting process to per monitor DPI aware
+[2021.09.16-02.11.39:803][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.16-02.11.39:819][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.09.16-02.11.39:819][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.09.16-02.11.39:982][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.09.16-02.11.39:982][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.09.16-02.11.39:982][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.09.16-02.11.39:982][  0]LogD3D11RHI: D3D11 adapters:
+[2021.09.16-02.11.40:065][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2021.09.16-02.11.40:065][  0]LogD3D11RHI:       8079/0/32747 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.09.16-02.11.40:068][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.09.16-02.11.40:068][  0]LogD3D11RHI:       0/0/32747 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.09.16-02.11.40:068][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.09.16-02.11.40:079][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.09.16-02.11.40:079][  0]LogD3D11RHI:     GPU DeviceId: 0x1be0 (for the marketing name, search the web for "GPU Device Id")
+[2021.09.16-02.11.40:079][  0]LogWindows: EnumDisplayDevices:
+[2021.09.16-02.11.40:079][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2021.09.16-02.11.40:079][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2021.09.16-02.11.40:080][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2021.09.16-02.11.40:080][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2021.09.16-02.11.40:080][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.09.16-02.11.40:080][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2021.09.16-02.11.40:080][  0]LogD3D11RHI:   Driver Version: 442.19 (internal:26.21.14.4219, unified:442.19)
+[2021.09.16-02.11.40:080][  0]LogD3D11RHI:      Driver Date: 1-29-2020
+[2021.09.16-02.11.40:080][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2021.09.16-02.11.40:144][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.09.16-02.11.40:144][  0]LogD3D11RHI: Async texture creation enabled
+[2021.09.16-02.11.40:144][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.09.16-02.11.40:162][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.09.16-02.11.40:164][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.09.16-02.11.40:508][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.09.16-02.11.40:531][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.09.16-02.11.40:531][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.09.16-02.11.40:531][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.09.16-02.11.40:531][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.09.16-02.11.40:531][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.09.16-02.11.40:531][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.09.16-02.11.40:531][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.09.16-02.11.40:531][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.09.16-02.11.40:531][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.09.16-02.11.40:531][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.09.16-02.11.40:554][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.09.16-02.11.40:554][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.09.16-02.11.40:564][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.09.16-02.11.40:572][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.09.16-02.11.40:580][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.09.16-02.11.40:589][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.09.16-02.11.40:598][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.09.16-02.11.40:607][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.09.16-02.11.40:616][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.09.16-02.11.40:643][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.09.16-02.11.40:643][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.09.16-02.11.40:651][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.09.16-02.11.40:660][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.09.16-02.11.40:669][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.09.16-02.11.40:679][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.09.16-02.11.40:697][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.09.16-02.11.40:697][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.09.16-02.11.40:706][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.09.16-02.11.40:716][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.09.16-02.11.40:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.09.16-02.11.40:734][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.09.16-02.11.40:734][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.09.16-02.11.40:741][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.09.16-02.11.40:801][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.09.16-02.11.40:801][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (../../../../../../Users/timch/Documents/Unreal Projects/FeedTheTeddies/Intermediate/Shaders/WorkingDirectory/27964/).
+[2021.09.16-02.11.40:801][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/timch/AppData/Local/Temp/UnrealShaderWorkingDir/52FFDB32437029A2E2EAD28565C61470/'.
+[2021.09.16-02.11.40:801][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.09.16-02.11.40:801][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.09.16-02.11.41:622][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.09.16-02.11.41:672][  0]LogDerivedDataCache: Loaded boot cache 0.05s 77MB C:/Users/timch/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.09.16-02.11.41:672][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/timch/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.09.16-02.11.41:672][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/timch/Documents/Unreal Projects/FeedTheTeddies/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.09.16-02.11.41:672][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.09.16-02.11.41:672][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/timch/Documents/Unreal Projects/FeedTheTeddies/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.09.16-02.11.41:672][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.09.16-02.11.41:684][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.09.16-02.11.41:684][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.09.16-02.11.41:684][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.09.16-02.11.41:695][  0]LogDerivedDataCache: Speed tests for C:/Users/timch/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.09.16-02.11.41:695][  0]LogDerivedDataCache: Display: Performance to C:/Users/timch/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=321.54MBs, RandomWriteSpeed=119.14MBs. Assigned SpeedClass 'Local'
+[2021.09.16-02.11.41:695][  0]LogDerivedDataCache: Using Local data cache path C:/Users/timch/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.09.16-02.11.41:696][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.09.16-02.11.41:696][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.09.16-02.11.41:747][  0]LogSlate: Using FreeType 2.10.0
+[2021.09.16-02.11.41:748][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.09.16-02.11.41:772][  0]LogAssetRegistry: FAssetRegistry took 0.0028 seconds to start up
+[2021.09.16-02.11.42:028][  0]LogInit: Selected Device Profile: [Windows]
+[2021.09.16-02.11.42:028][  0]LogInit: Active device profile: [0000021E7981DD00][0000021E78E42B00 49] Windows
+[2021.09.16-02.11.42:028][  0]LogInit: Profiles: [0000021E7981DD00][0000021E78E42B00 49] Windows, [0000021E79826300][0000021E78E4AC80 49] WindowsNoEditor, [0000021E7981CD00][0000021E78E4EE00 49] WindowsServer, [0000021E79826F00][0000021E78E52F80 49] WindowsClient, [0000021E7981EA00][0000021E78E57100 49] IOS, [0000021E79827D00][0000021E78E5B280 49] iPadAir, [0000021E7981ED00][0000021E78E5F400 49] iPadAir2, [0000021E797E3000][0000021E78E47680 49] IPadPro, [0000021E797E3100][0000021E78E636C0 49] iPadAir3, [0000021E7981D500][0000021E78E67800 49] iPadAir4, [0000021E797E2800][0000021E78E6B940 49] iPadMini2, [0000021E7981F200][0000021E79E85AC0 49] iPadMini3, [0000021E797E1600][0000021E79E89C40 49] iPadMini4, [0000021E7981D200][0000021E79E8C100 49] iPadMini5, [0000021E79806900][0000021E79E943C0 49] iPhone6, [0000021E79806A00][0000021E79E90400 49] iPodTouch6, [0000021E797E3600][0000021E79E9C6C0 49] iPhone7, [0000021E797E3700][0000021E79E98700 49] iPodTouch7, [0000021E79806700][0000021E79EA0880 49] iPhone5S, [0000021E797E0100][0000021E79EA4A00 49] iPhone6Plus, [0000021E79805400][0000021E79EA8B80 49] iPhone6S, [0000021E797E0700][0000021E79EACD00 49] iPhone6SPlus, [0000021E79804200][0000021E79EB0E80 49] iPhone7Plus, [0000021E797E2600][0000021E79EB5000 49] iPhoneSE, [0000021E79807000][0000021E79EB9180 49] iPhone8, [0000021E797E3F00][0000021E79EBD300 49] iPhone8Plus, [0000021E79805C00][0000021E79EC1480 49] iPhoneX, [0000021E797E2200][0000021E79EC5600 49] iPhoneXS, [0000021E79804300][0000021E79E81740 49] iPhoneXSMax, [0000021E797E3C00][0000021E79EC9880 49] iPhoneXR, [0000021E79807E00][0000021E79ECD9C0 49] iPhone11, [0000021E797E2000][0000021E79ED5B40 49] iPhone11Pro, [0000021E79807500][0000021E79ED9CC0 49] iPhone11ProMax, [0000021E797E2C00][0000021E79EDC180 49] iPhoneSE2, [0000021E79806C00][0000021E79EE0300 49] iPhone12Mini, [0000021E797E0B00][0000021E79EE4480 49] iPhone12, [0000021E79806200][0000021E79EE8600 49] iPhone12Pro, [0000021E797E3400][0000021E79EEC780 49] iPhone12ProMax, [0000021E79807100][0000021E79EF0900 49] iPadPro105, [0000021E797E3D00][0000021E79EF4A80 49] iPadPro129, [0000021E79825700][0000021E79EF8C00 49] iPadPro97, [0000021E79807400][0000021E79EFCD80 49] iPadPro2_129, [0000021E79825F00][0000021E79F00F00 49] iPad5, [0000021E79806100][0000021E79F05080 49] iPad6, [0000021E79825800][0000021E79F09200 49] iPad7, [0000021E79806600][0000021E79F0D380 49] iPad8, [0000021E79824100][0000021E79F11500 49] iPadPro11, [0000021E79805D00][0000021E79F15680 49] iPadPro2_11, [0000021E79827F00][0000021E79ED17C0 49] iPadPro3_129, [0000021E79806D00][0000021E79F19900 49] iPadPro4_129, [0000021E79826100][0000021E79F1DA40 49] AppleTV, [0000021E797E1700][0000021E79F21B80 49] AppleTV4K, [0000021E79827800][0000021E79F29D00 49] TVOS, [0000021E797E1900][0000021E79F2C1C0 49] Mac, [0000021E79826B00][0000021E79F30340 49] MacClient, [0000021E797E1A00][0000021E79F344C0 49] MacNoEditor, [0000021E79824200][0000021E79F38640 49] MacServer, [0000021E797E2700][0000021E79F3C7C0 49] Linux, [0000021E79824800][0000021E79F40940 49] LinuxAArch64, [0000021E797E0C00][0000021E79F44AC0 49] LinuxNoEditor, [0000021E79825D00][0000021E79F48C40 49] LinuxAArch64NoEditor, [0000021E797E0800][0000021E79F4CDC0 49] LinuxClient, [0000021E79826D00][0000021E79F50F40 49] LinuxAArch64Client, [0000021E797E0F00][0000021E79F550C0 49] LinuxServer, [0000021E79824F00][0000021E79F59240 49] LinuxAArch64Server, [0000021E797E2A00][0000021E79F5D3C0 49] Android, [0000021E79825900][0000021E79F61540 49] Android_Low, [0000021E797E3A00][0000021E79F656C0 49] Android_Mid, [0000021E79827700][0000021E79F25800 49] Android_High, [0000021E797E2400][0000021E79F69940 49] Android_Default, [0000021E79824A00][0000021E79F6DA80 49] Android_Adreno4xx, [0000021E797E0A00][0000021E79F71BC0 49] Android_Adreno5xx_Low, [0000021E79827A00][0000021E79F79D40 49] Android_Adreno5xx, [0000021E797E1D00][0000021E79F7C200 49] Android_Adreno6xx, [0000021E79826600][0000021E79F80380 49] Android_Adreno6xx_Vulkan, [0000021E797E0D00][0000021E79F84500 49] Android_Mali_T6xx, [0000021E79824700][0000021E79F88680 49] Android_Mali_T7xx, [0000021E797E1000][0000021E79F8C800 49] Android_Mali_T8xx, [0000021E79825100][0000021E79F90980 49] Android_Mali_G71, [0000021E797E1E00][0000021E79F94B00 49] Android_Mali_G72, [0000021E79827C00][0000021E79F98C80 49] Android_Mali_G72_Vulkan, [0000021E797E1200][0000021E79F9CE00 49] Android_Mali_G76, [0000021E79826C00][0000021E79FA0F80 49] Android_Mali_G76_Vulkan, [0000021E797E1800][0000021E79FA5100 49] Android_Mali_G77, [0000021E79825400][0000021E79FA9280 49] Android_Mali_G77_Vulkan, [0000021E797E3B00][0000021E79FAD400 49] Android_Vulkan_SM5, [0000021E79826900][0000021E79FB1580 49] Android_PowerVR_G6xxx, [0000021E797E3900][0000021E79FB5700 49] Android_PowerVR_GT7xxx, [0000021E79826400][0000021E79FB9880 49] Android_PowerVR_GE8xxx, [0000021E797E1100][0000021E79F759C0 49] Android_PowerVR_GM9xxx, [0000021E79827400][0000021E79FBDB00 49] Android_PowerVR_GM9xxx_Vulkan, [0000021E797E2300][0000021E79FC1C40 49] Android_TegraK1, [0000021E79826700][0000021E79FC8100 49] Android_Unknown_Vulkan, [0000021E797E3800][0000021E79FCC280 49] Lumin, [0000021E7981F000][0000021E79FD0400 49] Lumin_Desktop, [0000021E79804800][0000021E79FD4580 49] HoloLens, 
+[2021.09.16-02.11.42:138][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.09.16-02.11.42:138][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.09.16-02.11.42:138][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.09.16-02.11.42:138][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.09.16-02.11.42:138][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.09.16-02.11.42:156][  0]LogNetVersion: FeedTheTeddies 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 29500273)
+[2021.09.16-02.11.42:600][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.09.16-02.11.42:658][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.057828 seconds
+[2021.09.16-02.11.42:664][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.09.16-02.11.42:664][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.09.16-02.11.42:664][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.09.16-02.11.43:019][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.09.16-02.11.43:028][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.09.16-02.11.43:134][  0]SourceControl: Source control is disabled
+[2021.09.16-02.11.43:134][  0]SourceControl: Source control is disabled
+[2021.09.16-02.11.43:137][  0]SourceControl: Source control is disabled
+[2021.09.16-02.11.43:139][  0]SourceControl: Source control is disabled
+[2021.09.16-02.11.43:144][  0]SourceControl: Source control is disabled
+[2021.09.16-02.11.43:155][  0]LogUProjectInfo: Found projects:
+[2021.09.16-02.11.43:370][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.09.16-02.11.43:388][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.09.16-02.11.43:388][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.09.16-02.11.43:434][  0]LogCollectionManager: Loaded 0 collections in 0.001769 seconds
+[2021.09.16-02.11.43:457][  0]LogFileCache: Scanning file cache for directory 'C:/Users/timch/Documents/Unreal Projects/FeedTheTeddies/Saved/Collections/' took 0.00s
+[2021.09.16-02.11.43:457][  0]LogFileCache: Scanning file cache for directory 'C:/Users/timch/Documents/Unreal Projects/FeedTheTeddies/Content/Developers/timch/Collections/' took 0.00s
+[2021.09.16-02.11.43:457][  0]LogFileCache: Scanning file cache for directory 'C:/Users/timch/Documents/Unreal Projects/FeedTheTeddies/Content/Collections/' took 0.00s
+[2021.09.16-02.11.43:457][  0]LogOcInput: OculusInput pre-init called
+[2021.09.16-02.11.43:469][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.09.16-02.11.43:469][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.09.16-02.11.43:512][  0]LogEngine: Initializing Engine...
+[2021.09.16-02.11.43:514][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.09.16-02.11.43:514][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.09.16-02.11.43:515][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.09.16-02.11.43:614][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.09.16-02.11.43:621][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.09.16-02.11.43:637][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.09.16-02.11.43:640][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.09.16-02.11.43:640][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.09.16-02.11.43:640][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.16-02.11.43:640][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.16-02.11.43:640][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.16-02.11.43:640][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.16-02.11.43:640][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.16-02.11.43:640][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.16-02.11.43:640][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.16-02.11.43:640][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.16-02.11.43:640][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.16-02.11.43:640][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.16-02.11.43:677][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.16-02.11.43:677][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.09.16-02.11.43:677][  0]LogAudioMixer: Display: 2: FrontCenter
+[2021.09.16-02.11.43:677][  0]LogAudioMixer: Display: 3: LowFrequency
+[2021.09.16-02.11.43:677][  0]LogAudioMixer: Display: 4: BackLeft
+[2021.09.16-02.11.43:677][  0]LogAudioMixer: Display: 5: BackRight
+[2021.09.16-02.11.43:677][  0]LogAudioMixer: Display: 6: SideLeft
+[2021.09.16-02.11.43:677][  0]LogAudioMixer: Display: 7: SideRight
+[2021.09.16-02.11.43:895][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.09.16-02.11.43:900][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.16-02.11.43:901][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.16-02.11.43:901][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.16-02.11.43:902][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.16-02.11.43:902][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.16-02.11.43:902][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.09.16-02.11.43:903][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.16-02.11.43:903][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.16-02.11.43:903][  0]LogInit: FAudioDevice initialized.
+[2021.09.16-02.11.43:904][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.09.16-02.11.43:904][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.09.16-02.11.43:946][  0]LogDerivedDataCache: Saved boot cache 0.04s 77MB C:/Users/timch/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.09.16-02.11.43:947][  0]LogInit: Texture streaming: Enabled
+[2021.09.16-02.11.43:959][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.09.16-02.11.43:963][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.09.16-02.11.43:963][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.09.16-02.11.43:965][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.09.16-02.11.43:996][  0]LogInit: Transaction tracking system initialized
+[2021.09.16-02.11.44:018][  0]BlueprintLog: New page: Editor Load
+[2021.09.16-02.11.44:082][  0]LocalizationService: Localization service is disabled
+[2021.09.16-02.11.44:103][  0]TimingProfiler: Initialize
+[2021.09.16-02.11.44:103][  0]TimingProfiler: OnSessionChanged
+[2021.09.16-02.11.44:103][  0]LoadingProfiler: Initialize
+[2021.09.16-02.11.44:103][  0]LoadingProfiler: OnSessionChanged
+[2021.09.16-02.11.44:103][  0]NetworkingProfiler: Initialize
+[2021.09.16-02.11.44:103][  0]NetworkingProfiler: OnSessionChanged
+[2021.09.16-02.11.44:103][  0]MemoryProfiler: Initialize
+[2021.09.16-02.11.44:103][  0]MemoryProfiler: OnSessionChanged
+[2021.09.16-02.11.44:237][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.09.16-02.11.44:238][  0]LogCook: Display: Mobile HDR setting 1
+[2021.09.16-02.11.44:373][  0]LogFileCache: Scanning file cache for directory 'C:/Users/timch/Documents/Unreal Projects/FeedTheTeddies/Content/' took 0.00s
+[2021.09.16-02.11.44:557][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.09.16-02.11.44:560][  0]SourceControl: Source control is disabled
+[2021.09.16-02.11.44:560][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.398
+[2021.09.16-02.11.44:560][  0]Cmd: MAP LOAD FILE="../../../../../../Users/timch/Documents/Unreal Projects/FeedTheTeddies/Content/FeedTheTeddies/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.09.16-02.11.44:560][  0]LightingResults: New page: Lighting Build
+[2021.09.16-02.11.44:561][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.09.16-02.11.44:561][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.16-02.11.44:561][  0]MapCheck: New page: Map Check
+[2021.09.16-02.11.44:561][  0]LightingResults: New page: Lighting Build
+[2021.09.16-02.11.44:568][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.09.16-02.11.44:583][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2021.09.16-02.11.44:584][  0]LogAIModule: Creating AISystem for world MainMenu
+[2021.09.16-02.11.44:586][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.09.16-02.11.44:591][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.09.16-02.11.44:592][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.09.16-02.11.44:592][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.141ms to complete.
+[2021.09.16-02.11.44:592][  0]LogFileHelpers: Loading map 'MainMenu' took 0.032
+[2021.09.16-02.11.44:595][  0]LogUnrealEdMisc: Total Editor Startup Time, took 7.433
+[2021.09.16-02.11.44:762][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.16-02.11.44:768][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.16-02.11.44:775][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.16-02.11.44:781][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.16-02.11.44:796][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0109 seconds. Added 3612 classes and 861 folders.
+[2021.09.16-02.11.44:799][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.09.16-02.11.44:800][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.09.16-02.11.44:800][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.16-02.11.44:800][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.09.16-02.11.44:800][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.09.16-02.11.44:801][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.09.16-02.11.44:801][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.16-02.11.44:801][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.09.16-02.11.44:801][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.09.16-02.11.44:802][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.09.16-02.11.44:802][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.16-02.11.44:802][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.09.16-02.11.44:802][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.09.16-02.11.44:802][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.09.16-02.11.44:802][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.16-02.11.44:802][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.09.16-02.11.44:802][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.09.16-02.11.44:803][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.09.16-02.11.44:803][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.16-02.11.44:803][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.09.16-02.11.44:803][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.09.16-02.11.44:803][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.09.16-02.11.44:804][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.16-02.11.44:804][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.09.16-02.11.44:804][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.09.16-02.11.44:804][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.09.16-02.11.44:804][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.16-02.11.44:804][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.09.16-02.11.44:804][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.09.16-02.11.44:805][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.09.16-02.11.44:805][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.16-02.11.44:805][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.09.16-02.11.44:805][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.09.16-02.11.44:805][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.09.16-02.11.44:805][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.16-02.11.44:805][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.09.16-02.11.44:805][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.09.16-02.11.44:806][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.09.16-02.11.44:806][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.16-02.11.44:806][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.09.16-02.11.44:806][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.09.16-02.11.44:807][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.09.16-02.11.44:807][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.16-02.11.44:807][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.09.16-02.11.44:807][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.09.16-02.11.44:807][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.09.16-02.11.44:807][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.16-02.11.44:807][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.09.16-02.11.44:807][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.09.16-02.11.44:808][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.09.16-02.11.44:808][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.16-02.11.44:808][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.09.16-02.11.44:808][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.09.16-02.11.44:809][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.09.16-02.11.44:809][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.16-02.11.44:809][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.09.16-02.11.44:809][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.09.16-02.11.44:809][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.09.16-02.11.44:809][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.16-02.11.44:809][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.09.16-02.11.44:809][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.09.16-02.11.44:810][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.09.16-02.11.44:810][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.16-02.11.44:810][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.09.16-02.11.44:810][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.09.16-02.11.44:810][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.09.16-02.11.44:810][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.16-02.11.44:810][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.09.16-02.11.44:810][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.09.16-02.11.44:811][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.09.16-02.11.44:811][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.16-02.11.44:811][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.09.16-02.11.44:811][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.09.16-02.11.44:811][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.09.16-02.11.44:812][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.16-02.11.44:812][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.09.16-02.11.44:812][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.09.16-02.11.44:812][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.09.16-02.11.44:812][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.16-02.11.44:812][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.09.16-02.11.44:812][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.09.16-02.11.44:813][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.09.16-02.11.44:813][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.16-02.11.44:813][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.09.16-02.11.44:813][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.09.16-02.11.44:813][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.09.16-02.11.44:813][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.16-02.11.44:813][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.09.16-02.11.44:813][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.09.16-02.11.44:814][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.09.16-02.11.44:814][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.16-02.11.44:814][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.09.16-02.11.44:814][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.09.16-02.11.44:815][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.09.16-02.11.44:815][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.16-02.11.44:815][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.09.16-02.11.44:815][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.09.16-02.11.44:816][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.09.16-02.11.44:816][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.16-02.11.44:816][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.09.16-02.11.44:816][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.09.16-02.11.44:816][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.09.16-02.11.44:816][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.16-02.11.44:816][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.09.16-02.11.44:816][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.09.16-02.11.44:872][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.09.16-02.11.44:876][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.09.16-02.11.45:003][  0]LogSlate: Took 0.000259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.09.16-02.11.45:005][  0]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.09.16-02.11.45:011][  0]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.09.16-02.11.45:012][  0]LogSlate: Took 0.000119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.09.16-02.11.45:157][  0]LogRenderer: Reallocating scene render targets to support 964x444 Format 10 NumSamples 1 (Frame:1).
+[2021.09.16-02.11.45:382][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.09.16-02.11.45:382][  0]LogLoad: (Engine Initialization) Total time: 8.22 seconds
+[2021.09.16-02.11.45:382][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.09.16-02.11.45:382][  0]LogInit: First time updating LLM stats...
+[2021.09.16-02.11.45:427][  0]LogAssetRegistry: Asset discovery search completed in 3.6551 seconds
+[2021.09.16-02.11.45:428][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.09.16-02.11.45:461][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.09.16-02.11.45:472][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/timch/Documents/Unreal Projects/FeedTheTeddies/Content/' took 0.07s
+[2021.09.16-02.12.28:420][601]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.16-02.12.28:446][601]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FeedTheTeddies/Blueprints/BP_ConfigurationDataActor.BP_ConfigurationDataActor
+[2021.09.16-02.12.28:673][601]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 126 classes and 0 folders.
+[2021.09.16-02.12.42:191][315]LogSlate: Window 'BP_ConfigurationDataActor' being destroyed
+[2021.09.16-02.12.42:197][315]LogSlate: Window 'BP_ConfigurationDataActor' being destroyed
+[2021.09.16-02.12.42:201][315]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.09.16-02.12.42:201][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.16-02.15.26:672][139]LogHotReload: New module detected: UE4Editor-FeedTheTeddies-0011.dll
+[2021.09.16-02.15.27:694][143]LogHotReload: Starting Hot-Reload from IDE
+[2021.09.16-02.15.27:760][143]LogClass: Could not find existing class FriesActor in package /Script/FeedTheTeddies for HotReload, assuming new class
+[2021.09.16-02.15.27:760][143]LogClass: Function EndPlay is new.
+[2021.09.16-02.15.27:760][143]LogClass: Function OnOverlapBegin is new.
+[2021.09.16-02.15.27:766][143]LogClass: EventName HotReload.
+[2021.09.16-02.15.27:766][143]LogClass: ConfigurationDataStruct HotReload.
+[2021.09.16-02.15.27:774][143]LogHotReload: Re-instancing FriesActor after hot-reload.
+[2021.09.16-02.15.27:802][143]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'FeedTheTeddies' in 0.0005 seconds. Added 11 classes and 2 folders.
+[2021.09.16-02.15.27:806][143]Display: HotReload successful (5 functions remapped  1 scriptstructs remapped)
+[2021.09.16-02.15.27:912][143]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0137 seconds. Added 3612 classes and 861 folders.
+[2021.09.16-02.15.27:976][143]Display: HotReload took  0.3s.
+[2021.09.16-02.16.46:005][376]LogHotReload: New module detected: UE4Editor-FeedTheTeddies-0012.dll
+[2021.09.16-02.16.47:032][380]LogHotReload: Starting Hot-Reload from IDE
+[2021.09.16-02.16.47:116][380]LogClass: EventName HotReload.
+[2021.09.16-02.16.47:116][380]LogClass: ConfigurationDataStruct HotReload.
+[2021.09.16-02.16.47:122][380]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'FeedTheTeddies' in 0.0004 seconds. Added 11 classes and 2 folders.
+[2021.09.16-02.16.47:128][380]Display: HotReload successful (7 functions remapped  1 scriptstructs remapped)
+[2021.09.16-02.16.47:238][380]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0114 seconds. Added 3612 classes and 861 folders.
+[2021.09.16-02.16.47:242][380]Display: HotReload took  0.2s.
+[2021.09.16-02.17.06:440][617]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.16-02.17.06:447][617]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.16-02.17.06:447][617]PIE: New page: PIE session: MainMenu (Sep 15, 2021, 2:17:06 PM)
+[2021.09.16-02.17.06:449][617]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.09.16-02.17.06:450][617]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.09.16-02.17.06:450][617]LogPlayLevel: Creating play world package: /Game/FeedTheTeddies/Maps/UEDPIE_0_MainMenu
+[2021.09.16-02.17.06:452][617]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001641s)
+[2021.09.16-02.17.06:456][617]LogAIModule: Creating AISystem for world MainMenu
+[2021.09.16-02.17.06:456][617]LogPlayLevel: PIE: World Init took: (0.004146s)
+[2021.09.16-02.17.06:456][617]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FeedTheTeddies/Maps/MainMenu.MainMenu to /Game/FeedTheTeddies/Maps/UEDPIE_0_MainMenu.MainMenu (0.005954s)
+[2021.09.16-02.17.06:571][617]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2021.09.16-02.17.06:573][617]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.09.16-02.17.06:573][617]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.16-02.17.06:573][617]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.16-02.17.06:573][617]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.16-02.17.06:573][617]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.16-02.17.06:573][617]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.16-02.17.06:573][617]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.16-02.17.06:573][617]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.16-02.17.06:573][617]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.16-02.17.06:573][617]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.16-02.17.06:574][617]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.16-02.17.06:603][617]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.16-02.17.06:603][617]LogAudioMixer: Display: 1: FrontRight
+[2021.09.16-02.17.06:603][617]LogAudioMixer: Display: 2: FrontCenter
+[2021.09.16-02.17.06:603][617]LogAudioMixer: Display: 3: LowFrequency
+[2021.09.16-02.17.06:603][617]LogAudioMixer: Display: 4: BackLeft
+[2021.09.16-02.17.06:603][617]LogAudioMixer: Display: 5: BackRight
+[2021.09.16-02.17.06:603][617]LogAudioMixer: Display: 6: SideLeft
+[2021.09.16-02.17.06:603][617]LogAudioMixer: Display: 7: SideRight
+[2021.09.16-02.17.06:691][617]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.09.16-02.17.06:691][617]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.16-02.17.06:691][617]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.16-02.17.06:691][617]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.16-02.17.06:692][617]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.16-02.17.06:692][617]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.16-02.17.06:692][617]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.09.16-02.17.06:706][617]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.16-02.17.06:706][617]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.16-02.17.06:706][617]LogInit: FAudioDevice initialized.
+[2021.09.16-02.17.06:706][617]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainMenu'.
+[2021.09.16-02.17.06:721][617]LogLoad: Game class is 'BP_FeedTheTeddiesGameModeBase_C'
+[2021.09.16-02.17.06:722][617]LogWorld: Bringing World /Game/FeedTheTeddies/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.09.15-20.17.06
+[2021.09.16-02.17.06:723][617]LogWorld: Bringing up level for play took: 0.000517
+[2021.09.16-02.17.06:723][617]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2021.09.16-02.17.06:762][617]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.09.16-02.17.06:764][617]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.16-02.17.06:764][617]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.09.16-02.17.06:765][617]PIE: Server logged in
+[2021.09.16-02.17.06:766][617]PIE: Play in editor total start time 0.321 seconds.
+[2021.09.16-02.17.08:135][679]LogNet: Browse: /Game/FeedTheTeddies/Maps/DifficultyMenu
+[2021.09.16-02.17.08:135][679]LogLoad: LoadMap: /Game/FeedTheTeddies/Maps/DifficultyMenu
+[2021.09.16-02.17.08:135][679]LogWorld: BeginTearingDown for /Game/FeedTheTeddies/Maps/UEDPIE_0_MainMenu
+[2021.09.16-02.17.08:135][679]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.09.16-02.17.08:135][679]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.16-02.17.08:175][679]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.16-02.17.08:231][679]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2021.09.16-02.17.08:257][679]LogAudio: Display: Audio Device (ID: 2) registered with world 'DifficultyMenu'.
+[2021.09.16-02.17.08:258][679]LogAIModule: Creating AISystem for world DifficultyMenu
+[2021.09.16-02.17.08:258][679]LogLoad: Game class is 'BP_FeedTheTeddiesGameModeBase_C'
+[2021.09.16-02.17.08:260][679]LogWorld: Bringing World /Game/FeedTheTeddies/Maps/UEDPIE_0_DifficultyMenu.DifficultyMenu up for play (max tick rate 60) at 2021.09.15-20.17.08
+[2021.09.16-02.17.08:260][679]LogWorld: Bringing up level for play took: 0.000557
+[2021.09.16-02.17.08:260][679]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.16-02.17.08:261][679]LogLoad: Took 0.125712 seconds to LoadMap(/Game/FeedTheTeddies/Maps/DifficultyMenu)
+[2021.09.16-02.17.08:832][713]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.16-02.17.08:832][713]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.16-02.17.08:834][713]LogNet: Browse: /Game/FeedTheTeddies/Maps/Gameplay
+[2021.09.16-02.17.08:834][713]LogLoad: LoadMap: /Game/FeedTheTeddies/Maps/Gameplay
+[2021.09.16-02.17.08:834][713]LogWorld: BeginTearingDown for /Game/FeedTheTeddies/Maps/UEDPIE_0_DifficultyMenu
+[2021.09.16-02.17.08:834][713]LogWorld: UWorld::CleanupWorld for DifficultyMenu, bSessionEnded=true, bCleanupResources=true
+[2021.09.16-02.17.08:834][713]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.16-02.17.08:846][713]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.16-02.17.08:851][713]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2021.09.16-02.17.08:876][713]LogAudio: Display: Audio Device (ID: 2) registered with world 'Gameplay'.
+[2021.09.16-02.17.08:877][713]LogAIModule: Creating AISystem for world Gameplay
+[2021.09.16-02.17.08:878][713]LogLoad: Game class is 'BP_FeedTheTeddiesGameModeBase_C'
+[2021.09.16-02.17.08:879][713]LogWorld: Bringing World /Game/FeedTheTeddies/Maps/UEDPIE_0_Gameplay.Gameplay up for play (max tick rate 60) at 2021.09.15-20.17.08
+[2021.09.16-02.17.08:880][713]LogWorld: Bringing up level for play took: 0.001083
+[2021.09.16-02.17.08:881][713]LogLoad: Took 0.047167 seconds to LoadMap(/Game/FeedTheTeddies/Maps/Gameplay)
+[2021.09.16-02.17.12:280][916]LogTemp: Warning: New score: 10
+[2021.09.16-02.17.16:531][171]LogTemp: Warning: New score: 20
+[2021.09.16-02.17.20:364][401]LogTemp: Warning: New score: 30
+[2021.09.16-02.17.23:548][592]LogTemp: Warning: New score: 40
+[2021.09.16-02.17.25:315][698]LogTemp: Warning: New score: 50
+[2021.09.16-02.17.26:294][755]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.16-02.17.26:294][755]LogWorld: BeginTearingDown for /Game/FeedTheTeddies/Maps/UEDPIE_0_Gameplay
+[2021.09.16-02.17.26:295][755]LogWorld: UWorld::CleanupWorld for Gameplay, bSessionEnded=true, bCleanupResources=true
+[2021.09.16-02.17.26:295][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.16-02.17.26:300][755]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.16-02.17.26:304][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.16-02.17.26:319][755]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.16-02.17.26:319][755]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.16-02.17.26:320][755]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.16-02.17.26:339][755]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.16-02.17.26:342][755]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.09.16-02.17.26:367][756]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2021.09.16-02.20.17:178][344]LogHotReload: New module detected: UE4Editor-FeedTheTeddies-0013.dll
+[2021.09.16-02.20.17:870][347]LogHotReload: Starting Hot-Reload from IDE
+[2021.09.16-02.20.17:960][347]LogClass: EventName HotReload.
+[2021.09.16-02.20.17:960][347]LogClass: ConfigurationDataStruct HotReload.
+[2021.09.16-02.20.17:966][347]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'FeedTheTeddies' in 0.0004 seconds. Added 11 classes and 2 folders.
+[2021.09.16-02.20.17:971][347]Display: HotReload successful (7 functions remapped  1 scriptstructs remapped)
+[2021.09.16-02.20.18:057][347]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0122 seconds. Added 3612 classes and 861 folders.
+[2021.09.16-02.20.18:060][347]Display: HotReload took  0.2s.
+[2021.09.16-02.20.34:295][989]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2021.09.16-02.20.34:352][989]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FeedTheTeddies/Maps/Gameplay.Gameplay
+[2021.09.16-02.20.34:352][989]Cmd: MAP LOAD FILE="../../../../../../Users/timch/Documents/Unreal Projects/FeedTheTeddies/Content/FeedTheTeddies/Maps/Gameplay.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.09.16-02.20.34:352][989]LightingResults: New page: Lighting Build
+[2021.09.16-02.20.34:352][989]LoadErrors: New page: Loading map: Gameplay.umap
+[2021.09.16-02.20.34:374][989]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.09.16-02.20.34:374][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.16-02.20.34:374][989]MapCheck: New page: Map Check
+[2021.09.16-02.20.34:374][989]LightingResults: New page: Lighting Build
+[2021.09.16-02.20.34:386][989]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.16-02.20.34:412][989]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.09.16-02.20.34:412][989]LogAudio: Display: Audio Device (ID: 1) registered with world 'Gameplay'.
+[2021.09.16-02.20.34:480][989]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.09.16-02.20.34:480][989]LogAIModule: Creating AISystem for world Gameplay
+[2021.09.16-02.20.34:496][989]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2021.09.16-02.20.34:501][989]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.09.16-02.20.34:501][989]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.171ms to complete.
+[2021.09.16-02.20.34:501][989]LogFileHelpers: Loading map 'Gameplay' took 0.149
+[2021.09.16-02.20.39:301][250]LogRenderer: Reallocating scene render targets to support 964x512 Format 10 NumSamples 1 (Frame:646).
+[2021.09.16-02.20.40:339][307]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/FeedTheTeddies/Maps/Gameplay.Gameplay:PersistentLevel.Gameplay
+[2021.09.16-02.20.41:053][307]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.09.16-02.20.41:079][308]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.09.16-02.21.03:190][572]LogSlate: Window 'Gameplay' being destroyed
+[2021.09.16-02.21.03:197][572]LogSlate: Window 'Gameplay' being destroyed
+[2021.09.16-02.21.03:201][572]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.09.16-02.21.03:201][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.16-02.21.47:692][762]LogHotReload: New module detected: UE4Editor-FeedTheTeddies-0014.dll
+[2021.09.16-02.21.48:713][766]LogHotReload: Starting Hot-Reload from IDE
+[2021.09.16-02.21.48:763][766]LogClass: Could not find existing class BurgerPawn in package /Script/FeedTheTeddies for HotReload, assuming new class
+[2021.09.16-02.21.48:763][766]LogClass: Function EndPlay is new.
+[2021.09.16-02.21.48:763][766]LogClass: Function OnOverlapBegin is new.
+[2021.09.16-02.21.48:763][766]LogClass: Could not find existing class BurgerPlayerController in package /Script/FeedTheTeddies for HotReload, assuming new class
+[2021.09.16-02.21.48:776][766]LogClass: EventName HotReload.
+[2021.09.16-02.21.48:776][766]LogClass: ConfigurationDataStruct HotReload.
+[2021.09.16-02.21.48:782][766]LogHotReload: Re-instancing BurgerPawn after hot-reload.
+[2021.09.16-02.21.48:819][766]LogHotReload: Re-instancing BurgerPlayerController after hot-reload.
+[2021.09.16-02.21.48:839][766]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'FeedTheTeddies' in 0.0004 seconds. Added 11 classes and 2 folders.
+[2021.09.16-02.21.48:844][766]Display: HotReload successful (5 functions remapped  1 scriptstructs remapped)
+[2021.09.16-02.21.48:930][766]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0091 seconds. Added 3612 classes and 861 folders.
+[2021.09.16-02.21.48:934][766]Display: HotReload took  0.2s.
+[2021.09.16-02.24.11:681][193]LogHotReload: New module detected: UE4Editor-FeedTheTeddies-0015.dll
+[2021.09.16-02.24.12:374][196]LogHotReload: Starting Hot-Reload from IDE
+[2021.09.16-02.24.12:437][196]LogClass: Could not find existing class BurgerPawn in package /Script/FeedTheTeddies for HotReload, assuming new class
+[2021.09.16-02.24.12:437][196]LogClass: Function EndPlay is new.
+[2021.09.16-02.24.12:437][196]LogClass: Function OnOverlapBegin is new.
+[2021.09.16-02.24.12:470][196]LogClass: EventName HotReload.
+[2021.09.16-02.24.12:470][196]LogClass: ConfigurationDataStruct HotReload.
+[2021.09.16-02.24.12:481][196]LogHotReload: Re-instancing BurgerPawn after hot-reload.
+[2021.09.16-02.24.12:519][196]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'FeedTheTeddies' in 0.0004 seconds. Added 11 classes and 2 folders.
+[2021.09.16-02.24.12:527][196]Display: HotReload successful (5 functions remapped  1 scriptstructs remapped)
+[2021.09.16-02.24.12:642][196]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0142 seconds. Added 3612 classes and 861 folders.
+[2021.09.16-02.24.12:646][196]Display: HotReload took  0.3s.
+[2021.09.16-02.24.25:522][744]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2021.09.16-02.24.25:552][744]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FeedTheTeddies/Maps/MainMenu.MainMenu
+[2021.09.16-02.24.25:552][744]Cmd: MAP LOAD FILE="../../../../../../Users/timch/Documents/Unreal Projects/FeedTheTeddies/Content/FeedTheTeddies/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.09.16-02.24.25:552][744]LightingResults: New page: Lighting Build
+[2021.09.16-02.24.25:552][744]LoadErrors: New page: Loading map: MainMenu.umap
+[2021.09.16-02.24.25:553][744]LogWorld: UWorld::CleanupWorld for Gameplay, bSessionEnded=true, bCleanupResources=true
+[2021.09.16-02.24.25:553][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.16-02.24.25:553][744]MapCheck: New page: Map Check
+[2021.09.16-02.24.25:553][744]LightingResults: New page: Lighting Build
+[2021.09.16-02.24.25:571][744]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.16-02.24.25:599][744]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2021.09.16-02.24.25:599][744]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2021.09.16-02.24.25:662][744]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.09.16-02.24.25:662][744]LogAIModule: Creating AISystem for world MainMenu
+[2021.09.16-02.24.25:677][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2021.09.16-02.24.25:681][744]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.09.16-02.24.25:681][744]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.145ms to complete.
+[2021.09.16-02.24.25:681][744]LogFileHelpers: Loading map 'MainMenu' took 0.130
+[2021.09.16-02.24.27:165][832]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.16-02.24.27:171][832]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.16-02.24.27:171][832]PIE: New page: PIE session: MainMenu (Sep 15, 2021, 2:24:27 PM)
+[2021.09.16-02.24.27:171][832]LogPlayLevel: Creating play world package: /Game/FeedTheTeddies/Maps/UEDPIE_0_MainMenu
+[2021.09.16-02.24.27:172][832]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000946s)
+[2021.09.16-02.24.27:173][832]LogAIModule: Creating AISystem for world MainMenu
+[2021.09.16-02.24.27:173][832]LogPlayLevel: PIE: World Init took: (0.000979s)
+[2021.09.16-02.24.27:173][832]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FeedTheTeddies/Maps/MainMenu.MainMenu to /Game/FeedTheTeddies/Maps/UEDPIE_0_MainMenu.MainMenu (0.002023s)
+[2021.09.16-02.24.27:185][832]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.09.16-02.24.27:186][832]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.09.16-02.24.27:186][832]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.16-02.24.27:186][832]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.16-02.24.27:186][832]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.16-02.24.27:186][832]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.16-02.24.27:187][832]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.16-02.24.27:187][832]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.16-02.24.27:187][832]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.16-02.24.27:187][832]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.16-02.24.27:187][832]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.16-02.24.27:187][832]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.16-02.24.27:215][832]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.16-02.24.27:215][832]LogAudioMixer: Display: 1: FrontRight
+[2021.09.16-02.24.27:215][832]LogAudioMixer: Display: 2: FrontCenter
+[2021.09.16-02.24.27:215][832]LogAudioMixer: Display: 3: LowFrequency
+[2021.09.16-02.24.27:215][832]LogAudioMixer: Display: 4: BackLeft
+[2021.09.16-02.24.27:215][832]LogAudioMixer: Display: 5: BackRight
+[2021.09.16-02.24.27:216][832]LogAudioMixer: Display: 6: SideLeft
+[2021.09.16-02.24.27:216][832]LogAudioMixer: Display: 7: SideRight
+[2021.09.16-02.24.27:299][832]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.09.16-02.24.27:300][832]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.16-02.24.27:300][832]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.16-02.24.27:300][832]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.16-02.24.27:300][832]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.16-02.24.27:300][832]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.16-02.24.27:300][832]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.09.16-02.24.27:316][832]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.16-02.24.27:316][832]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.16-02.24.27:316][832]LogInit: FAudioDevice initialized.
+[2021.09.16-02.24.27:316][832]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainMenu'.
+[2021.09.16-02.24.27:327][832]LogLoad: Game class is 'BP_FeedTheTeddiesGameModeBase_C'
+[2021.09.16-02.24.27:328][832]LogWorld: Bringing World /Game/FeedTheTeddies/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.09.15-20.24.27
+[2021.09.16-02.24.27:328][832]LogWorld: Bringing up level for play took: 0.000280
+[2021.09.16-02.24.27:328][832]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.09.16-02.24.27:331][832]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.16-02.24.27:331][832]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.09.16-02.24.27:331][832]LogTemp: Warning: Burger pawn didn't find config data
+[2021.09.16-02.24.27:331][832]PIE: Server logged in
+[2021.09.16-02.24.27:332][832]PIE: Play in editor total start time 0.163 seconds.
+[2021.09.16-02.24.31:737][ 90]LogNet: Browse: /Game/FeedTheTeddies/Maps/DifficultyMenu
+[2021.09.16-02.24.31:737][ 90]LogLoad: LoadMap: /Game/FeedTheTeddies/Maps/DifficultyMenu
+[2021.09.16-02.24.31:737][ 90]LogWorld: BeginTearingDown for /Game/FeedTheTeddies/Maps/UEDPIE_0_MainMenu
+[2021.09.16-02.24.31:737][ 90]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.09.16-02.24.31:737][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.16-02.24.31:750][ 90]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.16-02.24.31:753][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2021.09.16-02.24.31:759][ 90]LogAudio: Display: Audio Device (ID: 3) registered with world 'DifficultyMenu'.
+[2021.09.16-02.24.31:760][ 90]LogAIModule: Creating AISystem for world DifficultyMenu
+[2021.09.16-02.24.31:760][ 90]LogLoad: Game class is 'BP_FeedTheTeddiesGameModeBase_C'
+[2021.09.16-02.24.31:761][ 90]LogWorld: Bringing World /Game/FeedTheTeddies/Maps/UEDPIE_0_DifficultyMenu.DifficultyMenu up for play (max tick rate 60) at 2021.09.15-20.24.31
+[2021.09.16-02.24.31:761][ 90]LogWorld: Bringing up level for play took: 0.000514
+[2021.09.16-02.24.31:762][ 90]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.16-02.24.31:762][ 90]LogTemp: Warning: Burger pawn didn't find config data
+[2021.09.16-02.24.31:763][ 90]LogLoad: Took 0.025784 seconds to LoadMap(/Game/FeedTheTeddies/Maps/DifficultyMenu)
+[2021.09.16-02.24.32:966][162]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.16-02.24.32:966][162]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.16-02.24.32:968][162]LogNet: Browse: /Game/FeedTheTeddies/Maps/Gameplay
+[2021.09.16-02.24.32:968][162]LogLoad: LoadMap: /Game/FeedTheTeddies/Maps/Gameplay
+[2021.09.16-02.24.32:968][162]LogWorld: BeginTearingDown for /Game/FeedTheTeddies/Maps/UEDPIE_0_DifficultyMenu
+[2021.09.16-02.24.32:968][162]LogWorld: UWorld::CleanupWorld for DifficultyMenu, bSessionEnded=true, bCleanupResources=true
+[2021.09.16-02.24.32:968][162]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.16-02.24.33:007][162]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.16-02.24.33:009][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.09.16-02.24.33:018][162]LogAudio: Display: Audio Device (ID: 3) registered with world 'Gameplay'.
+[2021.09.16-02.24.33:019][162]LogAIModule: Creating AISystem for world Gameplay
+[2021.09.16-02.24.33:019][162]LogLoad: Game class is 'BP_FeedTheTeddiesGameModeBase_C'
+[2021.09.16-02.24.33:021][162]LogWorld: Bringing World /Game/FeedTheTeddies/Maps/UEDPIE_0_Gameplay.Gameplay up for play (max tick rate 60) at 2021.09.15-20.24.33
+[2021.09.16-02.24.33:021][162]LogWorld: Bringing up level for play took: 0.000991
+[2021.09.16-02.24.33:022][162]LogTemp: Warning: Burger pawn found config data
+[2021.09.16-02.24.33:022][162]LogLoad: Took 0.054432 seconds to LoadMap(/Game/FeedTheTeddies/Maps/Gameplay)
+[2021.09.16-02.24.36:254][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.16-02.24.36:254][354]LogWorld: BeginTearingDown for /Game/FeedTheTeddies/Maps/UEDPIE_0_Gameplay
+[2021.09.16-02.24.36:255][354]LogWorld: UWorld::CleanupWorld for Gameplay, bSessionEnded=true, bCleanupResources=true
+[2021.09.16-02.24.36:255][354]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.16-02.24.36:265][354]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.16-02.24.36:268][354]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.16-02.24.36:282][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.16-02.24.36:283][354]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.16-02.24.36:284][354]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.16-02.24.36:309][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2021.09.16-02.24.36:330][355]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.09.16-02.27.05:241][869]LogHotReload: New module detected: UE4Editor-FeedTheTeddies-0017.dll
+[2021.09.16-02.27.05:933][872]LogHotReload: Starting Hot-Reload from IDE
+[2021.09.16-02.27.05:998][872]LogClass: Could not find existing class BurgerPawn in package /Script/FeedTheTeddies for HotReload, assuming new class
+[2021.09.16-02.27.05:998][872]LogClass: Function EndPlay is new.
+[2021.09.16-02.27.05:998][872]LogClass: Function OnOverlapBegin is new.
+[2021.09.16-02.27.06:011][872]LogClass: EventName HotReload.
+[2021.09.16-02.27.06:011][872]LogClass: ConfigurationDataStruct HotReload.
+[2021.09.16-02.27.06:018][872]LogHotReload: Re-instancing BurgerPawn after hot-reload.
+[2021.09.16-02.27.06:049][872]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'FeedTheTeddies' in 0.0004 seconds. Added 11 classes and 2 folders.
+[2021.09.16-02.27.06:053][872]Display: HotReload successful (5 functions remapped  1 scriptstructs remapped)
+[2021.09.16-02.27.06:135][872]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0110 seconds. Added 3612 classes and 861 folders.
+[2021.09.16-02.27.06:139][872]Display: HotReload took  0.2s.
+[2021.09.16-02.27.11:177][969]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.16-02.27.11:183][969]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.16-02.27.11:183][969]PIE: New page: PIE session: MainMenu (Sep 15, 2021, 2:27:11 PM)
+[2021.09.16-02.27.11:183][969]LogPlayLevel: Creating play world package: /Game/FeedTheTeddies/Maps/UEDPIE_0_MainMenu
+[2021.09.16-02.27.11:185][969]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000991s)
+[2021.09.16-02.27.11:185][969]LogAIModule: Creating AISystem for world MainMenu
+[2021.09.16-02.27.11:185][969]LogPlayLevel: PIE: World Init took: (0.000861s)
+[2021.09.16-02.27.11:185][969]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FeedTheTeddies/Maps/MainMenu.MainMenu to /Game/FeedTheTeddies/Maps/UEDPIE_0_MainMenu.MainMenu (0.001950s)
+[2021.09.16-02.27.11:242][969]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2021.09.16-02.27.11:242][969]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.09.16-02.27.11:242][969]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.16-02.27.11:242][969]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.16-02.27.11:243][969]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.16-02.27.11:243][969]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.16-02.27.11:243][969]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.16-02.27.11:243][969]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.16-02.27.11:243][969]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.16-02.27.11:243][969]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.16-02.27.11:243][969]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.16-02.27.11:243][969]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.16-02.27.11:270][969]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.16-02.27.11:270][969]LogAudioMixer: Display: 1: FrontRight
+[2021.09.16-02.27.11:270][969]LogAudioMixer: Display: 2: FrontCenter
+[2021.09.16-02.27.11:270][969]LogAudioMixer: Display: 3: LowFrequency
+[2021.09.16-02.27.11:270][969]LogAudioMixer: Display: 4: BackLeft
+[2021.09.16-02.27.11:270][969]LogAudioMixer: Display: 5: BackRight
+[2021.09.16-02.27.11:270][969]LogAudioMixer: Display: 6: SideLeft
+[2021.09.16-02.27.11:270][969]LogAudioMixer: Display: 7: SideRight
+[2021.09.16-02.27.11:354][969]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.09.16-02.27.11:355][969]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.16-02.27.11:355][969]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.16-02.27.11:355][969]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.16-02.27.11:355][969]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.16-02.27.11:355][969]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.16-02.27.11:355][969]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.09.16-02.27.11:370][969]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.16-02.27.11:370][969]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.16-02.27.11:370][969]LogInit: FAudioDevice initialized.
+[2021.09.16-02.27.11:370][969]LogAudio: Display: Audio Device (ID: 4) registered with world 'MainMenu'.
+[2021.09.16-02.27.11:380][969]LogLoad: Game class is 'BP_FeedTheTeddiesGameModeBase_C'
+[2021.09.16-02.27.11:381][969]LogWorld: Bringing World /Game/FeedTheTeddies/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.09.15-20.27.11
+[2021.09.16-02.27.11:382][969]LogWorld: Bringing up level for play took: 0.000305
+[2021.09.16-02.27.11:382][969]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.09.16-02.27.11:385][969]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.16-02.27.11:385][969]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.09.16-02.27.11:385][969]PIE: Server logged in
+[2021.09.16-02.27.11:386][969]PIE: Play in editor total start time 0.203 seconds.
+[2021.09.16-02.27.12:621][ 41]LogNet: Browse: /Game/FeedTheTeddies/Maps/DifficultyMenu
+[2021.09.16-02.27.12:621][ 41]LogLoad: LoadMap: /Game/FeedTheTeddies/Maps/DifficultyMenu
+[2021.09.16-02.27.12:621][ 41]LogWorld: BeginTearingDown for /Game/FeedTheTeddies/Maps/UEDPIE_0_MainMenu
+[2021.09.16-02.27.12:621][ 41]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.09.16-02.27.12:622][ 41]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.16-02.27.12:654][ 41]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.16-02.27.12:680][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2021.09.16-02.27.12:692][ 41]LogAudio: Display: Audio Device (ID: 4) registered with world 'DifficultyMenu'.
+[2021.09.16-02.27.12:693][ 41]LogAIModule: Creating AISystem for world DifficultyMenu
+[2021.09.16-02.27.12:693][ 41]LogLoad: Game class is 'BP_FeedTheTeddiesGameModeBase_C'
+[2021.09.16-02.27.12:694][ 41]LogWorld: Bringing World /Game/FeedTheTeddies/Maps/UEDPIE_0_DifficultyMenu.DifficultyMenu up for play (max tick rate 60) at 2021.09.15-20.27.12
+[2021.09.16-02.27.12:694][ 41]LogWorld: Bringing up level for play took: 0.000455
+[2021.09.16-02.27.12:694][ 41]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.16-02.27.12:695][ 41]LogLoad: Took 0.074852 seconds to LoadMap(/Game/FeedTheTeddies/Maps/DifficultyMenu)
+[2021.09.16-02.27.13:234][ 73]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.16-02.27.13:234][ 73]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.16-02.27.13:235][ 73]LogNet: Browse: /Game/FeedTheTeddies/Maps/Gameplay
+[2021.09.16-02.27.13:235][ 73]LogLoad: LoadMap: /Game/FeedTheTeddies/Maps/Gameplay
+[2021.09.16-02.27.13:235][ 73]LogWorld: BeginTearingDown for /Game/FeedTheTeddies/Maps/UEDPIE_0_DifficultyMenu
+[2021.09.16-02.27.13:236][ 73]LogWorld: UWorld::CleanupWorld for DifficultyMenu, bSessionEnded=true, bCleanupResources=true
+[2021.09.16-02.27.13:236][ 73]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.16-02.27.13:247][ 73]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.16-02.27.13:249][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2021.09.16-02.27.13:254][ 73]LogAudio: Display: Audio Device (ID: 4) registered with world 'Gameplay'.
+[2021.09.16-02.27.13:256][ 73]LogAIModule: Creating AISystem for world Gameplay
+[2021.09.16-02.27.13:256][ 73]LogLoad: Game class is 'BP_FeedTheTeddiesGameModeBase_C'
+[2021.09.16-02.27.13:257][ 73]LogWorld: Bringing World /Game/FeedTheTeddies/Maps/UEDPIE_0_Gameplay.Gameplay up for play (max tick rate 60) at 2021.09.15-20.27.13
+[2021.09.16-02.27.13:258][ 73]LogWorld: Bringing up level for play took: 0.000934
+[2021.09.16-02.27.13:259][ 73]LogLoad: Took 0.023748 seconds to LoadMap(/Game/FeedTheTeddies/Maps/Gameplay)
+[2021.09.16-02.27.17:155][304]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.16-02.27.17:155][304]LogWorld: BeginTearingDown for /Game/FeedTheTeddies/Maps/UEDPIE_0_Gameplay
+[2021.09.16-02.27.17:155][304]LogWorld: UWorld::CleanupWorld for Gameplay, bSessionEnded=true, bCleanupResources=true
+[2021.09.16-02.27.17:155][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.16-02.27.17:163][304]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.16-02.27.17:166][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.16-02.27.17:177][304]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.16-02.27.17:177][304]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.16-02.27.17:179][304]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.16-02.27.17:202][304]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2021.09.16-02.27.17:221][305]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.09.16-02.27.49:805][150]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/FeedTheTeddies/Data/ConfigurationData.ConfigurationData
+[2021.09.16-02.27.55:207][431]LogCSVImportFactory: Imported DataTable 'ConfigurationData' - 0 Problems
+[2021.09.16-02.28.00:075][688]LogSavePackage: Moving '../../../../../../Users/timch/Documents/Unreal Projects/FeedTheTeddies/Saved/ConfigurationDataE01D7B4D44674BDDE6D62980F6BE07E9.tmp' to '../../../../../../Users/timch/Documents/Unreal Projects/FeedTheTeddies/Content/FeedTheTeddies/Data/ConfigurationData.uasset'
+[2021.09.16-02.28.00:093][688]AssetCheck: New page: Asset Save: ConfigurationData
+[2021.09.16-02.28.00:093][688]LogContentValidation: Display: Validating DataTable /Game/FeedTheTeddies/Data/ConfigurationData.ConfigurationData
+[2021.09.16-02.28.01:518][768]LogSlate: Window 'ConfigurationData' being destroyed
+[2021.09.16-02.28.01:523][768]LogSlate: Window 'ConfigurationData' being destroyed
+[2021.09.16-02.28.03:473][885]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.16-02.28.03:479][885]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.16-02.28.03:479][885]PIE: New page: PIE session: MainMenu (Sep 15, 2021, 2:28:03 PM)
+[2021.09.16-02.28.03:479][885]LogPlayLevel: Creating play world package: /Game/FeedTheTeddies/Maps/UEDPIE_0_MainMenu
+[2021.09.16-02.28.03:480][885]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001090s)
+[2021.09.16-02.28.03:481][885]LogAIModule: Creating AISystem for world MainMenu
+[2021.09.16-02.28.03:481][885]LogPlayLevel: PIE: World Init took: (0.000913s)
+[2021.09.16-02.28.03:481][885]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FeedTheTeddies/Maps/MainMenu.MainMenu to /Game/FeedTheTeddies/Maps/UEDPIE_0_MainMenu.MainMenu (0.002114s)
+[2021.09.16-02.28.03:536][885]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2021.09.16-02.28.03:537][885]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.09.16-02.28.03:537][885]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.16-02.28.03:537][885]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.16-02.28.03:537][885]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.16-02.28.03:537][885]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.16-02.28.03:537][885]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.16-02.28.03:537][885]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.16-02.28.03:537][885]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.16-02.28.03:537][885]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.16-02.28.03:538][885]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.16-02.28.03:538][885]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.16-02.28.03:565][885]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.16-02.28.03:565][885]LogAudioMixer: Display: 1: FrontRight
+[2021.09.16-02.28.03:565][885]LogAudioMixer: Display: 2: FrontCenter
+[2021.09.16-02.28.03:565][885]LogAudioMixer: Display: 3: LowFrequency
+[2021.09.16-02.28.03:565][885]LogAudioMixer: Display: 4: BackLeft
+[2021.09.16-02.28.03:565][885]LogAudioMixer: Display: 5: BackRight
+[2021.09.16-02.28.03:565][885]LogAudioMixer: Display: 6: SideLeft
+[2021.09.16-02.28.03:565][885]LogAudioMixer: Display: 7: SideRight
+[2021.09.16-02.28.03:644][885]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.09.16-02.28.03:644][885]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.16-02.28.03:645][885]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.16-02.28.03:645][885]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.16-02.28.03:645][885]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.16-02.28.03:645][885]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.16-02.28.03:645][885]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.09.16-02.28.03:659][885]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.16-02.28.03:659][885]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.16-02.28.03:659][885]LogInit: FAudioDevice initialized.
+[2021.09.16-02.28.03:659][885]LogAudio: Display: Audio Device (ID: 5) registered with world 'MainMenu'.
+[2021.09.16-02.28.03:671][885]LogLoad: Game class is 'BP_FeedTheTeddiesGameModeBase_C'
+[2021.09.16-02.28.03:673][885]LogWorld: Bringing World /Game/FeedTheTeddies/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.09.15-20.28.03
+[2021.09.16-02.28.03:673][885]LogWorld: Bringing up level for play took: 0.000292
+[2021.09.16-02.28.03:673][885]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.09.16-02.28.03:676][885]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.16-02.28.03:676][885]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.09.16-02.28.03:676][885]PIE: Server logged in
+[2021.09.16-02.28.03:677][885]PIE: Play in editor total start time 0.198 seconds.
+[2021.09.16-02.28.04:942][958]LogNet: Browse: /Game/FeedTheTeddies/Maps/DifficultyMenu
+[2021.09.16-02.28.04:942][958]LogLoad: LoadMap: /Game/FeedTheTeddies/Maps/DifficultyMenu
+[2021.09.16-02.28.04:942][958]LogWorld: BeginTearingDown for /Game/FeedTheTeddies/Maps/UEDPIE_0_MainMenu
+[2021.09.16-02.28.04:942][958]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.09.16-02.28.04:942][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.16-02.28.04:954][958]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.16-02.28.04:977][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2021.09.16-02.28.04:987][958]LogAudio: Display: Audio Device (ID: 5) registered with world 'DifficultyMenu'.
+[2021.09.16-02.28.04:988][958]LogAIModule: Creating AISystem for world DifficultyMenu
+[2021.09.16-02.28.04:988][958]LogLoad: Game class is 'BP_FeedTheTeddiesGameModeBase_C'
+[2021.09.16-02.28.04:989][958]LogWorld: Bringing World /Game/FeedTheTeddies/Maps/UEDPIE_0_DifficultyMenu.DifficultyMenu up for play (max tick rate 60) at 2021.09.15-20.28.04
+[2021.09.16-02.28.04:990][958]LogWorld: Bringing up level for play took: 0.000554
+[2021.09.16-02.28.04:990][958]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.16-02.28.04:991][958]LogLoad: Took 0.049075 seconds to LoadMap(/Game/FeedTheTeddies/Maps/DifficultyMenu)
+[2021.09.16-02.28.05:492][988]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.16-02.28.05:492][988]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.16-02.28.05:495][988]LogNet: Browse: /Game/FeedTheTeddies/Maps/Gameplay
+[2021.09.16-02.28.05:495][988]LogLoad: LoadMap: /Game/FeedTheTeddies/Maps/Gameplay
+[2021.09.16-02.28.05:495][988]LogWorld: BeginTearingDown for /Game/FeedTheTeddies/Maps/UEDPIE_0_DifficultyMenu
+[2021.09.16-02.28.05:496][988]LogWorld: UWorld::CleanupWorld for DifficultyMenu, bSessionEnded=true, bCleanupResources=true
+[2021.09.16-02.28.05:496][988]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.16-02.28.05:508][988]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.16-02.28.05:511][988]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2021.09.16-02.28.05:519][988]LogAudio: Display: Audio Device (ID: 5) registered with world 'Gameplay'.
+[2021.09.16-02.28.05:521][988]LogAIModule: Creating AISystem for world Gameplay
+[2021.09.16-02.28.05:521][988]LogLoad: Game class is 'BP_FeedTheTeddiesGameModeBase_C'
+[2021.09.16-02.28.05:522][988]LogWorld: Bringing World /Game/FeedTheTeddies/Maps/UEDPIE_0_Gameplay.Gameplay up for play (max tick rate 60) at 2021.09.15-20.28.05
+[2021.09.16-02.28.05:523][988]LogWorld: Bringing up level for play took: 0.000865
+[2021.09.16-02.28.05:524][988]LogLoad: Took 0.028433 seconds to LoadMap(/Game/FeedTheTeddies/Maps/Gameplay)
+[2021.09.16-02.28.08:415][159]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.16-02.28.08:415][159]LogWorld: BeginTearingDown for /Game/FeedTheTeddies/Maps/UEDPIE_0_Gameplay
+[2021.09.16-02.28.08:415][159]LogWorld: UWorld::CleanupWorld for Gameplay, bSessionEnded=true, bCleanupResources=true
+[2021.09.16-02.28.08:415][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.16-02.28.08:421][159]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.16-02.28.08:424][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.16-02.28.08:437][159]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.16-02.28.08:437][159]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.16-02.28.08:438][159]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.16-02.28.08:458][159]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.16-02.28.08:461][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2021.09.16-02.28.08:481][160]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.09.16-02.28.23:738][309]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/FeedTheTeddies/Data/ConfigurationData.ConfigurationData
+[2021.09.16-02.28.26:153][435]LogCSVImportFactory: Imported DataTable 'ConfigurationData' - 0 Problems
+[2021.09.16-02.28.27:540][483]LogSavePackage: Moving '../../../../../../Users/timch/Documents/Unreal Projects/FeedTheTeddies/Saved/ConfigurationData745788B84DD78C6E76B742BC1BDC274E.tmp' to '../../../../../../Users/timch/Documents/Unreal Projects/FeedTheTeddies/Content/FeedTheTeddies/Data/ConfigurationData.uasset'
+[2021.09.16-02.28.27:553][483]AssetCheck: New page: Asset Save: ConfigurationData
+[2021.09.16-02.28.27:553][483]LogContentValidation: Display: Validating DataTable /Game/FeedTheTeddies/Data/ConfigurationData.ConfigurationData
+[2021.09.16-02.28.29:254][579]LogSlate: Window 'ConfigurationData' being destroyed
+[2021.09.16-02.28.29:260][579]LogSlate: Window 'ConfigurationData' being destroyed
+[2021.09.16-02.28.30:101][628]LogEditorViewport: Clicking Background
+[2021.09.16-02.28.31:084][687]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.16-02.28.31:091][687]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.16-02.28.31:091][687]PIE: New page: PIE session: MainMenu (Sep 15, 2021, 2:28:31 PM)
+[2021.09.16-02.28.31:091][687]LogPlayLevel: Creating play world package: /Game/FeedTheTeddies/Maps/UEDPIE_0_MainMenu
+[2021.09.16-02.28.31:092][687]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001065s)
+[2021.09.16-02.28.31:093][687]LogAIModule: Creating AISystem for world MainMenu
+[2021.09.16-02.28.31:093][687]LogPlayLevel: PIE: World Init took: (0.001001s)
+[2021.09.16-02.28.31:093][687]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FeedTheTeddies/Maps/MainMenu.MainMenu to /Game/FeedTheTeddies/Maps/UEDPIE_0_MainMenu.MainMenu (0.002182s)
+[2021.09.16-02.28.31:109][687]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2021.09.16-02.28.31:110][687]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.09.16-02.28.31:110][687]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.16-02.28.31:110][687]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.16-02.28.31:111][687]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.16-02.28.31:111][687]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.16-02.28.31:111][687]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.16-02.28.31:111][687]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.16-02.28.31:111][687]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.16-02.28.31:111][687]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.16-02.28.31:111][687]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.16-02.28.31:111][687]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.16-02.28.31:138][687]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.16-02.28.31:138][687]LogAudioMixer: Display: 1: FrontRight
+[2021.09.16-02.28.31:138][687]LogAudioMixer: Display: 2: FrontCenter
+[2021.09.16-02.28.31:138][687]LogAudioMixer: Display: 3: LowFrequency
+[2021.09.16-02.28.31:138][687]LogAudioMixer: Display: 4: BackLeft
+[2021.09.16-02.28.31:138][687]LogAudioMixer: Display: 5: BackRight
+[2021.09.16-02.28.31:138][687]LogAudioMixer: Display: 6: SideLeft
+[2021.09.16-02.28.31:138][687]LogAudioMixer: Display: 7: SideRight
+[2021.09.16-02.28.31:217][687]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.09.16-02.28.31:217][687]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.16-02.28.31:217][687]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.16-02.28.31:217][687]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.16-02.28.31:217][687]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.16-02.28.31:217][687]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.16-02.28.31:218][687]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.09.16-02.28.31:232][687]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.16-02.28.31:232][687]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.16-02.28.31:232][687]LogInit: FAudioDevice initialized.
+[2021.09.16-02.28.31:232][687]LogAudio: Display: Audio Device (ID: 6) registered with world 'MainMenu'.
+[2021.09.16-02.28.31:241][687]LogLoad: Game class is 'BP_FeedTheTeddiesGameModeBase_C'
+[2021.09.16-02.28.31:242][687]LogWorld: Bringing World /Game/FeedTheTeddies/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.09.15-20.28.31
+[2021.09.16-02.28.31:242][687]LogWorld: Bringing up level for play took: 0.000311
+[2021.09.16-02.28.31:242][687]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.09.16-02.28.31:245][687]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.16-02.28.31:245][687]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.09.16-02.28.31:245][687]PIE: Server logged in
+[2021.09.16-02.28.31:246][687]PIE: Play in editor total start time 0.155 seconds.
+[2021.09.16-02.28.32:523][764]LogNet: Browse: /Game/FeedTheTeddies/Maps/DifficultyMenu
+[2021.09.16-02.28.32:523][764]LogLoad: LoadMap: /Game/FeedTheTeddies/Maps/DifficultyMenu
+[2021.09.16-02.28.32:523][764]LogWorld: BeginTearingDown for /Game/FeedTheTeddies/Maps/UEDPIE_0_MainMenu
+[2021.09.16-02.28.32:523][764]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.09.16-02.28.32:523][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.16-02.28.32:567][764]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.16-02.28.32:569][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.09.16-02.28.32:574][764]LogAudio: Display: Audio Device (ID: 6) registered with world 'DifficultyMenu'.
+[2021.09.16-02.28.32:575][764]LogAIModule: Creating AISystem for world DifficultyMenu
+[2021.09.16-02.28.32:575][764]LogLoad: Game class is 'BP_FeedTheTeddiesGameModeBase_C'
+[2021.09.16-02.28.32:576][764]LogWorld: Bringing World /Game/FeedTheTeddies/Maps/UEDPIE_0_DifficultyMenu.DifficultyMenu up for play (max tick rate 60) at 2021.09.15-20.28.32
+[2021.09.16-02.28.32:577][764]LogWorld: Bringing up level for play took: 0.000492
+[2021.09.16-02.28.32:577][764]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.16-02.28.32:578][764]LogLoad: Took 0.054940 seconds to LoadMap(/Game/FeedTheTeddies/Maps/DifficultyMenu)
+[2021.09.16-02.28.34:397][873]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.16-02.28.34:397][873]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.16-02.28.34:398][873]LogNet: Browse: /Game/FeedTheTeddies/Maps/Gameplay
+[2021.09.16-02.28.34:398][873]LogLoad: LoadMap: /Game/FeedTheTeddies/Maps/Gameplay
+[2021.09.16-02.28.34:398][873]LogWorld: BeginTearingDown for /Game/FeedTheTeddies/Maps/UEDPIE_0_DifficultyMenu
+[2021.09.16-02.28.34:399][873]LogWorld: UWorld::CleanupWorld for DifficultyMenu, bSessionEnded=true, bCleanupResources=true
+[2021.09.16-02.28.34:399][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.16-02.28.34:436][873]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.16-02.28.34:438][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.09.16-02.28.34:444][873]LogAudio: Display: Audio Device (ID: 6) registered with world 'Gameplay'.
+[2021.09.16-02.28.34:445][873]LogAIModule: Creating AISystem for world Gameplay
+[2021.09.16-02.28.34:445][873]LogLoad: Game class is 'BP_FeedTheTeddiesGameModeBase_C'
+[2021.09.16-02.28.34:447][873]LogWorld: Bringing World /Game/FeedTheTeddies/Maps/UEDPIE_0_Gameplay.Gameplay up for play (max tick rate 60) at 2021.09.15-20.28.34
+[2021.09.16-02.28.34:447][873]LogWorld: Bringing up level for play took: 0.000735
+[2021.09.16-02.28.34:448][873]LogLoad: Took 0.049715 seconds to LoadMap(/Game/FeedTheTeddies/Maps/Gameplay)
+[2021.09.16-02.28.37:204][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.16-02.28.37:204][ 36]LogWorld: BeginTearingDown for /Game/FeedTheTeddies/Maps/UEDPIE_0_Gameplay
+[2021.09.16-02.28.37:204][ 36]LogWorld: UWorld::CleanupWorld for Gameplay, bSessionEnded=true, bCleanupResources=true
+[2021.09.16-02.28.37:204][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.16-02.28.37:213][ 36]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.16-02.28.37:218][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.16-02.28.37:232][ 36]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.16-02.28.37:232][ 36]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.16-02.28.37:233][ 36]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.16-02.28.37:254][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.16-02.28.37:256][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.09.16-02.28.37:274][ 37]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.09.16-02.29.23:853][420]LogHotReload: New module detected: UE4Editor-FeedTheTeddies-0019.dll
+[2021.09.16-02.29.24:544][423]LogHotReload: Starting Hot-Reload from IDE
+[2021.09.16-02.29.24:619][423]LogClass: EventName HotReload.
+[2021.09.16-02.29.24:619][423]LogClass: ConfigurationDataStruct HotReload.
+[2021.09.16-02.29.24:624][423]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'FeedTheTeddies' in 0.0004 seconds. Added 11 classes and 2 folders.
+[2021.09.16-02.29.24:628][423]Display: HotReload successful (7 functions remapped  1 scriptstructs remapped)
+[2021.09.16-02.29.24:713][423]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0121 seconds. Added 3612 classes and 861 folders.
+[2021.09.16-02.29.24:718][423]Display: HotReload took  0.2s.
+[2021.09.16-02.29.29:490][507]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.16-02.29.29:496][507]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.16-02.29.29:496][507]PIE: New page: PIE session: MainMenu (Sep 15, 2021, 2:29:29 PM)
+[2021.09.16-02.29.29:496][507]LogPlayLevel: Creating play world package: /Game/FeedTheTeddies/Maps/UEDPIE_0_MainMenu
+[2021.09.16-02.29.29:497][507]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001151s)
+[2021.09.16-02.29.29:498][507]LogAIModule: Creating AISystem for world MainMenu
+[2021.09.16-02.29.29:498][507]LogPlayLevel: PIE: World Init took: (0.000986s)
+[2021.09.16-02.29.29:498][507]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FeedTheTeddies/Maps/MainMenu.MainMenu to /Game/FeedTheTeddies/Maps/UEDPIE_0_MainMenu.MainMenu (0.002268s)
+[2021.09.16-02.29.29:547][507]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2021.09.16-02.29.29:547][507]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.09.16-02.29.29:547][507]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.16-02.29.29:547][507]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.16-02.29.29:547][507]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.16-02.29.29:547][507]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.16-02.29.29:547][507]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.16-02.29.29:547][507]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.16-02.29.29:547][507]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.16-02.29.29:547][507]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.16-02.29.29:548][507]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.16-02.29.29:548][507]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.16-02.29.29:574][507]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.16-02.29.29:574][507]LogAudioMixer: Display: 1: FrontRight
+[2021.09.16-02.29.29:574][507]LogAudioMixer: Display: 2: FrontCenter
+[2021.09.16-02.29.29:574][507]LogAudioMixer: Display: 3: LowFrequency
+[2021.09.16-02.29.29:574][507]LogAudioMixer: Display: 4: BackLeft
+[2021.09.16-02.29.29:574][507]LogAudioMixer: Display: 5: BackRight
+[2021.09.16-02.29.29:574][507]LogAudioMixer: Display: 6: SideLeft
+[2021.09.16-02.29.29:574][507]LogAudioMixer: Display: 7: SideRight
+[2021.09.16-02.29.29:661][507]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.09.16-02.29.29:662][507]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.16-02.29.29:662][507]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.16-02.29.29:662][507]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.16-02.29.29:662][507]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.16-02.29.29:662][507]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.16-02.29.29:662][507]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.09.16-02.29.29:678][507]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.16-02.29.29:678][507]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.16-02.29.29:678][507]LogInit: FAudioDevice initialized.
+[2021.09.16-02.29.29:678][507]LogAudio: Display: Audio Device (ID: 7) registered with world 'MainMenu'.
+[2021.09.16-02.29.29:685][507]LogLoad: Game class is 'BP_FeedTheTeddiesGameModeBase_C'
+[2021.09.16-02.29.29:687][507]LogWorld: Bringing World /Game/FeedTheTeddies/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.09.15-20.29.29
+[2021.09.16-02.29.29:687][507]LogWorld: Bringing up level for play took: 0.000328
+[2021.09.16-02.29.29:687][507]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.09.16-02.29.29:690][507]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.16-02.29.29:690][507]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.09.16-02.29.29:690][507]PIE: Server logged in
+[2021.09.16-02.29.29:691][507]PIE: Play in editor total start time 0.196 seconds.
+[2021.09.16-02.29.31:249][598]LogNet: Browse: /Game/FeedTheTeddies/Maps/DifficultyMenu
+[2021.09.16-02.29.31:249][598]LogLoad: LoadMap: /Game/FeedTheTeddies/Maps/DifficultyMenu
+[2021.09.16-02.29.31:249][598]LogWorld: BeginTearingDown for /Game/FeedTheTeddies/Maps/UEDPIE_0_MainMenu
+[2021.09.16-02.29.31:249][598]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.09.16-02.29.31:249][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.16-02.29.31:285][598]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.16-02.29.31:308][598]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2021.09.16-02.29.31:319][598]LogAudio: Display: Audio Device (ID: 7) registered with world 'DifficultyMenu'.
+[2021.09.16-02.29.31:319][598]LogAIModule: Creating AISystem for world DifficultyMenu
+[2021.09.16-02.29.31:320][598]LogLoad: Game class is 'BP_FeedTheTeddiesGameModeBase_C'
+[2021.09.16-02.29.31:321][598]LogWorld: Bringing World /Game/FeedTheTeddies/Maps/UEDPIE_0_DifficultyMenu.DifficultyMenu up for play (max tick rate 60) at 2021.09.15-20.29.31
+[2021.09.16-02.29.31:321][598]LogWorld: Bringing up level for play took: 0.000489
+[2021.09.16-02.29.31:321][598]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.16-02.29.31:322][598]LogLoad: Took 0.072984 seconds to LoadMap(/Game/FeedTheTeddies/Maps/DifficultyMenu)
+[2021.09.16-02.29.31:855][630]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.16-02.29.31:855][630]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.16-02.29.31:857][630]LogNet: Browse: /Game/FeedTheTeddies/Maps/Gameplay
+[2021.09.16-02.29.31:857][630]LogLoad: LoadMap: /Game/FeedTheTeddies/Maps/Gameplay
+[2021.09.16-02.29.31:857][630]LogWorld: BeginTearingDown for /Game/FeedTheTeddies/Maps/UEDPIE_0_DifficultyMenu
+[2021.09.16-02.29.31:857][630]LogWorld: UWorld::CleanupWorld for DifficultyMenu, bSessionEnded=true, bCleanupResources=true
+[2021.09.16-02.29.31:858][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.16-02.29.31:869][630]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.16-02.29.31:871][630]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.09.16-02.29.31:877][630]LogAudio: Display: Audio Device (ID: 7) registered with world 'Gameplay'.
+[2021.09.16-02.29.31:878][630]LogAIModule: Creating AISystem for world Gameplay
+[2021.09.16-02.29.31:878][630]LogLoad: Game class is 'BP_FeedTheTeddiesGameModeBase_C'
+[2021.09.16-02.29.31:880][630]LogWorld: Bringing World /Game/FeedTheTeddies/Maps/UEDPIE_0_Gameplay.Gameplay up for play (max tick rate 60) at 2021.09.15-20.29.31
+[2021.09.16-02.29.31:880][630]LogWorld: Bringing up level for play took: 0.000711
+[2021.09.16-02.29.31:881][630]LogLoad: Took 0.024256 seconds to LoadMap(/Game/FeedTheTeddies/Maps/Gameplay)
+[2021.09.16-02.29.37:573][970]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.16-02.29.37:573][970]LogWorld: BeginTearingDown for /Game/FeedTheTeddies/Maps/UEDPIE_0_Gameplay
+[2021.09.16-02.29.37:574][970]LogWorld: UWorld::CleanupWorld for Gameplay, bSessionEnded=true, bCleanupResources=true
+[2021.09.16-02.29.37:574][970]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.16-02.29.37:580][970]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.16-02.29.37:583][970]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.16-02.29.37:594][970]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.16-02.29.37:595][970]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.16-02.29.37:596][970]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.16-02.29.37:620][970]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2021.09.16-02.29.37:658][972]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.09.16-02.31.07:247][306]LogHotReload: New module detected: UE4Editor-FeedTheTeddies-0021.dll
+[2021.09.16-02.31.07:943][309]LogHotReload: Starting Hot-Reload from IDE
+[2021.09.16-02.31.08:024][309]LogClass: EventName HotReload.
+[2021.09.16-02.31.08:024][309]LogClass: ConfigurationDataStruct HotReload.
+[2021.09.16-02.31.08:028][309]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'FeedTheTeddies' in 0.0003 seconds. Added 11 classes and 2 folders.
+[2021.09.16-02.31.08:031][309]Display: HotReload successful (7 functions remapped  1 scriptstructs remapped)
+[2021.09.16-02.31.08:097][309]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0096 seconds. Added 3612 classes and 861 folders.
+[2021.09.16-02.31.08:102][309]Display: HotReload took  0.2s.
+[2021.09.16-02.31.12:427][403]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.16-02.31.12:433][403]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.16-02.31.12:433][403]PIE: New page: PIE session: MainMenu (Sep 15, 2021, 2:31:12 PM)
+[2021.09.16-02.31.12:473][403]LogPlayLevel: Creating play world package: /Game/FeedTheTeddies/Maps/UEDPIE_0_MainMenu
+[2021.09.16-02.31.12:474][403]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001457s)
+[2021.09.16-02.31.12:476][403]LogAIModule: Creating AISystem for world MainMenu
+[2021.09.16-02.31.12:476][403]LogPlayLevel: PIE: World Init took: (0.001265s)
+[2021.09.16-02.31.12:476][403]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FeedTheTeddies/Maps/MainMenu.MainMenu to /Game/FeedTheTeddies/Maps/UEDPIE_0_MainMenu.MainMenu (0.002934s)
+[2021.09.16-02.31.12:529][403]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.09.16-02.31.12:530][403]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.09.16-02.31.12:530][403]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.16-02.31.12:530][403]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.16-02.31.12:530][403]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.16-02.31.12:530][403]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.16-02.31.12:530][403]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.16-02.31.12:530][403]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.16-02.31.12:530][403]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.16-02.31.12:530][403]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.16-02.31.12:530][403]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.16-02.31.12:530][403]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.16-02.31.12:556][403]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.16-02.31.12:556][403]LogAudioMixer: Display: 1: FrontRight
+[2021.09.16-02.31.12:556][403]LogAudioMixer: Display: 2: FrontCenter
+[2021.09.16-02.31.12:556][403]LogAudioMixer: Display: 3: LowFrequency
+[2021.09.16-02.31.12:556][403]LogAudioMixer: Display: 4: BackLeft
+[2021.09.16-02.31.12:556][403]LogAudioMixer: Display: 5: BackRight
+[2021.09.16-02.31.12:556][403]LogAudioMixer: Display: 6: SideLeft
+[2021.09.16-02.31.12:557][403]LogAudioMixer: Display: 7: SideRight
+[2021.09.16-02.31.12:637][403]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.09.16-02.31.12:637][403]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.16-02.31.12:637][403]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.16-02.31.12:637][403]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.16-02.31.12:637][403]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.16-02.31.12:637][403]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.16-02.31.12:637][403]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.09.16-02.31.12:652][403]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.16-02.31.12:652][403]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.16-02.31.12:652][403]LogInit: FAudioDevice initialized.
+[2021.09.16-02.31.12:652][403]LogAudio: Display: Audio Device (ID: 8) registered with world 'MainMenu'.
+[2021.09.16-02.31.12:659][403]LogLoad: Game class is 'BP_FeedTheTeddiesGameModeBase_C'
+[2021.09.16-02.31.12:660][403]LogWorld: Bringing World /Game/FeedTheTeddies/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.09.15-20.31.12
+[2021.09.16-02.31.12:660][403]LogWorld: Bringing up level for play took: 0.000294
+[2021.09.16-02.31.12:660][403]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.09.16-02.31.12:663][403]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.16-02.31.12:663][403]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.09.16-02.31.12:664][403]PIE: Server logged in
+[2021.09.16-02.31.12:664][403]PIE: Play in editor total start time 0.232 seconds.
+[2021.09.16-02.31.14:419][504]LogNet: Browse: /Game/FeedTheTeddies/Maps/DifficultyMenu
+[2021.09.16-02.31.14:419][504]LogLoad: LoadMap: /Game/FeedTheTeddies/Maps/DifficultyMenu
+[2021.09.16-02.31.14:419][504]LogWorld: BeginTearingDown for /Game/FeedTheTeddies/Maps/UEDPIE_0_MainMenu
+[2021.09.16-02.31.14:419][504]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.09.16-02.31.14:419][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.16-02.31.14:455][504]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.16-02.31.14:468][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2021.09.16-02.31.14:477][504]LogAudio: Display: Audio Device (ID: 8) registered with world 'DifficultyMenu'.
+[2021.09.16-02.31.14:479][504]LogAIModule: Creating AISystem for world DifficultyMenu
+[2021.09.16-02.31.14:479][504]LogLoad: Game class is 'BP_FeedTheTeddiesGameModeBase_C'
+[2021.09.16-02.31.14:480][504]LogWorld: Bringing World /Game/FeedTheTeddies/Maps/UEDPIE_0_DifficultyMenu.DifficultyMenu up for play (max tick rate 60) at 2021.09.15-20.31.14
+[2021.09.16-02.31.14:480][504]LogWorld: Bringing up level for play took: 0.000506
+[2021.09.16-02.31.14:480][504]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.16-02.31.14:481][504]LogLoad: Took 0.062407 seconds to LoadMap(/Game/FeedTheTeddies/Maps/DifficultyMenu)
+[2021.09.16-02.31.15:000][535]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.16-02.31.15:000][535]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.16-02.31.15:001][535]LogNet: Browse: /Game/FeedTheTeddies/Maps/Gameplay
+[2021.09.16-02.31.15:001][535]LogLoad: LoadMap: /Game/FeedTheTeddies/Maps/Gameplay
+[2021.09.16-02.31.15:001][535]LogWorld: BeginTearingDown for /Game/FeedTheTeddies/Maps/UEDPIE_0_DifficultyMenu
+[2021.09.16-02.31.15:001][535]LogWorld: UWorld::CleanupWorld for DifficultyMenu, bSessionEnded=true, bCleanupResources=true
+[2021.09.16-02.31.15:001][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.16-02.31.15:012][535]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.16-02.31.15:015][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.09.16-02.31.15:020][535]LogAudio: Display: Audio Device (ID: 8) registered with world 'Gameplay'.
+[2021.09.16-02.31.15:021][535]LogAIModule: Creating AISystem for world Gameplay
+[2021.09.16-02.31.15:021][535]LogLoad: Game class is 'BP_FeedTheTeddiesGameModeBase_C'
+[2021.09.16-02.31.15:023][535]LogWorld: Bringing World /Game/FeedTheTeddies/Maps/UEDPIE_0_Gameplay.Gameplay up for play (max tick rate 60) at 2021.09.15-20.31.15
+[2021.09.16-02.31.15:023][535]LogWorld: Bringing up level for play took: 0.000952
+[2021.09.16-02.31.15:025][535]LogLoad: Took 0.023789 seconds to LoadMap(/Game/FeedTheTeddies/Maps/Gameplay)

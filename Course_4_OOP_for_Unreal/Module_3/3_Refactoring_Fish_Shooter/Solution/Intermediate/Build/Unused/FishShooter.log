@@ -1,0 +1,19 @@
+﻿  Parsing headers for FishShooterEditor
+    Running UnrealHeaderTool "C:\Users\timch\Documents\Unreal Projects\FishShooter\FishShooter.uproject" "C:\Users\timch\Documents\Unreal Projects\FishShooter\Intermediate\Build\Win64\FishShooterEditor\Development\FishShooterEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\timch\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  Reflection code generated for FishShooterEditor in 4.1845523 seconds
+  Building FishShooterEditor...
+  Using Visual Studio 2019 14.29.30133 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 9 actions with 8 processes...
+    [1/9] FishShooter.init.gen.cpp
+    [2/9] GameHUD.gen.cpp
+    [3/9] EventManagerActor.gen.cpp
+    [4/9] GameHUD.cpp
+    [5/9] EventManagerActor.cpp
+    [6/9] TeddyBear.cpp
+    [7/9] UE4Editor-FishShooter-0008.lib
+       Creating library C:\Users\timch\Documents\Unreal Projects\FishShooter\Intermediate\Build\Win64\UE4Editor\Development\FishShooter\UE4Editor-FishShooter-0008.lib and object C:\Users\timch\Documents\Unreal Projects\FishShooter\Intermediate\Build\Win64\UE4Editor\Development\FishShooter\UE4Editor-FishShooter-0008.exp
+    [8/9] UE4Editor-FishShooter-0008.dll
+       Creating library C:\Users\timch\Documents\Unreal Projects\FishShooter\Intermediate\Build\Win64\UE4Editor\Development\FishShooter\UE4Editor-FishShooter-0008.suppressed.lib and object C:\Users\timch\Documents\Unreal Projects\FishShooter\Intermediate\Build\Win64\UE4Editor\Development\FishShooter\UE4Editor-FishShooter-0008.suppressed.exp
+    [9/9] FishShooterEditor.target
+  Total time in Parallel executor: 3.83 seconds
+  Total execution time: 9.09 seconds
